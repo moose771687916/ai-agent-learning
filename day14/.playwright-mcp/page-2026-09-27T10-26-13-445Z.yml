@@ -1,0 +1,1044 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link "首页" [ref=e8] [cursor=pointer]:
+        - /url: //www.bilibili.com
+      - link "番剧" [ref=e17] [cursor=pointer]:
+        - /url: //www.bilibili.com/anime/
+      - link "直播" [ref=e20] [cursor=pointer]:
+        - /url: //live.bilibili.com
+      - link "游戏中心" [ref=e24] [cursor=pointer]:
+        - /url: //game.bilibili.com/platform
+      - link "会员购" [ref=e27] [cursor=pointer]:
+        - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+      - link "漫画" [ref=e30] [cursor=pointer]:
+        - /url: //manga.bilibili.com?from=bill_top_mnav
+      - link "赛事" [active] [ref=e33] [cursor=pointer]:
+        - /url: https://www.bilibili.com/match/home/?spm_id_from=333.337.0.0
+      - link [ref=e37] [cursor=pointer]:
+        - /url: https://live.bilibili.com/22908869
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: VCT
+          - paragraph [ref=e40]:
+            - img "图片" [ref=e41]
+          - paragraph [ref=e42]: VCT
+      - link "下载客户端" [ref=e44] [cursor=pointer]:
+        - /url: //app.bilibili.com/
+    - generic [ref=e50]:
+      - generic [ref=e51]: 登录
+      - link "大会员" [ref=e57] [cursor=pointer]:
+        - /url: //account.bilibili.com/big
+      - generic [ref=e64]: 消息
+      - generic [ref=e70]: 动态
+      - generic [ref=e79]: 收藏
+      - generic [ref=e85]: 历史
+      - generic [ref=e90]: 创作中心
+      - generic [ref=e97]: 投稿
+  - generic [ref=e106]:
+    - generic [ref=e107]:
+      - generic [ref=e111]:
+        - img [ref=e115] [cursor=pointer]
+        - textbox "输入关键字搜索" [ref=e117]: 每日新闻
+        - button "搜索" [ref=e118] [cursor=pointer]
+      - navigation [ref=e121]:
+        - list [ref=e122]:
+          - listitem [ref=e123]:
+            - generic [ref=e124] [cursor=pointer]: 综合
+          - listitem [ref=e126]:
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e128]: 视频
+              - generic [ref=e129]: 99+
+          - listitem [ref=e130]:
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e132]: 番剧
+              - generic [ref=e133]: "0"
+          - listitem [ref=e134]:
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e136]: 影视
+              - generic [ref=e137]: "0"
+          - listitem [ref=e138]:
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e140]: 直播
+              - generic [ref=e141]: "2"
+          - listitem [ref=e142]:
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e144]: 专栏
+              - generic [ref=e145]: 99+
+          - listitem [ref=e146]:
+            - generic [ref=e147] [cursor=pointer]:
+              - generic [ref=e148]: 用户
+              - generic [ref=e149]: "2"
+      - separator [ref=e151]
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - button "综合排序" [ref=e156] [cursor=pointer]
+          - button "最多播放" [ref=e157] [cursor=pointer]
+          - button "最新发布" [ref=e158] [cursor=pointer]
+          - button "最多弹幕" [ref=e159] [cursor=pointer]
+          - button "最多收藏" [ref=e160] [cursor=pointer]
+        - button "更多筛选" [ref=e161] [cursor=pointer]
+    - generic [ref=e167]:
+      - generic [ref=e169]:
+        - generic [ref=e172]:
+          - link [ref=e173] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV17sa46XEBS/
+            - generic [ref=e174]:
+              - img "2026年9月27日每日热点新闻资讯" [ref=e177]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "503"
+                    - generic: "0"
+                  - generic: 38:29
+          - generic [ref=e179]:
+            - link [ref=e180] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV17sa46XEBS/
+              - heading "2026年9月27日每日热点新闻资讯" [level=3] [ref=e181]
+            - link "闲鼠-悟道 · 8小时前" [ref=e183] [cursor=pointer]:
+              - /url: //space.bilibili.com/3706927791999428
+              - generic [ref=e188]: 闲鼠-悟道
+              - generic [ref=e189]: · 8小时前
+        - generic [ref=e192]:
+          - link [ref=e1110] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1zwhy6BEf1/
+            - generic [ref=e194]:
+              - generic [ref=e195]:
+                - img "【完整版·中秋节特别放送】央视新闻频道15点档特别节目《月满金秋》2026年9月25日（首期）【张安琪 陈怡博】（无字幕和章节）" [ref=e198]
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "哔哩哔哩播放器":
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: 高一七班孔若溪来了
+                              - generic: 高一七班曹林严肃观看
+                              - generic: 孔若溪是我妹妹
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: 00:00
+                                - generic: /
+                                - generic: 57:20
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "4878"
+                    - generic: "4"
+                  - generic: 57:20
+          - generic [ref=e200]:
+            - link [ref=e201] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1zwhy6BEf1/
+              - heading "【完整版·中秋节特别放送】央视新闻频道15点档特别节目《月满金秋》2026年9月25日（首期）【张安琪 陈怡博】（无字幕和章节）" [level=3] [ref=e202]
+            - link "敢于奋斗的小董同学 · 2天前" [ref=e204] [cursor=pointer]:
+              - /url: //space.bilibili.com/701263800
+              - generic [ref=e209]: 敢于奋斗的小董同学
+              - generic [ref=e210]: · 2天前
+        - generic [ref=e213]:
+          - link [ref=e214] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5647%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCOGH%2Fh8QrJ%2FE1QIY%2F%2BK6xQ0gPSgBMLXxkgI4jyxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKA5gAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABPagBA7IBIBlm1kYyeoExtORURYobvZWVVkUky4RtA104vpfWbAMkugHcA2h0dHBzOi8vd3d3LmRvdWJhby5jb20vd29yay8%2FdWdfYXBrX3Rva2VuPUZER3JiJmFkX3BsYXRmb3JtX2lkPWJpbGliaWxpX2xlYWQmdHJhY2tfaWQ9cGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMXhDRzhFaE55X3B4N0poRkFWd1RhRDNIVFFHR0dPYkxJcXpHN0pEcHVfeWRFakxWSktTTDdxSHEtSndzOWRGcUt6bHIxVFJOQ1pzM3ZUcndJTndPSy1sQ3pndlZVcmRLQ0pKWi1MMEZXRXlkZTg5QW9BaEF5dHJwQ1lpZjc3QXdRJnVnX3NlbXZlcj12MS4wLjAmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY0NyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mcmVxdWVzdF9pZD0xNzkwNTA0NjYwNzMxcTEwYTg4YTg0YTc5cTMzOSZjcmVhdGl2ZV9pZD0zNTc0NzY1MjIwJmxpbmtlZF9jcmVhdGl2ZV9pZD0zNjM1MzI3MzU5wgEBMNIBANgBygPgAYCU69wD6AGgnAHwAQD4AT2AAgSIAgCSAgCYAs1ioAIWqALrL7ACEbgCAMAC4KcSyAK7AeoCAPgC1KQDiAMAkgMAqAMAsAMAuAMAyAMA0gPLAXsiMSI6IjM2MzUzMjczNTkiLCIxMiI6IjU2NDciLCIxMyI6IjE5ODM0NTIiLCIxNiI6IjE5ODM0NTJfNTM4NDQiLCIyIjoiNDUwMzczMyIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjI4IjoiYjkzMTUxYjYyNzc1ODU1MmZkZjIxMWFhZDkyZTc1ZTgiLCIzIjoiNDUwMzczMyIsIjQiOiIxMDM4IiwiNSI6IjIzMTEiLCI2IjoiNDUwMzczMyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBD2QBACYBAGgBAGqBAsI97nJ%2B9TfxgMQBKoEBwj1%2BPRfEAG4BArABALKBADQBADYBADiBKQCNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQU1Lb085SjlDZmtPaS1WTlBrUjFUMVkxSXd5V2I0cTdFOTlZeXVOVlNHb1NKUDlvcERseDludUV2UlhzalpOaWhPS0thRjRhWk5DTGhLbjZYTFpXQ3R3ZWd2bTVxTmwxa3pvN0J1U09YS3VCUTUweUF2dWVWV3hoRGYxaTY0NHFjWDNoLWU3T0F0cU1MM3kyMkNfekFrVHhzTG83RkZmTVF3VHRLZEhrVUt0R1J6ZVlMLUt2WmdqNUVvaGhjM2hVNDFwVlYxS0ZXMUQyOEEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBcFNMIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEqwZ7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYWR2dl9pbmZvIjoie1wiYWRqdXN0X2JlZm9yZV9jb3N0XCI6XCI2MS4wMzVcIixcImFkanVzdF9yYXRpb1wiOlwiMS4wMDBcIixcImJhbGFuY2VyX2lkXCI6MCxcImJhbGFuY2VyX3JhdGlvXCI6XCIwLjAwMFwiLFwiY2hhcmdlX2V4cF9rZXlfZGVwdGhcIjpcIlwiLFwiY2hhcmdlX2V4cF9rZXlfbGlnaHRcIjpcIl9mbHlfY3BhX29ubGluZV9jaGFyZ2U4XCIsXCJjb3N0X2RpZmZcIjpcIjAuMDAwXCJ9IiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxMiwiYml6X3R5cGVfZml4IjozLCJib29zdF9pbmZvIjoie1wiYmlkXCI6NjEsXCJib29zdF9iaWRcIjowLFwiY29zdFwiOjAuNTk3Mzk0MTY4Mzc2OTIyNixcImlkXCI6MTA5NjY5LFwib3JpX2JpZFwiOjYxLFwic2NvcmVcIjpcIjEuMDZcIn0iLCJjcGEiOiJ7XCJjcGFfbGV2ZWxcIjo5OSxcImNwYV9zZXRcIjowfSIsImNwYVRhcmdldFR5cGUiOjIsImZyb21UcmFja2lkIjoiMTM0ODgzMTA3Nzc0NTgyNzcxODYiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMi42Njk0NDBcIixcImN2cl9sMFwiOlwiMTU1Ljk1MDkyOFwiLFwiZmluYWxfcGN0clwiOlwiMy4yMDMzMjhcIixcImZpbmFsX3BjdnJcIjpcIjE4Ny4xMDYzMDhcIn0iLCJ2aWRlb191cF9taWQiOjB9gAUAkAUokAVDkAVJkAXXAZAFiQKQBY4CkAWaApAFqQKQBaoCkAXAApAFwgKQBcMCkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX%2FApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFsAOQBbYDkAW3A5AFwAOQBcEDkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAXGBZAF7wWQBcQHkAXUB5AF8AeQBfkHkAWBCJAFoRGQBcgRkAXWEZAF%2BxGgBQC4BQLABdyHecgFA%2BAFBOgFAPIFhAFDQXdRQVRBQ1ZkY2pkRUpsTnhzN1EyMEFRQnhHZFFBQWdEOTkwKzRZUDVVQmNQTWJRNkFCK282Znp3S29BYVN0eXFnTnNBRUJ3QUhFRThnQkF1MEJBQUNBUC9VQkFBQ0FQNTBDQUFBQVFLVUN3L1VJUUswQ0FBQ0FQN1VDdy9VSVFBPT34BfqOn88CgAb%2Fk%2BvcA4gGpK3KqA2QBgSYBgaoBvqOn88C%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663101%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3635327359%2Cp%7Cad_card&ts=1790504663101
+            - generic [ref=e215]:
+              - img "智能对话工具助力资讯抓取，豆包工作全天候监控" [ref=e218]
+              - generic: 广告
+          - generic [ref=e220]:
+            - link [ref=e221] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5647%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCOGH%2Fh8QrJ%2FE1QIY%2F%2BK6xQ0gPSgBMLXxkgI4jyxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKA5gAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABPagBA7IBIBlm1kYyeoExtORURYobvZWVVkUky4RtA104vpfWbAMkugHcA2h0dHBzOi8vd3d3LmRvdWJhby5jb20vd29yay8%2FdWdfYXBrX3Rva2VuPUZER3JiJmFkX3BsYXRmb3JtX2lkPWJpbGliaWxpX2xlYWQmdHJhY2tfaWQ9cGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMXhDRzhFaE55X3B4N0poRkFWd1RhRDNIVFFHR0dPYkxJcXpHN0pEcHVfeWRFakxWSktTTDdxSHEtSndzOWRGcUt6bHIxVFJOQ1pzM3ZUcndJTndPSy1sQ3pndlZVcmRLQ0pKWi1MMEZXRXlkZTg5QW9BaEF5dHJwQ1lpZjc3QXdRJnVnX3NlbXZlcj12MS4wLjAmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY0NyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mcmVxdWVzdF9pZD0xNzkwNTA0NjYwNzMxcTEwYTg4YTg0YTc5cTMzOSZjcmVhdGl2ZV9pZD0zNTc0NzY1MjIwJmxpbmtlZF9jcmVhdGl2ZV9pZD0zNjM1MzI3MzU5wgEBMNIBANgBygPgAYCU69wD6AGgnAHwAQD4AT2AAgSIAgCSAgCYAs1ioAIWqALrL7ACEbgCAMAC4KcSyAK7AeoCAPgC1KQDiAMAkgMAqAMAsAMAuAMAyAMA0gPLAXsiMSI6IjM2MzUzMjczNTkiLCIxMiI6IjU2NDciLCIxMyI6IjE5ODM0NTIiLCIxNiI6IjE5ODM0NTJfNTM4NDQiLCIyIjoiNDUwMzczMyIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjI4IjoiYjkzMTUxYjYyNzc1ODU1MmZkZjIxMWFhZDkyZTc1ZTgiLCIzIjoiNDUwMzczMyIsIjQiOiIxMDM4IiwiNSI6IjIzMTEiLCI2IjoiNDUwMzczMyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBD2QBACYBAGgBAGqBAsI97nJ%2B9TfxgMQBKoEBwj1%2BPRfEAG4BArABALKBADQBADYBADiBKQCNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQU1Lb085SjlDZmtPaS1WTlBrUjFUMVkxSXd5V2I0cTdFOTlZeXVOVlNHb1NKUDlvcERseDludUV2UlhzalpOaWhPS0thRjRhWk5DTGhLbjZYTFpXQ3R3ZWd2bTVxTmwxa3pvN0J1U09YS3VCUTUweUF2dWVWV3hoRGYxaTY0NHFjWDNoLWU3T0F0cU1MM3kyMkNfekFrVHhzTG83RkZmTVF3VHRLZEhrVUt0R1J6ZVlMLUt2WmdqNUVvaGhjM2hVNDFwVlYxS0ZXMUQyOEEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBcFNMIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEqwZ7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYWR2dl9pbmZvIjoie1wiYWRqdXN0X2JlZm9yZV9jb3N0XCI6XCI2MS4wMzVcIixcImFkanVzdF9yYXRpb1wiOlwiMS4wMDBcIixcImJhbGFuY2VyX2lkXCI6MCxcImJhbGFuY2VyX3JhdGlvXCI6XCIwLjAwMFwiLFwiY2hhcmdlX2V4cF9rZXlfZGVwdGhcIjpcIlwiLFwiY2hhcmdlX2V4cF9rZXlfbGlnaHRcIjpcIl9mbHlfY3BhX29ubGluZV9jaGFyZ2U4XCIsXCJjb3N0X2RpZmZcIjpcIjAuMDAwXCJ9IiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxMiwiYml6X3R5cGVfZml4IjozLCJib29zdF9pbmZvIjoie1wiYmlkXCI6NjEsXCJib29zdF9iaWRcIjowLFwiY29zdFwiOjAuNTk3Mzk0MTY4Mzc2OTIyNixcImlkXCI6MTA5NjY5LFwib3JpX2JpZFwiOjYxLFwic2NvcmVcIjpcIjEuMDZcIn0iLCJjcGEiOiJ7XCJjcGFfbGV2ZWxcIjo5OSxcImNwYV9zZXRcIjowfSIsImNwYVRhcmdldFR5cGUiOjIsImZyb21UcmFja2lkIjoiMTM0ODgzMTA3Nzc0NTgyNzcxODYiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMi42Njk0NDBcIixcImN2cl9sMFwiOlwiMTU1Ljk1MDkyOFwiLFwiZmluYWxfcGN0clwiOlwiMy4yMDMzMjhcIixcImZpbmFsX3BjdnJcIjpcIjE4Ny4xMDYzMDhcIn0iLCJ2aWRlb191cF9taWQiOjB9gAUAkAUokAVDkAVJkAXXAZAFiQKQBY4CkAWaApAFqQKQBaoCkAXAApAFwgKQBcMCkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX%2FApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFsAOQBbYDkAW3A5AFwAOQBcEDkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAXGBZAF7wWQBcQHkAXUB5AF8AeQBfkHkAWBCJAFoRGQBcgRkAXWEZAF%2BxGgBQC4BQLABdyHecgFA%2BAFBOgFAPIFhAFDQXdRQVRBQ1ZkY2pkRUpsTnhzN1EyMEFRQnhHZFFBQWdEOTkwKzRZUDVVQmNQTWJRNkFCK282Znp3S29BYVN0eXFnTnNBRUJ3QUhFRThnQkF1MEJBQUNBUC9VQkFBQ0FQNTBDQUFBQVFLVUN3L1VJUUswQ0FBQ0FQN1VDdy9VSVFBPT34BfqOn88CgAb%2Fk%2BvcA4gGpK3KqA2QBgSYBgaoBvqOn88C%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663101%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3635327359%2Cp%7Cad_card&ts=1790504663101
+              - heading "智能对话工具助力资讯抓取，豆包工作全天候监控" [level=3] [ref=e222]
+            - link "豆包工作" [ref=e224] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5647%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCOGH%2Fh8QrJ%2FE1QIY%2F%2BK6xQ0gPSgBMLXxkgI4jyxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKA5gAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABPagBA7IBIBlm1kYyeoExtORURYobvZWVVkUky4RtA104vpfWbAMkugHcA2h0dHBzOi8vd3d3LmRvdWJhby5jb20vd29yay8%2FdWdfYXBrX3Rva2VuPUZER3JiJmFkX3BsYXRmb3JtX2lkPWJpbGliaWxpX2xlYWQmdHJhY2tfaWQ9cGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMXhDRzhFaE55X3B4N0poRkFWd1RhRDNIVFFHR0dPYkxJcXpHN0pEcHVfeWRFakxWSktTTDdxSHEtSndzOWRGcUt6bHIxVFJOQ1pzM3ZUcndJTndPSy1sQ3pndlZVcmRLQ0pKWi1MMEZXRXlkZTg5QW9BaEF5dHJwQ1lpZjc3QXdRJnVnX3NlbXZlcj12MS4wLjAmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY0NyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mcmVxdWVzdF9pZD0xNzkwNTA0NjYwNzMxcTEwYTg4YTg0YTc5cTMzOSZjcmVhdGl2ZV9pZD0zNTc0NzY1MjIwJmxpbmtlZF9jcmVhdGl2ZV9pZD0zNjM1MzI3MzU5wgEBMNIBANgBygPgAYCU69wD6AGgnAHwAQD4AT2AAgSIAgCSAgCYAs1ioAIWqALrL7ACEbgCAMAC4KcSyAK7AeoCAPgC1KQDiAMAkgMAqAMAsAMAuAMAyAMA0gPLAXsiMSI6IjM2MzUzMjczNTkiLCIxMiI6IjU2NDciLCIxMyI6IjE5ODM0NTIiLCIxNiI6IjE5ODM0NTJfNTM4NDQiLCIyIjoiNDUwMzczMyIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjI4IjoiYjkzMTUxYjYyNzc1ODU1MmZkZjIxMWFhZDkyZTc1ZTgiLCIzIjoiNDUwMzczMyIsIjQiOiIxMDM4IiwiNSI6IjIzMTEiLCI2IjoiNDUwMzczMyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBD2QBACYBAGgBAGqBAsI97nJ%2B9TfxgMQBKoEBwj1%2BPRfEAG4BArABALKBADQBADYBADiBKQCNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQU1Lb085SjlDZmtPaS1WTlBrUjFUMVkxSXd5V2I0cTdFOTlZeXVOVlNHb1NKUDlvcERseDludUV2UlhzalpOaWhPS0thRjRhWk5DTGhLbjZYTFpXQ3R3ZWd2bTVxTmwxa3pvN0J1U09YS3VCUTUweUF2dWVWV3hoRGYxaTY0NHFjWDNoLWU3T0F0cU1MM3kyMkNfekFrVHhzTG83RkZmTVF3VHRLZEhrVUt0R1J6ZVlMLUt2WmdqNUVvaGhjM2hVNDFwVlYxS0ZXMUQyOEEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBcFNMIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEqwZ7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYWR2dl9pbmZvIjoie1wiYWRqdXN0X2JlZm9yZV9jb3N0XCI6XCI2MS4wMzVcIixcImFkanVzdF9yYXRpb1wiOlwiMS4wMDBcIixcImJhbGFuY2VyX2lkXCI6MCxcImJhbGFuY2VyX3JhdGlvXCI6XCIwLjAwMFwiLFwiY2hhcmdlX2V4cF9rZXlfZGVwdGhcIjpcIlwiLFwiY2hhcmdlX2V4cF9rZXlfbGlnaHRcIjpcIl9mbHlfY3BhX29ubGluZV9jaGFyZ2U4XCIsXCJjb3N0X2RpZmZcIjpcIjAuMDAwXCJ9IiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxMiwiYml6X3R5cGVfZml4IjozLCJib29zdF9pbmZvIjoie1wiYmlkXCI6NjEsXCJib29zdF9iaWRcIjowLFwiY29zdFwiOjAuNTk3Mzk0MTY4Mzc2OTIyNixcImlkXCI6MTA5NjY5LFwib3JpX2JpZFwiOjYxLFwic2NvcmVcIjpcIjEuMDZcIn0iLCJjcGEiOiJ7XCJjcGFfbGV2ZWxcIjo5OSxcImNwYV9zZXRcIjowfSIsImNwYVRhcmdldFR5cGUiOjIsImZyb21UcmFja2lkIjoiMTM0ODgzMTA3Nzc0NTgyNzcxODYiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMi42Njk0NDBcIixcImN2cl9sMFwiOlwiMTU1Ljk1MDkyOFwiLFwiZmluYWxfcGN0clwiOlwiMy4yMDMzMjhcIixcImZpbmFsX3BjdnJcIjpcIjE4Ny4xMDYzMDhcIn0iLCJ2aWRlb191cF9taWQiOjB9gAUAkAUokAVDkAVJkAXXAZAFiQKQBY4CkAWaApAFqQKQBaoCkAXAApAFwgKQBcMCkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX%2FApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFsAOQBbYDkAW3A5AFwAOQBcEDkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAXGBZAF7wWQBcQHkAXUB5AF8AeQBfkHkAWBCJAFoRGQBcgRkAXWEZAF%2BxGgBQC4BQLABdyHecgFA%2BAFBOgFAPIFhAFDQXdRQVRBQ1ZkY2pkRUpsTnhzN1EyMEFRQnhHZFFBQWdEOTkwKzRZUDVVQmNQTWJRNkFCK282Znp3S29BYVN0eXFnTnNBRUJ3QUhFRThnQkF1MEJBQUNBUC9VQkFBQ0FQNTBDQUFBQVFLVUN3L1VJUUswQ0FBQ0FQN1VDdy9VSVFBPT34BfqOn88CgAb%2Fk%2BvcA4gGpK3KqA2QBgSYBgaoBvqOn88C%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663101%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3635327359%2Cp%7Cad_logo&ts=1790504663101
+        - generic [ref=e228]:
+          - link [ref=e229] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1ZCh96hEpD/
+            - generic [ref=e230]:
+              - generic [ref=e231]:
+                - img "【完整版】《新闻联播》2026年9月26日（中秋假第二天&amp;结束访美）【主播：宝晓峰、潘涛】（中间字幕为AI识别，仅参考）" [ref=e233]
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "哔哩哔哩播放器":
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: 00:00
+                                - generic: /
+                                - generic: 30:06
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "2998"
+                    - generic: "0"
+                  - generic: 30:06
+          - generic [ref=e235]:
+            - link [ref=e236] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1ZCh96hEpD/
+              - heading "【完整版】《新闻联播》2026年9月26日（中秋假第二天&结束访美）【主播：宝晓峰、潘涛】（中间字幕为AI识别，仅参考）" [level=3] [ref=e237]
+            - link "敢于奋斗的小董同学 · 22小时前" [ref=e239] [cursor=pointer]:
+              - /url: //space.bilibili.com/701263800
+              - generic [ref=e244]: 敢于奋斗的小董同学
+              - generic [ref=e245]: · 22小时前
+        - generic [ref=e248]:
+          - link [ref=e249] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1hyh16ZEmV/
+            - generic [ref=e250]:
+              - img "9月26号一觉醒来发生了什么，6分钟听完25条新闻速递！" [ref=e253]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "7124"
+                    - generic: "1"
+                  - generic: 15:29
+          - generic [ref=e255]:
+            - link [ref=e256] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1hyh16ZEmV/
+              - heading "9月26号一觉醒来发生了什么，6分钟听完25条新闻速递！" [level=3] [ref=e257]
+            - link "眼_界 · 昨天" [ref=e259] [cursor=pointer]:
+              - /url: //space.bilibili.com/53808393
+              - generic [ref=e264]: 眼_界
+              - generic [ref=e265]: · 昨天
+        - generic [ref=e268]:
+          - link [ref=e269] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1XJhd6REGE/
+            - generic [ref=e270]:
+              - img "【B站最稳更新】BBC新闻 20260927 | BBC News | 英语半小时磨耳朵" [ref=e273]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "7521"
+                    - generic: "3"
+                  - generic: 27:31
+          - generic [ref=e275]:
+            - link [ref=e276] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1XJhd6REGE/
+              - heading "【B站最稳更新】BBC新闻 20260927 | BBC News | 英语半小时磨耳朵" [level=3] [ref=e277]
+            - link "英语半小时 · 11小时前" [ref=e279] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546836136626493
+              - generic [ref=e284]: 英语半小时
+              - generic [ref=e285]: · 11小时前
+        - generic [ref=e288]:
+          - link [ref=e289] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV16yhd6BE4i/
+            - generic [ref=e290]:
+              - img "9月27号一觉醒来发生了什么，6分钟听完28条新闻速递！" [ref=e293]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "3042"
+                    - generic: "0"
+                  - generic: 17:51
+          - generic [ref=e295]:
+            - link [ref=e296] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV16yhd6BE4i/
+              - heading "9月27号一觉醒来发生了什么，6分钟听完28条新闻速递！" [level=3] [ref=e297]
+            - link "眼_界 · 15小时前" [ref=e299] [cursor=pointer]:
+              - /url: //space.bilibili.com/53808393
+              - generic [ref=e304]: 眼_界
+              - generic [ref=e305]: · 15小时前
+        - generic [ref=e308]:
+          - link [ref=e309] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1qYh16KE54/
+            - generic [ref=e310]:
+              - img "【B站最稳更新】BBC新闻 20260926 | BBC News | 英语半小时磨耳朵" [ref=e313]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.2万
+                    - generic: "30"
+                  - generic: 26:38
+          - generic [ref=e315]:
+            - link [ref=e316] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1qYh16KE54/
+              - heading "【B站最稳更新】BBC新闻 20260926 | BBC News | 英语半小时磨耳朵" [level=3] [ref=e317]
+            - link "英语半小时 · 昨天" [ref=e319] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546836136626493
+              - generic [ref=e324]: 英语半小时
+              - generic [ref=e325]: · 昨天
+        - generic [ref=e328]:
+          - link [ref=e329] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV12bhH6DEU9/
+            - generic [ref=e330]:
+              - img "《新闻联播》一周复盘解读（9月14日—9月20日）" [ref=e333]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "8996"
+                    - generic: "2"
+                  - generic: 24:52
+          - generic [ref=e335]:
+            - link [ref=e336] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV12bhH6DEU9/
+              - heading "《新闻联播》一周复盘解读（9月14日—9月20日）" [level=3] [ref=e337]
+            - link "原点公社 · 9月22日" [ref=e339] [cursor=pointer]:
+              - /url: //space.bilibili.com/385654465
+              - generic [ref=e344]: 原点公社
+              - generic [ref=e345]: · 9月22日
+        - generic [ref=e348]:
+          - link [ref=e349] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV18Aho6xE4N/
+            - generic [ref=e350]:
+              - generic [ref=e351]:
+                - img "【完整版】《新闻周刊》2026年9月26日（中秋假第二天）【主持人：白岩松】（字幕为自动识别，仅供参考）" [ref=e353]
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "哔哩哔哩播放器":
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: 00:00
+                                - generic: /
+                                - generic: 43:52
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "5001"
+                    - generic: "443"
+                  - generic: 43:52
+          - generic [ref=e355]:
+            - link [ref=e356] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV18Aho6xE4N/
+              - heading "【完整版】《新闻周刊》2026年9月26日（中秋假第二天）【主持人：白岩松】（字幕为自动识别，仅供参考）" [level=3] [ref=e357]
+            - link "敢于奋斗的小董同学 · 18小时前" [ref=e359] [cursor=pointer]:
+              - /url: //space.bilibili.com/701263800
+              - generic [ref=e364]: 敢于奋斗的小董同学
+              - generic [ref=e365]: · 18小时前
+        - generic [ref=e368]:
+          - link [ref=e369] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1K1as6hEKC/
+            - generic [ref=e370]:
+              - img "9月27日《新闻联播》要点解读及政策动向。" [ref=e373]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "2120"
+                    - generic: "0"
+                  - generic: 02:32
+          - generic [ref=e375]:
+            - link [ref=e376] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1K1as6hEKC/
+              - heading "9月27日《新闻联播》要点解读及政策动向。" [level=3] [ref=e377]
+            - link "信息差猎手 · 11小时前" [ref=e379] [cursor=pointer]:
+              - /url: //space.bilibili.com/491155397
+              - generic [ref=e384]: 信息差猎手
+              - generic [ref=e385]: · 11小时前
+        - generic [ref=e388]:
+          - link [ref=e389] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1adax6kEpE/
+            - generic [ref=e390]:
+              - img "新闻周刊丨AI监管，“越界”事件发生后……" [ref=e393]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1万
+                    - generic: "37"
+                  - generic: 21:04
+          - generic [ref=e395]:
+            - link [ref=e396] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1adax6kEpE/
+              - heading "新闻周刊丨AI监管，“越界”事件发生后……" [level=3] [ref=e397]
+            - link "央视网 · 8小时前" [ref=e399] [cursor=pointer]:
+              - /url: //space.bilibili.com/222103174
+              - generic [ref=e404]: 央视网
+              - generic [ref=e405]: · 8小时前
+        - generic [ref=e408]:
+          - link [ref=e409] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5652%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCOWktyAQtrK31wIY1oWNyQ0gOigBMN7B%2BgE4lCxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABOqgBS7IBIJwoc3JO8pzTnqgY86OtiIj87OQHe%2FF8KnyHgeEcmv2sugHHA2h0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby9CVjF3V1hkQmZFeDY%2FdHJhY2tpZD0xMzQ4ODMxMDc3NzQ1ODI3NzE4NiZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxeENHOEVoTnlfcHg3SmhGQVZ3VGFEM0hUUUdHR09iTElxekc3SkRwdV95ZnF5dTBZVjV0MUQ4OGM0YlF6X3NBSy1YTFdDWlQtS2FpMk1mVHlpRFR4UXhObGUxZ0l1bnBxSzJEVDV3UFZ0Ny01T24zS0tMQVNtMEg4SGprLW16eHomY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MiZyZXF1ZXN0X2lkPTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5JmZyb21fc3BtaWQ9X19GUk9NU1BNSURfXyZjcmVhdGl2ZV9pZD0zNjQyOTQ3MzM2JmxpbmtlZF9jcmVhdGl2ZV9pZD0zNjQyOTY2NzQywgEBMNIBANgBsgLwAQD4ATqAAkCIAgCSAgCYAsAeoAIkqALAHrACJLgCAMACAMgCkE7QAogn2AKIJ%2BoCAPgCAIgDAJIDAJoDDTE3OTA2MTExOTk5OTmgAwGoAwCwAwC4AwDIAwDSA%2FYBeyIxIjoiMzY0Mjk2Njc0MiIsIjExIjoiMTM3IiwiMTIiOiI1NjUyIiwiMTMiOiIzMzUzMTEwIiwiMTYiOiIzMzUzMTEwXzAiLCIyIjoiNDEwNDQxNCIsIjI0IjoiMSIsIjI1IjoiMTEyNiIsIjI2IjoiMTEyNyIsIjI4IjoiNjg4OTg2ZWJjOTk0MjI3NjlhNTk4Njk2Yjc3NjkyOTciLCIzIjoiNDEwNDQxNCIsIjQiOiIxMTI2IiwiNSI6IjExMjciLCI2IjoiNDEwNDQxNCIsIjciOiIxMTYzMTQ0MDg0ODcwODIiLCI4IjoiMTQ0ODcxNCJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBDqQBACgBAOqBAcI8cXPQxAEqgQHCPDFz0MQALgEAMAECcoEANAEANgEAOIEpAI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJBTUtvTzlKOUNma09pLVZOUGtSMVQxWTFJd3lXYjRxN0U5OVl5dU5WU0dvU0pQOW9wRGx4OW51RXZSWHNqWk5paE9LS2FGNGFaTkNMaEtuNlhMWldDdHdlZ3ZtNXFObDFrem83QnVTT1hLdUJRNTB5QXZ1ZVZXeGhEZjFpNjQ0cWNYM2gtZTdPQXRxTUwzeTIyQ196QWtUeHNMbzdGRmZNUXdUdEtkSGtVS3RHUnplWUwtS3ZaZ2o1RW9oaGMzaFU0MXBWVjFLRlcxRDI4QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkFwU0wifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgSzBHsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuMCwiYWNjZWxlcmF0ZV9pZCI6MCwiYWRfdHlwZV9maXgiOiJjcG0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEsImJpel90eXBlX2ZpeCI6MywiYm9vc3RfaW5mbyI6IntcImJpZFwiOjU4LFwiYm9vc3RfYmlkXCI6MCxcImNvc3RcIjowLjU4MTU2NjgxMDYwNzkxMDIsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo1OCxcInNjb3JlXCI6XCIxLjA1XCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjEzNDg4MzEwNzc3NDU4Mjc3MTg2IiwiaWFhX2NoZWF0X2Zsb3ciOjAsImlubmVyIjowLCJpc19vY3BjX2FudG91X29jcG0iOjAsImlzX3RyYWNraW5nX3VybHMiOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjQ2LjQ4MTU4M1wiLFwiZmluYWxfcGN0clwiOlwiNzUuNzUwMDA4XCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjE0NDg3MTR9gAUAkAUokAUzkAU5kAVDkAVIkAVJkAVykAXQAZAF0QGQBdcBkAWOApAFmgKQBcACkAXCApAFwwKQBcUCkAXLApAFzgKQBdMCkAXWApAF1wKQBdgCkAXZApAF2gKQBd8CkAXwApAF9QKQBfsCkAX%2FApAFlAOQBaADkAWlA5AFpwOQBbADkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAW0BJAFxgWQBe8FkAWmBpAFgQiQBbARoAWqkYD4mLkauAUJwAWW1MwByAUD4AUB6AUA8gV0Q0FFUUFUQUpaUUJBSEVadEFFQWNSblVBQUlBL2ZaRGhGRCtnQWMrV3Q5Y0NxQUdJN292SkRiQUJBYmdCQWNnQkNlMEJBQUNBUC9VQkFBQ0FQNTBDQUFDQVA2VUN3L1dJUDYwQ0FBQ0FQN1VDdy9XSVB3PT34Bc%2BWt9cCgAaIJ4gGiO6LyQ2QBgSYBgaoBs%2BWt9cC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663101%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3642966742%2Cp%7Cad_card&ts=1790504663101
+            - generic [ref=e410]:
+              - img "中站澄清为何发了又删？泰星Pavel对华立场相关争议完整时间线" [ref=e413]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 4.9万
+                    - generic: "18"
+          - generic [ref=e415]:
+            - link [ref=e416] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5652%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCOWktyAQtrK31wIY1oWNyQ0gOigBMN7B%2BgE4lCxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABOqgBS7IBIJwoc3JO8pzTnqgY86OtiIj87OQHe%2FF8KnyHgeEcmv2sugHHA2h0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby9CVjF3V1hkQmZFeDY%2FdHJhY2tpZD0xMzQ4ODMxMDc3NzQ1ODI3NzE4NiZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxeENHOEVoTnlfcHg3SmhGQVZ3VGFEM0hUUUdHR09iTElxekc3SkRwdV95ZnF5dTBZVjV0MUQ4OGM0YlF6X3NBSy1YTFdDWlQtS2FpMk1mVHlpRFR4UXhObGUxZ0l1bnBxSzJEVDV3UFZ0Ny01T24zS0tMQVNtMEg4SGprLW16eHomY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MiZyZXF1ZXN0X2lkPTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5JmZyb21fc3BtaWQ9X19GUk9NU1BNSURfXyZjcmVhdGl2ZV9pZD0zNjQyOTQ3MzM2JmxpbmtlZF9jcmVhdGl2ZV9pZD0zNjQyOTY2NzQywgEBMNIBANgBsgLwAQD4ATqAAkCIAgCSAgCYAsAeoAIkqALAHrACJLgCAMACAMgCkE7QAogn2AKIJ%2BoCAPgCAIgDAJIDAJoDDTE3OTA2MTExOTk5OTmgAwGoAwCwAwC4AwDIAwDSA%2FYBeyIxIjoiMzY0Mjk2Njc0MiIsIjExIjoiMTM3IiwiMTIiOiI1NjUyIiwiMTMiOiIzMzUzMTEwIiwiMTYiOiIzMzUzMTEwXzAiLCIyIjoiNDEwNDQxNCIsIjI0IjoiMSIsIjI1IjoiMTEyNiIsIjI2IjoiMTEyNyIsIjI4IjoiNjg4OTg2ZWJjOTk0MjI3NjlhNTk4Njk2Yjc3NjkyOTciLCIzIjoiNDEwNDQxNCIsIjQiOiIxMTI2IiwiNSI6IjExMjciLCI2IjoiNDEwNDQxNCIsIjciOiIxMTYzMTQ0MDg0ODcwODIiLCI4IjoiMTQ0ODcxNCJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBDqQBACgBAOqBAcI8cXPQxAEqgQHCPDFz0MQALgEAMAECcoEANAEANgEAOIEpAI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJBTUtvTzlKOUNma09pLVZOUGtSMVQxWTFJd3lXYjRxN0U5OVl5dU5WU0dvU0pQOW9wRGx4OW51RXZSWHNqWk5paE9LS2FGNGFaTkNMaEtuNlhMWldDdHdlZ3ZtNXFObDFrem83QnVTT1hLdUJRNTB5QXZ1ZVZXeGhEZjFpNjQ0cWNYM2gtZTdPQXRxTUwzeTIyQ196QWtUeHNMbzdGRmZNUXdUdEtkSGtVS3RHUnplWUwtS3ZaZ2o1RW9oaGMzaFU0MXBWVjFLRlcxRDI4QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkFwU0wifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgSzBHsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuMCwiYWNjZWxlcmF0ZV9pZCI6MCwiYWRfdHlwZV9maXgiOiJjcG0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEsImJpel90eXBlX2ZpeCI6MywiYm9vc3RfaW5mbyI6IntcImJpZFwiOjU4LFwiYm9vc3RfYmlkXCI6MCxcImNvc3RcIjowLjU4MTU2NjgxMDYwNzkxMDIsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo1OCxcInNjb3JlXCI6XCIxLjA1XCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjEzNDg4MzEwNzc3NDU4Mjc3MTg2IiwiaWFhX2NoZWF0X2Zsb3ciOjAsImlubmVyIjowLCJpc19vY3BjX2FudG91X29jcG0iOjAsImlzX3RyYWNraW5nX3VybHMiOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjQ2LjQ4MTU4M1wiLFwiZmluYWxfcGN0clwiOlwiNzUuNzUwMDA4XCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjE0NDg3MTR9gAUAkAUokAUzkAU5kAVDkAVIkAVJkAVykAXQAZAF0QGQBdcBkAWOApAFmgKQBcACkAXCApAFwwKQBcUCkAXLApAFzgKQBdMCkAXWApAF1wKQBdgCkAXZApAF2gKQBd8CkAXwApAF9QKQBfsCkAX%2FApAFlAOQBaADkAWlA5AFpwOQBbADkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAW0BJAFxgWQBe8FkAWmBpAFgQiQBbARoAWqkYD4mLkauAUJwAWW1MwByAUD4AUB6AUA8gV0Q0FFUUFUQUpaUUJBSEVadEFFQWNSblVBQUlBL2ZaRGhGRCtnQWMrV3Q5Y0NxQUdJN292SkRiQUJBYmdCQWNnQkNlMEJBQUNBUC9VQkFBQ0FQNTBDQUFDQVA2VUN3L1dJUDYwQ0FBQ0FQN1VDdy9XSVB3PT34Bc%2BWt9cCgAaIJ4gGiO6LyQ2QBgSYBgaoBs%2BWt9cC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663101%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3642966742%2Cp%7Cad_card&ts=1790504663101
+              - heading "中站澄清为何发了又删？泰星Pavel对华立场相关争议完整时间线" [level=3] [ref=e417]
+            - link "1千点赞 很会疼女人 · 3月30日" [ref=e419] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5652%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCOWktyAQtrK31wIY1oWNyQ0gOigBMN7B%2BgE4lCxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABOqgBS7IBIJwoc3JO8pzTnqgY86OtiIj87OQHe%2FF8KnyHgeEcmv2sugHHA2h0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby9CVjF3V1hkQmZFeDY%2FdHJhY2tpZD0xMzQ4ODMxMDc3NzQ1ODI3NzE4NiZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxeENHOEVoTnlfcHg3SmhGQVZ3VGFEM0hUUUdHR09iTElxekc3SkRwdV95ZnF5dTBZVjV0MUQ4OGM0YlF6X3NBSy1YTFdDWlQtS2FpMk1mVHlpRFR4UXhObGUxZ0l1bnBxSzJEVDV3UFZ0Ny01T24zS0tMQVNtMEg4SGprLW16eHomY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MiZyZXF1ZXN0X2lkPTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5JmZyb21fc3BtaWQ9X19GUk9NU1BNSURfXyZjcmVhdGl2ZV9pZD0zNjQyOTQ3MzM2JmxpbmtlZF9jcmVhdGl2ZV9pZD0zNjQyOTY2NzQywgEBMNIBANgBsgLwAQD4ATqAAkCIAgCSAgCYAsAeoAIkqALAHrACJLgCAMACAMgCkE7QAogn2AKIJ%2BoCAPgCAIgDAJIDAJoDDTE3OTA2MTExOTk5OTmgAwGoAwCwAwC4AwDIAwDSA%2FYBeyIxIjoiMzY0Mjk2Njc0MiIsIjExIjoiMTM3IiwiMTIiOiI1NjUyIiwiMTMiOiIzMzUzMTEwIiwiMTYiOiIzMzUzMTEwXzAiLCIyIjoiNDEwNDQxNCIsIjI0IjoiMSIsIjI1IjoiMTEyNiIsIjI2IjoiMTEyNyIsIjI4IjoiNjg4OTg2ZWJjOTk0MjI3NjlhNTk4Njk2Yjc3NjkyOTciLCIzIjoiNDEwNDQxNCIsIjQiOiIxMTI2IiwiNSI6IjExMjciLCI2IjoiNDEwNDQxNCIsIjciOiIxMTYzMTQ0MDg0ODcwODIiLCI4IjoiMTQ0ODcxNCJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBDqQBACgBAOqBAcI8cXPQxAEqgQHCPDFz0MQALgEAMAECcoEANAEANgEAOIEpAI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJBTUtvTzlKOUNma09pLVZOUGtSMVQxWTFJd3lXYjRxN0U5OVl5dU5WU0dvU0pQOW9wRGx4OW51RXZSWHNqWk5paE9LS2FGNGFaTkNMaEtuNlhMWldDdHdlZ3ZtNXFObDFrem83QnVTT1hLdUJRNTB5QXZ1ZVZXeGhEZjFpNjQ0cWNYM2gtZTdPQXRxTUwzeTIyQ196QWtUeHNMbzdGRmZNUXdUdEtkSGtVS3RHUnplWUwtS3ZaZ2o1RW9oaGMzaFU0MXBWVjFLRlcxRDI4QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkFwU0wifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgSzBHsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuMCwiYWNjZWxlcmF0ZV9pZCI6MCwiYWRfdHlwZV9maXgiOiJjcG0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEsImJpel90eXBlX2ZpeCI6MywiYm9vc3RfaW5mbyI6IntcImJpZFwiOjU4LFwiYm9vc3RfYmlkXCI6MCxcImNvc3RcIjowLjU4MTU2NjgxMDYwNzkxMDIsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo1OCxcInNjb3JlXCI6XCIxLjA1XCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjEzNDg4MzEwNzc3NDU4Mjc3MTg2IiwiaWFhX2NoZWF0X2Zsb3ciOjAsImlubmVyIjowLCJpc19vY3BjX2FudG91X29jcG0iOjAsImlzX3RyYWNraW5nX3VybHMiOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjQ2LjQ4MTU4M1wiLFwiZmluYWxfcGN0clwiOlwiNzUuNzUwMDA4XCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjE0NDg3MTR9gAUAkAUokAUzkAU5kAVDkAVIkAVJkAVykAXQAZAF0QGQBdcBkAWOApAFmgKQBcACkAXCApAFwwKQBcUCkAXLApAFzgKQBdMCkAXWApAF1wKQBdgCkAXZApAF2gKQBd8CkAXwApAF9QKQBfsCkAX%2FApAFlAOQBaADkAWlA5AFpwOQBbADkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAW0BJAFxgWQBe8FkAWmBpAFgQiQBbARoAWqkYD4mLkauAUJwAWW1MwByAUD4AUB6AUA8gV0Q0FFUUFUQUpaUUJBSEVadEFFQWNSblVBQUlBL2ZaRGhGRCtnQWMrV3Q5Y0NxQUdJN292SkRiQUJBYmdCQWNnQkNlMEJBQUNBUC9VQkFBQ0FQNTBDQUFDQVA2VUN3L1dJUDYwQ0FBQ0FQN1VDdy9XSVB3PT34Bc%2BWt9cCgAaIJ4gGiO6LyQ2QBgSYBgaoBs%2BWt9cC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663101%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3642966742%2Cp%7Cad_logo&ts=1790504663101
+              - generic [ref=e420]: 1千点赞
+              - generic [ref=e421]: 很会疼女人
+              - generic [ref=e422]: · 3月30日
+        - generic [ref=e425]:
+          - link [ref=e426] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1x3ab6gEdt/
+            - generic [ref=e427]:
+              - img "【全网最速】【BBC新闻播客】20260927 Global News" [ref=e430]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "535"
+                    - generic: "0"
+                  - generic: 28:26
+          - generic [ref=e432]:
+            - link [ref=e433] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1x3ab6gEdt/
+              - heading "【全网最速】【BBC新闻播客】20260927 Global News" [level=3] [ref=e434]
+            - link "皇冠英语 · 4小时前" [ref=e436] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546710802434790
+              - generic [ref=e441]: 皇冠英语
+              - generic [ref=e442]: · 4小时前
+        - generic [ref=e445]:
+          - link [ref=e446] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1uqhX62EDa/
+            - generic [ref=e447]:
+              - img "【完整版】《新闻30分》2026年9月26日（中秋假第二天&amp;结束访美）【主播：文静、何岩柯】（广告已全剪去且字幕为AI识别，仅参考）" [ref=e450]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1005"
+                    - generic: "0"
+                  - generic: 26:03
+          - generic [ref=e452]:
+            - link [ref=e453] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1uqhX62EDa/
+              - heading "【完整版】《新闻30分》2026年9月26日（中秋假第二天&结束访美）【主播：文静、何岩柯】（广告已全剪去且字幕为AI识别，仅参考）" [level=3] [ref=e454]
+            - link "敢于奋斗的小董同学 · 昨天" [ref=e456] [cursor=pointer]:
+              - /url: //space.bilibili.com/701263800
+              - generic [ref=e461]: 敢于奋斗的小董同学
+              - generic [ref=e462]: · 昨天
+        - generic [ref=e465]:
+          - link [ref=e466] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1qhh16qEv2/
+            - generic [ref=e467]:
+              - generic [ref=e468]:
+                - img "9月26号一觉醒来发生了什么，6分钟听完27条新闻速递！" [ref=e470]
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "哔哩哔哩播放器":
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: 00:00
+                                - generic: /
+                                - generic: 19:11
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "4232"
+                    - generic: "2"
+                  - generic: 19:11
+          - generic [ref=e472]:
+            - link [ref=e473] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1qhh16qEv2/
+              - heading "9月26号一觉醒来发生了什么，6分钟听完27条新闻速递！" [level=3] [ref=e474]
+            - link "眼_界 · 昨天" [ref=e476] [cursor=pointer]:
+              - /url: //space.bilibili.com/53808393
+              - generic [ref=e481]: 眼_界
+              - generic [ref=e482]: · 昨天
+        - generic [ref=e485]:
+          - link [ref=e486] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Gia46LER6/
+            - generic [ref=e487]:
+              - img "今天不能错过的重要新闻（2026年9月27日）" [ref=e490]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "714"
+                    - generic: "0"
+                  - generic: 14:20
+          - generic [ref=e492]:
+            - link [ref=e493] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Gia46LER6/
+              - heading "今天不能错过的重要新闻（2026年9月27日）" [level=3] [ref=e494]
+            - link "寒霜之影Official · 10小时前" [ref=e496] [cursor=pointer]:
+              - /url: //space.bilibili.com/32194362
+              - generic [ref=e501]: 寒霜之影Official
+              - generic [ref=e502]: · 10小时前
+        - generic [ref=e505]:
+          - link [ref=e506] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1UJhQ6uEZB/
+            - generic [ref=e507]:
+              - img "2026年9月26日每日热点新闻资讯" [ref=e510]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "728"
+                    - generic: "0"
+                  - generic: 31:40
+          - generic [ref=e512]:
+            - link [ref=e513] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1UJhQ6uEZB/
+              - heading "2026年9月26日每日热点新闻资讯" [level=3] [ref=e514]
+            - link "闲鼠-悟道 · 昨天" [ref=e516] [cursor=pointer]:
+              - /url: //space.bilibili.com/3706927791999428
+              - generic [ref=e521]: 闲鼠-悟道
+              - generic [ref=e522]: · 昨天
+        - generic [ref=e525]:
+          - link [ref=e526] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Nbax6wE8Q/
+            - generic [ref=e527]:
+              - img "【CMG13】“新闻周刊”在上海总站录制串联（260926期）" [ref=e530]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1152"
+                    - generic: "17"
+                  - generic: 34:47
+          - generic [ref=e532]:
+            - link [ref=e533] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Nbax6wE8Q/
+              - heading "【CMG13】“新闻周刊”在上海总站录制串联（260926期）" [level=3] [ref=e534]
+            - link "小说家云晓 · 16小时前" [ref=e536] [cursor=pointer]:
+              - /url: //space.bilibili.com/24911088
+              - generic [ref=e541]: 小说家云晓
+              - generic [ref=e542]: · 16小时前
+        - generic [ref=e545]:
+          - link [ref=e546] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1R3at6nEXh/
+            - generic [ref=e547]:
+              - img "20260927，每日新闻汇报" [ref=e550]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "23"
+                    - generic: "0"
+                  - generic: 10:06
+          - generic [ref=e552]:
+            - link [ref=e553] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1R3at6nEXh/
+              - heading [level=3] [ref=e554]:
+                - text: 20260927，
+                - emphasis [ref=e555]: 每日新闻
+                - text: 汇报
+            - link "山东三鹿 · 11小时前" [ref=e557] [cursor=pointer]:
+              - /url: //space.bilibili.com/94714290
+              - generic [ref=e562]: 山东三鹿
+              - generic [ref=e563]: · 11小时前
+        - generic [ref=e566]:
+          - link [ref=e567] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Uh411R7gX/
+            - generic [ref=e568]:
+              - img "《新闻1+1》外卖小哥拼命，谁“饿”了？“美”了谁？" [ref=e571]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 37.4万
+                    - generic: "5006"
+                  - generic: 23:05
+          - generic [ref=e573]:
+            - link [ref=e574] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Uh411R7gX/
+              - heading "《新闻1+1》外卖小哥拼命，谁“饿”了？“美”了谁？" [level=3] [ref=e575]
+            - link "央视网快看 · 2020年9月10日" [ref=e577] [cursor=pointer]:
+              - /url: //space.bilibili.com/451320374
+              - generic [ref=e582]: 央视网快看
+              - generic [ref=e583]: · 2020年9月10日
+        - generic [ref=e586]:
+          - link [ref=e587] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1j8411874u/
+            - generic [ref=e588]:
+              - img "【新闻跟读】每日一练/跟着央视主持人学习播音/让你开口就是播音腔" [ref=e591]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 104.6万
+                    - generic: "164"
+                  - generic: 46:55
+          - generic [ref=e593]:
+            - link [ref=e594] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1j8411874u/
+              - heading "【新闻跟读】每日一练/跟着央视主持人学习播音/让你开口就是播音腔" [level=3] [ref=e595]
+            - link "AI电商运营说 · 2022年11月14日" [ref=e597] [cursor=pointer]:
+              - /url: //space.bilibili.com/1301782871
+              - generic [ref=e602]: AI电商运营说
+              - generic [ref=e603]: · 2022年11月14日
+        - generic [ref=e606]:
+          - link [ref=e607] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5653%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCO6KtSAQm4GU1wIYsv%2BXyA0gOCgBMP2hmAI4lSxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABOKgBmwGyASAi275tNOobntm%2Bh6gygPFpR1%2FeGo16qsU5rgiZ1bXdaroBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxVERhYjZDRUN3P3RyYWNraWQ9MTM0ODgzMTA3Nzc0NTgyNzcxODYmdHJhY2tfaWQ9cGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMXhDRzhFaE55X3B4N0poRkFWd1RhRDNIVFFHR0dPYkxJcXpHN0pEcHVfeWY3N3FrbEFJVGxJbXMxc1JoemU4Qnk4MERsT3diNkdXbW04MEJpUW53cGxYLUhqTzFmaXJTQ3ZYRGdFVHo2MU1TcUEzRlpNZVBLN2hwWHI2MFBJZTdIJmNhaWQ9X19DQUlEX18mcmVzb3VyY2VfaWQ9X19SRVNPVVJDRUlEX18mc291cmNlX2lkPTU2NTMmZnJvbV9zcG1pZD1fX0ZST01TUE1JRF9fJnJlcXVlc3RfaWQ9MTc5MDUwNDY2MDczMXExMGE4OGE4NGE3OXEzMzkmY3JlYXRpdmVfaWQ9MzY0MTA0MDU4NyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTA0OTAxMMIBATDSAQDYAbIC8AEA%2BAE4gAJAiAIAkgIAmAKwWKAChAKoArBYsAKEArgCAMACAMgCkE7QAogn2AKIJ%2BoCAPgCAIgDAJIDAJoDDTE3OTA2MTExOTk5OTmgAwGoAwCwAwC4AwDIAwDSA%2FcBeyIxIjoiMzY0MTA0OTAxMCIsIjExIjoiMjEiLCIxMiI6IjU2NTMiLCIxMyI6IjM1NzA4NjgiLCIxNiI6IjM1NzA4NjhfMCIsIjIiOiI0NTkxODY5IiwiMjQiOiIxIiwiMjUiOiIxMTI2IiwiMjYiOiIxMTI3IiwiMjgiOiIzZWZlZTg4MmRmYTY2Nzk2ZjVkODE2ODRkNDJlZTlmZSIsIjMiOiI0NTkxODY5IiwiNCI6IjExMjYiLCI1IjoiMTEyNyIsIjYiOiI0NTkxODY5IiwiNyI6IjExNzM0MDg1NTM0MjY0OSIsIjgiOiIxMDk0MzcwNjgifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsiAQ4kAQAoAQDqgQHCJqJr2EQBKoEBwiZia9hEAC4BADABAnKBADQBADYBADiBKQCNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQU1Lb085SjlDZmtPaS1WTlBrUjFUMVkxSXd5V2I0cTdFOTlZeXVOVlNHb1NKUDlvcERseDludUV2UlhzalpOaWhPS0thRjRhWk5DTGhLbjZYTFpXQ3R3ZWd2bTVxTmwxa3pvN0J1U09YS3VCUTUweUF2dWVWV3hoRGYxaTY0NHFjWDNoLWU3T0F0cU1MM3kyMkNfekFrVHhzTG83RkZmTVF3VHRLZEhrVUt0R1J6ZVlMLUt2WmdqNUVvaGhjM2hVNDFwVlYxS0ZXMUQyOEEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBcFNMIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEtgR7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxLCJiaXpfdHlwZV9maXgiOjMsImJvb3N0X2luZm8iOiJ7XCJiaWRcIjo1NixcImJvb3N0X2JpZFwiOjAsXCJjb3N0XCI6MC4zODExNjc5NzgwNDgzMjQ2LFwiaWRcIjoxMDg3OTIsXCJvcmlfYmlkXCI6NTYsXCJzY29yZVwiOlwiMS4wNVwifSIsImNwYSI6IntcImNwYV9sZXZlbFwiOjk5LFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6OSwiZnJvbVRyYWNraWQiOiIxMzQ4ODMxMDc3NzQ1ODI3NzE4NiIsImlhYV9jaGVhdF9mbG93IjowLCJpbm5lciI6MCwiaXNfb2NwY19hbnRvdV9vY3BtIjowLCJpc190cmFja2luZ191cmxzIjowLCJtaW5pX2dhbWVfaWQiOiIiLCJtaW5pX2dhbWVfcG9zaXRpb25faWQiOiIiLCJtb2RlbFNjb3JlIjoie1wiY3RyXCI6XCI5NC4xNDg2MjhcIixcImZpbmFsX3BjdHJcIjpcIjE1NS44MjQxNThcIixcImZpbmFsX3BjdnJcIjpcIjEwMDAwLjAwMDAwMFwifSIsInZpZGVvX3VwX21pZCI6MTA5NDM3MDY4fYAFAJAFKJAFOZAFQ5AFSZAF1wGQBY4CkAWaApAFwAKQBcICkAXDApAFxQKQBcsCkAXOApAF0wKQBdYCkAXXApAF2AKQBdkCkAXaApAF3wKQBfACkAX1ApAF%2BwKQBf8CkAWUA5AFoAOQBaUDkAWnA5AFsAOQBcQDkAXNA5AF4AOQBfUDkAX4A5AF%2FwOQBcYFkAXvBZAFgQiQBbARoAW5rIDgiNcauAUJwAW0%2BdkByAUD4AUB6AUA8gV0Q0FFUUFUQUpaUUJBSEVadEFFQWNSblVBQUlBL2ZYTW93ejZnQWFmcWs5Y0NxQUhMdlpmSURiQUJBYmdCQWNnQkNlMEJBQUNBUC9VQkFBQ0FQNTBDQUFDQVA2VUN3L1dJUDYwQ0FBQ0FQN1VDdy9XSVB3PT34Bafqk9cCgAaIJ4gGy72XyA2QBgSYBgaoBqfqk9cC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663102%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3641049010%2Cp%7Cad_card&ts=1790504663102
+            - generic [ref=e608]:
+              - img "中美从对抗到“定规矩”？这份共识，可能改变未来十年！" [ref=e611]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "624"
+                    - generic: "0"
+          - generic [ref=e613]:
+            - link [ref=e614] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5653%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCO6KtSAQm4GU1wIYsv%2BXyA0gOCgBMP2hmAI4lSxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABOKgBmwGyASAi275tNOobntm%2Bh6gygPFpR1%2FeGo16qsU5rgiZ1bXdaroBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxVERhYjZDRUN3P3RyYWNraWQ9MTM0ODgzMTA3Nzc0NTgyNzcxODYmdHJhY2tfaWQ9cGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMXhDRzhFaE55X3B4N0poRkFWd1RhRDNIVFFHR0dPYkxJcXpHN0pEcHVfeWY3N3FrbEFJVGxJbXMxc1JoemU4Qnk4MERsT3diNkdXbW04MEJpUW53cGxYLUhqTzFmaXJTQ3ZYRGdFVHo2MU1TcUEzRlpNZVBLN2hwWHI2MFBJZTdIJmNhaWQ9X19DQUlEX18mcmVzb3VyY2VfaWQ9X19SRVNPVVJDRUlEX18mc291cmNlX2lkPTU2NTMmZnJvbV9zcG1pZD1fX0ZST01TUE1JRF9fJnJlcXVlc3RfaWQ9MTc5MDUwNDY2MDczMXExMGE4OGE4NGE3OXEzMzkmY3JlYXRpdmVfaWQ9MzY0MTA0MDU4NyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTA0OTAxMMIBATDSAQDYAbIC8AEA%2BAE4gAJAiAIAkgIAmAKwWKAChAKoArBYsAKEArgCAMACAMgCkE7QAogn2AKIJ%2BoCAPgCAIgDAJIDAJoDDTE3OTA2MTExOTk5OTmgAwGoAwCwAwC4AwDIAwDSA%2FcBeyIxIjoiMzY0MTA0OTAxMCIsIjExIjoiMjEiLCIxMiI6IjU2NTMiLCIxMyI6IjM1NzA4NjgiLCIxNiI6IjM1NzA4NjhfMCIsIjIiOiI0NTkxODY5IiwiMjQiOiIxIiwiMjUiOiIxMTI2IiwiMjYiOiIxMTI3IiwiMjgiOiIzZWZlZTg4MmRmYTY2Nzk2ZjVkODE2ODRkNDJlZTlmZSIsIjMiOiI0NTkxODY5IiwiNCI6IjExMjYiLCI1IjoiMTEyNyIsIjYiOiI0NTkxODY5IiwiNyI6IjExNzM0MDg1NTM0MjY0OSIsIjgiOiIxMDk0MzcwNjgifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsiAQ4kAQAoAQDqgQHCJqJr2EQBKoEBwiZia9hEAC4BADABAnKBADQBADYBADiBKQCNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQU1Lb085SjlDZmtPaS1WTlBrUjFUMVkxSXd5V2I0cTdFOTlZeXVOVlNHb1NKUDlvcERseDludUV2UlhzalpOaWhPS0thRjRhWk5DTGhLbjZYTFpXQ3R3ZWd2bTVxTmwxa3pvN0J1U09YS3VCUTUweUF2dWVWV3hoRGYxaTY0NHFjWDNoLWU3T0F0cU1MM3kyMkNfekFrVHhzTG83RkZmTVF3VHRLZEhrVUt0R1J6ZVlMLUt2WmdqNUVvaGhjM2hVNDFwVlYxS0ZXMUQyOEEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBcFNMIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEtgR7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxLCJiaXpfdHlwZV9maXgiOjMsImJvb3N0X2luZm8iOiJ7XCJiaWRcIjo1NixcImJvb3N0X2JpZFwiOjAsXCJjb3N0XCI6MC4zODExNjc5NzgwNDgzMjQ2LFwiaWRcIjoxMDg3OTIsXCJvcmlfYmlkXCI6NTYsXCJzY29yZVwiOlwiMS4wNVwifSIsImNwYSI6IntcImNwYV9sZXZlbFwiOjk5LFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6OSwiZnJvbVRyYWNraWQiOiIxMzQ4ODMxMDc3NzQ1ODI3NzE4NiIsImlhYV9jaGVhdF9mbG93IjowLCJpbm5lciI6MCwiaXNfb2NwY19hbnRvdV9vY3BtIjowLCJpc190cmFja2luZ191cmxzIjowLCJtaW5pX2dhbWVfaWQiOiIiLCJtaW5pX2dhbWVfcG9zaXRpb25faWQiOiIiLCJtb2RlbFNjb3JlIjoie1wiY3RyXCI6XCI5NC4xNDg2MjhcIixcImZpbmFsX3BjdHJcIjpcIjE1NS44MjQxNThcIixcImZpbmFsX3BjdnJcIjpcIjEwMDAwLjAwMDAwMFwifSIsInZpZGVvX3VwX21pZCI6MTA5NDM3MDY4fYAFAJAFKJAFOZAFQ5AFSZAF1wGQBY4CkAWaApAFwAKQBcICkAXDApAFxQKQBcsCkAXOApAF0wKQBdYCkAXXApAF2AKQBdkCkAXaApAF3wKQBfACkAX1ApAF%2BwKQBf8CkAWUA5AFoAOQBaUDkAWnA5AFsAOQBcQDkAXNA5AF4AOQBfUDkAX4A5AF%2FwOQBcYFkAXvBZAFgQiQBbARoAW5rIDgiNcauAUJwAW0%2BdkByAUD4AUB6AUA8gV0Q0FFUUFUQUpaUUJBSEVadEFFQWNSblVBQUlBL2ZYTW93ejZnQWFmcWs5Y0NxQUhMdlpmSURiQUJBYmdCQWNnQkNlMEJBQUNBUC9VQkFBQ0FQNTBDQUFDQVA2VUN3L1dJUDYwQ0FBQ0FQN1VDdy9XSVB3PT34Bafqk9cCgAaIJ4gGy72XyA2QBgSYBgaoBqfqk9cC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663103%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3641049010%2Cp%7Cad_card&ts=1790504663103
+              - heading "中美从对抗到“定规矩”？这份共识，可能改变未来十年！" [level=3] [ref=e615]
+            - link "小马爱吐槽 · 6小时前" [ref=e617] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5653%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCO6KtSAQm4GU1wIYsv%2BXyA0gOCgBMP2hmAI4lSxCHTE3OTA1MDQ2NjA3MzFxMTBhODhhODRhNzlxMzM5SPvdk5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABOKgBmwGyASAi275tNOobntm%2Bh6gygPFpR1%2FeGo16qsU5rgiZ1bXdaroBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxVERhYjZDRUN3P3RyYWNraWQ9MTM0ODgzMTA3Nzc0NTgyNzcxODYmdHJhY2tfaWQ9cGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMXhDRzhFaE55X3B4N0poRkFWd1RhRDNIVFFHR0dPYkxJcXpHN0pEcHVfeWY3N3FrbEFJVGxJbXMxc1JoemU4Qnk4MERsT3diNkdXbW04MEJpUW53cGxYLUhqTzFmaXJTQ3ZYRGdFVHo2MU1TcUEzRlpNZVBLN2hwWHI2MFBJZTdIJmNhaWQ9X19DQUlEX18mcmVzb3VyY2VfaWQ9X19SRVNPVVJDRUlEX18mc291cmNlX2lkPTU2NTMmZnJvbV9zcG1pZD1fX0ZST01TUE1JRF9fJnJlcXVlc3RfaWQ9MTc5MDUwNDY2MDczMXExMGE4OGE4NGE3OXEzMzkmY3JlYXRpdmVfaWQ9MzY0MTA0MDU4NyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTA0OTAxMMIBATDSAQDYAbIC8AEA%2BAE4gAJAiAIAkgIAmAKwWKAChAKoArBYsAKEArgCAMACAMgCkE7QAogn2AKIJ%2BoCAPgCAIgDAJIDAJoDDTE3OTA2MTExOTk5OTmgAwGoAwCwAwC4AwDIAwDSA%2FcBeyIxIjoiMzY0MTA0OTAxMCIsIjExIjoiMjEiLCIxMiI6IjU2NTMiLCIxMyI6IjM1NzA4NjgiLCIxNiI6IjM1NzA4NjhfMCIsIjIiOiI0NTkxODY5IiwiMjQiOiIxIiwiMjUiOiIxMTI2IiwiMjYiOiIxMTI3IiwiMjgiOiIzZWZlZTg4MmRmYTY2Nzk2ZjVkODE2ODRkNDJlZTlmZSIsIjMiOiI0NTkxODY5IiwiNCI6IjExMjYiLCI1IjoiMTEyNyIsIjYiOiI0NTkxODY5IiwiNyI6IjExNzM0MDg1NTM0MjY0OSIsIjgiOiIxMDk0MzcwNjgifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsiAQ4kAQAoAQDqgQHCJqJr2EQBKoEBwiZia9hEAC4BADABAnKBADQBADYBADiBKQCNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQU1Lb085SjlDZmtPaS1WTlBrUjFUMVkxSXd5V2I0cTdFOTlZeXVOVlNHb1NKUDlvcERseDludUV2UlhzalpOaWhPS0thRjRhWk5DTGhLbjZYTFpXQ3R3ZWd2bTVxTmwxa3pvN0J1U09YS3VCUTUweUF2dWVWV3hoRGYxaTY0NHFjWDNoLWU3T0F0cU1MM3kyMkNfekFrVHhzTG83RkZmTVF3VHRLZEhrVUt0R1J6ZVlMLUt2WmdqNUVvaGhjM2hVNDFwVlYxS0ZXMUQyOEEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBcFNMIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEtgR7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxLCJiaXpfdHlwZV9maXgiOjMsImJvb3N0X2luZm8iOiJ7XCJiaWRcIjo1NixcImJvb3N0X2JpZFwiOjAsXCJjb3N0XCI6MC4zODExNjc5NzgwNDgzMjQ2LFwiaWRcIjoxMDg3OTIsXCJvcmlfYmlkXCI6NTYsXCJzY29yZVwiOlwiMS4wNVwifSIsImNwYSI6IntcImNwYV9sZXZlbFwiOjk5LFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6OSwiZnJvbVRyYWNraWQiOiIxMzQ4ODMxMDc3NzQ1ODI3NzE4NiIsImlhYV9jaGVhdF9mbG93IjowLCJpbm5lciI6MCwiaXNfb2NwY19hbnRvdV9vY3BtIjowLCJpc190cmFja2luZ191cmxzIjowLCJtaW5pX2dhbWVfaWQiOiIiLCJtaW5pX2dhbWVfcG9zaXRpb25faWQiOiIiLCJtb2RlbFNjb3JlIjoie1wiY3RyXCI6XCI5NC4xNDg2MjhcIixcImZpbmFsX3BjdHJcIjpcIjE1NS44MjQxNThcIixcImZpbmFsX3BjdnJcIjpcIjEwMDAwLjAwMDAwMFwifSIsInZpZGVvX3VwX21pZCI6MTA5NDM3MDY4fYAFAJAFKJAFOZAFQ5AFSZAF1wGQBY4CkAWaApAFwAKQBcICkAXDApAFxQKQBcsCkAXOApAF0wKQBdYCkAXXApAF2AKQBdkCkAXaApAF3wKQBfACkAX1ApAF%2BwKQBf8CkAWUA5AFoAOQBaUDkAWnA5AFsAOQBcQDkAXNA5AF4AOQBfUDkAX4A5AF%2FwOQBcYFkAXvBZAFgQiQBbARoAW5rIDgiNcauAUJwAW0%2BdkByAUD4AUB6AUA8gV0Q0FFUUFUQUpaUUJBSEVadEFFQWNSblVBQUlBL2ZYTW93ejZnQWFmcWs5Y0NxQUhMdlpmSURiQUJBYmdCQWNnQkNlMEJBQUNBUC9VQkFBQ0FQNTBDQUFDQVA2VUN3L1dJUDYwQ0FBQ0FQN1VDdy9XSVB3PT34Bafqk9cCgAaIJ4gGy72XyA2QBgSYBgaoBqfqk9cC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790504663103%2Cl%7C5646%2Cm%7C1790504662936%2Cn%7C%2Co%7C3641049010%2Cp%7Cad_logo&ts=1790504663103
+              - generic [ref=e622]: 小马爱吐槽
+              - generic [ref=e623]: · 6小时前
+        - generic [ref=e626]:
+          - link [ref=e627] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1e1hQ6HEoT/
+            - generic [ref=e628]:
+              - img "2026年9月26日信息差，一觉醒来，世界发生了什么【我国最北高铁！微信警告！四川凌晨地震！“坐高铁用不用一次性座椅套垫”引热议】" [ref=e631]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 3.2万
+                    - generic: "170"
+                  - generic: 05:20
+          - generic [ref=e633]:
+            - link [ref=e634] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1e1hQ6HEoT/
+              - heading "2026年9月26日信息差，一觉醒来，世界发生了什么【我国最北高铁！微信警告！四川凌晨地震！“坐高铁用不用一次性座椅套垫”引热议】" [level=3] [ref=e635]
+            - link "一觉醒来发生啥 · 昨天" [ref=e637] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546606469123022
+              - generic [ref=e642]: 一觉醒来发生啥
+              - generic [ref=e643]: · 昨天
+        - generic [ref=e646]:
+          - link [ref=e647] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1QLat6mEHi/
+            - generic [ref=e648]:
+              - img "2026年9月27日信息差，一觉醒来，世界发生了什么【三大运营商全面暂停“0元购机”！12306预约购票有新变化！“太阳捕手”计划推进】" [ref=e651]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 2.2万
+                    - generic: "110"
+                  - generic: 05:21
+          - generic [ref=e653]:
+            - link [ref=e654] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1QLat6mEHi/
+              - heading "2026年9月27日信息差，一觉醒来，世界发生了什么【三大运营商全面暂停“0元购机”！12306预约购票有新变化！“太阳捕手”计划推进】" [level=3] [ref=e655]
+            - link "一觉醒来发生啥 · 11小时前" [ref=e657] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546606469123022
+              - generic [ref=e662]: 一觉醒来发生啥
+              - generic [ref=e663]: · 11小时前
+        - generic [ref=e666]:
+          - link [ref=e667] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1szau6JERb/
+            - generic [ref=e668]:
+              - img "2026年9月27日 信息差（早差）通用AI还早。香港贸易劲增。印景气回升。俄经济上调。大疆寡垄。外资4连增。美剑指中摇椅。AI抗衰老。韩出生新高。" [ref=e671]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "7784"
+                    - generic: "62"
+                  - generic: 08:29
+          - generic [ref=e673]:
+            - link [ref=e674] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1szau6JERb/
+              - heading "2026年9月27日 信息差（早差）通用AI还早。香港贸易劲增。印景气回升。俄经济上调。大疆寡垄。外资4连增。美剑指中摇椅。AI抗衰老。韩出生新高。" [level=3] [ref=e675]
+            - link "信息差CAP · 12小时前" [ref=e677] [cursor=pointer]:
+              - /url: //space.bilibili.com/432969969
+              - generic [ref=e682]: 信息差CAP
+              - generic [ref=e683]: · 12小时前
+        - generic [ref=e686]:
+          - link [ref=e687] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1sLab6qE3p/
+            - generic [ref=e688]:
+              - img "【 新 闻 周 刊】2026-09-26期" [ref=e691]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "595"
+                    - generic: "34"
+                  - generic: 43:50
+          - generic [ref=e693]:
+            - link [ref=e694] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1sLab6qE3p/
+              - heading "【 新 闻 周 刊】2026-09-26期" [level=3] [ref=e695]
+            - link "酒南东名 · 5小时前" [ref=e697] [cursor=pointer]:
+              - /url: //space.bilibili.com/3706930855938261
+              - generic [ref=e702]: 酒南东名
+              - generic [ref=e703]: · 5小时前
+        - generic [ref=e706]:
+          - link [ref=e707] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1JEhX6fEai/
+            - generic [ref=e708]:
+              - img "特朗普亲自接机、科技巨头赴宴：超规格接待背后，中美关系出现一个关键变化" [ref=e711]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 4.2万
+                    - generic: "1"
+                  - generic: 12:32
+          - generic [ref=e713]:
+            - link [ref=e714] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1JEhX6fEai/
+              - heading "特朗普亲自接机、科技巨头赴宴：超规格接待背后，中美关系出现一个关键变化" [level=3] [ref=e715]
+            - link "邱震海 · 昨天" [ref=e717] [cursor=pointer]:
+              - /url: //space.bilibili.com/651328458
+              - generic [ref=e722]: 邱震海
+              - generic [ref=e723]: · 昨天
+        - generic [ref=e726]:
+          - link [ref=e727] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV156ag6BEBr/
+            - generic [ref=e728]:
+              - img "2026年9月25日热点新闻" [ref=e731]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "63"
+                    - generic: "0"
+                  - generic: 08:24
+          - generic [ref=e733]:
+            - link [ref=e734] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV156ag6BEBr/
+              - heading "2026年9月25日热点新闻" [level=3] [ref=e735]
+            - link "热搜拆解办 · 2天前" [ref=e737] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546850739095744
+              - generic [ref=e742]: 热搜拆解办
+              - generic [ref=e743]: · 2天前
+        - generic [ref=e746]:
+          - link [ref=e747] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1RUYu6TExW/
+            - generic [ref=e748]:
+              - img "2026年8月时政，睡前磨耳朵，无痛记时政" [ref=e751]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "8013"
+                    - generic: "0"
+                  - generic: 24:43
+          - generic [ref=e753]:
+            - link [ref=e754] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1RUYu6TExW/
+              - heading "2026年8月时政，睡前磨耳朵，无痛记时政" [level=3] [ref=e755]
+            - link "考公加油站 · 9月10日" [ref=e757] [cursor=pointer]:
+              - /url: //space.bilibili.com/1758261152
+              - generic [ref=e762]: 考公加油站
+              - generic [ref=e763]: · 9月10日
+        - generic [ref=e766]:
+          - link [ref=e767] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1HM411a7tV/
+            - generic [ref=e768]:
+              - img "每日新闻报唐田-1" [ref=e771]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.4万
+                    - generic: "0"
+                  - generic: 07:43
+          - generic [ref=e773]:
+            - link [ref=e774] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1HM411a7tV/
+              - heading [level=3] [ref=e775]:
+                - emphasis [ref=e776]: 每日新闻
+                - text: 报唐田-1
+            - link "超级阴大神 · 2023年1月6日" [ref=e778] [cursor=pointer]:
+              - /url: //space.bilibili.com/343961789
+              - generic [ref=e783]: 超级阴大神
+              - generic [ref=e784]: · 2023年1月6日
+        - generic [ref=e787]:
+          - link [ref=e788] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1shhy6UERQ/
+            - generic [ref=e789]:
+              - img "2026年9月24日 新闻要点" [ref=e792]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "91"
+                    - generic: "0"
+                  - generic: 03:17
+          - generic [ref=e794]:
+            - link [ref=e795] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1shhy6UERQ/
+              - heading "2026年9月24日 新闻要点" [level=3] [ref=e796]
+            - link "佳桉01 · 2天前" [ref=e798] [cursor=pointer]:
+              - /url: //space.bilibili.com/3493120249432602
+              - generic [ref=e803]: 佳桉01
+              - generic [ref=e804]: · 2天前
+        - generic [ref=e807]:
+          - link [ref=e808] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1DY41137kv/
+            - generic [ref=e809]:
+              - img "教你1分钟掌握全网实时热点！" [ref=e812]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 3.7万
+                    - generic: "1"
+                  - generic: 05:11
+          - generic [ref=e814]:
+            - link [ref=e815] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1DY41137kv/
+              - heading "教你1分钟掌握全网实时热点！" [level=3] [ref=e816]
+            - link "搬砖科技社 · 2022年2月25日" [ref=e818] [cursor=pointer]:
+              - /url: //space.bilibili.com/73506675
+              - generic [ref=e823]: 搬砖科技社
+              - generic [ref=e824]: · 2022年2月25日
+        - generic [ref=e827]:
+          - link [ref=e828] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1WPaw6cED3/
+            - generic [ref=e829]:
+              - img "2026年9月23日 新闻要点" [ref=e832]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "71"
+                    - generic: "0"
+                  - generic: 04:08
+          - generic [ref=e834]:
+            - link [ref=e835] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1WPaw6cED3/
+              - heading "2026年9月23日 新闻要点" [level=3] [ref=e836]
+            - link "佳桉01 · 3天前" [ref=e838] [cursor=pointer]:
+              - /url: //space.bilibili.com/3493120249432602
+              - generic [ref=e843]: 佳桉01
+              - generic [ref=e844]: · 3天前
+        - generic [ref=e847]:
+          - link [ref=e848] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1ksee6XERv/
+            - generic [ref=e849]:
+              - img "20260920，每日新闻汇报" [ref=e852]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "62"
+                    - generic: "0"
+                  - generic: 04:49
+          - generic [ref=e854]:
+            - link [ref=e855] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1ksee6XERv/
+              - heading [level=3] [ref=e856]:
+                - text: 20260920，
+                - emphasis [ref=e857]: 每日新闻
+                - text: 汇报
+            - link "山东三鹿 · 9月20日" [ref=e859] [cursor=pointer]:
+              - /url: //space.bilibili.com/94714290
+              - generic [ref=e864]: 山东三鹿
+              - generic [ref=e865]: · 9月20日
+        - generic [ref=e868]:
+          - link [ref=e869] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1DJhd6REnh/
+            - generic [ref=e870]:
+              - img "【新闻周刊 人物】于子迪——还有0.4秒（20260926）" [ref=e873]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "3286"
+                    - generic: "8"
+                  - generic: 09:17
+          - generic [ref=e875]:
+            - link [ref=e876] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1DJhd6REnh/
+              - heading "【新闻周刊 人物】于子迪——还有0.4秒（20260926）" [level=3] [ref=e877]
+            - link "今天刷题了麽 · 14小时前" [ref=e879] [cursor=pointer]:
+              - /url: //space.bilibili.com/20452407
+              - generic [ref=e884]: 今天刷题了麽
+              - generic [ref=e885]: · 14小时前
+        - generic [ref=e888]:
+          - link [ref=e889] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1wRa46AECV/
+            - generic [ref=e890]:
+              - img "【Sep.27】BBC News | BBC 新闻" [ref=e893]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "587"
+                    - generic: "0"
+                  - generic: 27:00
+          - generic [ref=e895]:
+            - link [ref=e896] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1wRa46AECV/
+              - heading "【Sep.27】BBC News | BBC 新闻" [level=3] [ref=e897]
+            - link "旺财英语 · 10小时前" [ref=e899] [cursor=pointer]:
+              - /url: //space.bilibili.com/62213579
+              - generic [ref=e904]: 旺财英语
+              - generic [ref=e905]: · 10小时前
+        - generic [ref=e908]:
+          - link [ref=e909] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1jhho6TEqg/
+            - generic [ref=e910]:
+              - img "【完整版】《新闻调查》2026年9月26日—应对“超极限”（字幕为AI识别，仅用来参考）" [ref=e913]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "162"
+                    - generic: "10"
+                  - generic: 43:48
+          - generic [ref=e915]:
+            - link [ref=e916] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1jhho6TEqg/
+              - heading "【完整版】《新闻调查》2026年9月26日—应对“超极限”（字幕为AI识别，仅用来参考）" [level=3] [ref=e917]
+            - link "敢于奋斗的小董同学 · 19小时前" [ref=e919] [cursor=pointer]:
+              - /url: //space.bilibili.com/701263800
+              - generic [ref=e924]: 敢于奋斗的小董同学
+              - generic [ref=e925]: · 19小时前
+        - generic [ref=e928]:
+          - link [ref=e929] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Tkas6YE12/
+            - generic [ref=e930]:
+              - img "9月27日资讯早饭｜教学成绩差教师需强制自费培训？；OpenAI承认将ChatGPT用户图片上传至网络；烧烤店张贴“员工守则”，称“请一天假扣两天工资”引热" [ref=e933]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "9394"
+                    - generic: "55"
+                  - generic: 08:28
+          - generic [ref=e935]:
+            - link [ref=e936] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Tkas6YE12/
+              - heading "9月27日资讯早饭｜教学成绩差教师需强制自费培训？；OpenAI承认将ChatGPT用户图片上传至网络；烧烤店张贴“员工守则”，称“请一天假扣两天工资”引热" [level=3] [ref=e937]
+            - link "瞬息洞察所 · 11小时前" [ref=e939] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546859811375998
+              - generic [ref=e944]: 瞬息洞察所
+              - generic [ref=e945]: · 11小时前
+        - generic [ref=e948]:
+          - link [ref=e949] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Qgt96VErV/
+            - generic [ref=e950]:
+              - img "《2026年8月时政热点》——19分钟过一遍，考点一个不落" [ref=e953]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "9390"
+                    - generic: "0"
+                  - generic: 19:03
+          - generic [ref=e955]:
+            - link [ref=e956] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Qgt96VErV/
+              - heading "《2026年8月时政热点》——19分钟过一遍，考点一个不落" [level=3] [ref=e957]
+            - link "啃杂了的饭桶 · 9月3日" [ref=e959] [cursor=pointer]:
+              - /url: //space.bilibili.com/336198312
+              - generic [ref=e964]: 啃杂了的饭桶
+              - generic [ref=e965]: · 9月3日
+        - generic [ref=e968]:
+          - link [ref=e969] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1XPh46VEef/
+            - generic [ref=e970]:
+              - img "2026一周时政（9.14~9.20）" [ref=e973]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "8215"
+                    - generic: "4"
+                  - generic: 31:02
+          - generic [ref=e975]:
+            - link [ref=e976] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1XPh46VEef/
+              - heading "2026一周时政（9.14~9.20）" [level=3] [ref=e977]
+            - link "公基杨硕 · 9月23日" [ref=e979] [cursor=pointer]:
+              - /url: //space.bilibili.com/3493140323371618
+              - generic [ref=e984]: 公基杨硕
+              - generic [ref=e985]: · 9月23日
+        - generic [ref=e988]:
+          - link [ref=e989] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1aCh16bE4g/
+            - generic [ref=e990]:
+              - img "2026年9月23日新闻联播总结版" [ref=e993]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "408"
+                    - generic: "1"
+                  - generic: 10:40
+          - generic [ref=e995]:
+            - link [ref=e996] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1aCh16bE4g/
+              - heading "2026年9月23日新闻联播总结版" [level=3] [ref=e997]
+            - link "一米八小马同志 · 2天前" [ref=e999] [cursor=pointer]:
+              - /url: //space.bilibili.com/1472436462
+              - generic [ref=e1004]: 一米八小马同志
+              - generic [ref=e1005]: · 2天前
+      - navigation "分页" [ref=e1007]:
+        - generic [ref=e1008]:
+          - button "上一页" [disabled] [ref=e1009]
+          - button "第 1 页，当前页" [ref=e1010] [cursor=pointer]: "1"
+          - button "第 2 页" [ref=e1011] [cursor=pointer]: "2"
+          - button "第 3 页" [ref=e1012] [cursor=pointer]: "3"
+          - button "第 4 页" [ref=e1013] [cursor=pointer]: "4"
+          - button "第 5 页" [ref=e1014] [cursor=pointer]: "5"
+          - button "第 6 页" [ref=e1015] [cursor=pointer]: "6"
+          - button "第 7 页" [ref=e1016] [cursor=pointer]: "7"
+          - generic [aria-hidden] [ref=e1017]: ...
+          - button "第 24 页" [ref=e1018] [cursor=pointer]: "24"
+          - button "下一页" [ref=e1019] [cursor=pointer]
+  - generic [ref=e1024]:
+    - generic [ref=e1025]:
+      - generic [ref=e1026]:
+        - generic [ref=e1027]: bilibili
+        - generic [ref=e1028]:
+          - link "关于我们" [ref=e1029] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/aboutUs.html
+          - link "联系我们" [ref=e1030] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/contact.html
+          - link "用户协议" [ref=e1031] [cursor=pointer]:
+            - /url: //www.bilibili.com/protocal/licence.html
+          - link "加入我们" [ref=e1032] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/join.html
+          - link "隐私协议" [ref=e1033] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/privacy-pc.html
+          - link "bilibili认证" [ref=e1034] [cursor=pointer]:
+            - /url: //account.bilibili.com/account/official/home
+          - link "Investor Relations" [ref=e1035] [cursor=pointer]:
+            - /url: //ir.bilibili.com/
+      - generic [ref=e1036]:
+        - generic [ref=e1037]: 传送门
+        - generic [ref=e1038]:
+          - link "协议汇总" [ref=e1039] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic/activity-cn8bxPLzz.html
+          - link "活动中心" [ref=e1040] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-list.html
+          - link "活动专题页" [ref=e1041] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic_list.html
+          - link "侵权申诉" [ref=e1042] [cursor=pointer]:
+            - /url: //www.bilibili.com/v/copyright/intro/
+          - link "帮助中心" [ref=e1043] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/help.html
+          - link "社区中心" [ref=e1044] [cursor=pointer]:
+            - /url: https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html
+          - link "壁纸站" [ref=e1045] [cursor=pointer]:
+            - /url: //space.bilibili.com/6823116#/album
+          - link "广告合作" [ref=e1046] [cursor=pointer]:
+            - /url: //e.bilibili.com/
+          - link "名人堂" [ref=e1047] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-S1jfy69Jz.html
+          - link "MCN管理中心" [ref=e1048] [cursor=pointer]:
+            - /url: //mcn.bilibili.com/studio/mcn/entry
+          - link "高级弹幕" [ref=e1049] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Xx411c7cH/
+          - link "品牌号官网" [ref=e1050] [cursor=pointer]:
+            - /url: //b.bilibili.com/
+      - generic [ref=e1051]:
+        - link [ref=e1053] [cursor=pointer]:
+          - /url: //app.bilibili.com/
+          - paragraph [ref=e1057]: 下载APP
+        - link [ref=e1059] [cursor=pointer]:
+          - /url: //love.bilibili.com/
+          - paragraph [ref=e1066]: 公益
+        - link [ref=e1068] [cursor=pointer]:
+          - /url: //weibo.com/bilibiliweb
+          - paragraph [ref=e1072]: 官方微博
+        - paragraph [ref=e1078]: 官方微信
+    - generic [ref=e1081]:
+      - generic [ref=e1082]:
+        - link "营业执照" [ref=e1083] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/gd85E6tDco.jpg
+        - text: 信息网络传播视听节目许可证：0910417
+        - link "网络文化经营许可证 沪网文【2025】0258-085号" [ref=e1084] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20260209/3b3c5705bda98d50983f6f47df360fef/K4t52YryBV.jpeg
+        - text: 广播电视节目制作经营许可证：（沪）字第01248号增值电信业务经营许可证 沪B2-20100043
+      - generic [ref=e1085]:
+        - link "互联网ICP备案：沪ICP备13002172号-3" [ref=e1086] [cursor=pointer]:
+          - /url: //beian.miit.gov.cn/
+        - link "出版物经营许可证 沪批字第U6699 号" [ref=e1087] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/4ainzbFKao.jpg
+        - text: 互联网药品信息服务资格证 沪-非经营性-2022-0011营业性演出许可证 沪市文演（经）00-2253 |
+      - generic [ref=e1088]:
+        - link "不良信息举报邮箱：help@bilibili.com" [ref=e1089] [cursor=pointer]:
+          - /url: mailto:help@bilibili.com
+        - link "涉未成年举报邮箱：teenprotect@bilibili.com" [ref=e1090] [cursor=pointer]:
+          - /url: mailto:teenprotect@bilibili.com
+        - text: 不良信息举报电话：4006262233转3
+        - link "上海互联网举报中心 |" [ref=e1092] [cursor=pointer]:
+          - /url: http://www.shjbzx.cn/
+        - link "12345政务服务便民热线 |" [ref=e1093] [cursor=pointer]:
+          - /url: http://www.sh12345.gov.cn/
+      - generic [ref=e1094]:
+        - link "沪公网安备31011002002436号 |" [ref=e1096] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002002436
+        - link "儿童色情信息举报专区 |" [ref=e1097] [cursor=pointer]:
+          - /url: mailto:userreport@bilibili.com
+        - link "扫黄打非举报" [ref=e1098] [cursor=pointer]:
+          - /url: https://bzpt.shdf.gov.cn/www/shouye/gzfw/wsjb/index.shtml
+      - generic [ref=e1099]:
+        - link "网信算备310110764385705230011号" [ref=e1100] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_6185ea2c-c84c-404a-9280-c5465af05948.pdf
+        - link "网信算备310110764385702230013号" [ref=e1101] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_e03e6855-76a6-43fb-b799-d090e7fce25d.pdf
+      - generic [ref=e1102]:
+        - text: 网上有害信息举报专区：
+        - link "中国互联网违法和不良信息举报中心" [ref=e1104] [cursor=pointer]:
+          - /url: https://www.12377.cn/
+        - text: 亲爱的市民朋友，上海警方反诈劝阻电话"96110"系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。
+      - generic [ref=e1105]: 公司名称：上海宽娱数码科技有限公司 |公司地址：上海市杨浦区政立路489号 |电话：021-25099888

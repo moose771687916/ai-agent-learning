@@ -1,0 +1,85 @@
+[     176ms] [LOG] [bili-Mirror]:888.154744-没有对应配置,返回默认配置 @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:0
+[     177ms] [INFO] %c bili-fe-mirror %c v2.1.0  padding: 2px 6px; border-radius: 3px 0 0 3px; color: #fff; background: #FF6699; font-weight: bold; padding: 2px 6px; border-radius: 0 3px 3px 0; color: #fff; background: #FF9999; font-weight: bold; @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[     716ms] [WARNING] [Vue warn]: Extraneous non-props attributes (disableLoginTip) were passed to component but could not be automatically inherited because component renders fragment or text root nodes. 
+  at <BiliHeader disableSticky=true disableLoginTip=true themeSwitch=false  ... > @ https://s1.hdslb.com/bfs/seed/laputa-header/bili-header.umd.js:81
+[    1389ms] [LOG] [Mirror] 已存在更高版本 2.1.0，当前版本 2.0.18 将被忽略 @ https://s1.hdslb.com/bfs/activity-plat/static/14918b018cf80b1948690ff240758661/GameMatchPredict_U3LhEJHnku.js:5
+[    1737ms] [INFO] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260920/d41d8cd98f00b204e9800998ecf8427e/aMXPR94Uwg.js:20259
+[    1737ms] [INFO] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260920/d41d8cd98f00b204e9800998ecf8427e/aMXPR94Uwg.js:20259
+[    1764ms] [LOG] 白屏检测是否正常 {status: ok, loop: 0, data: Object} @ https://live.bilibili.com/22908869?spm_id_from=333.1007.0.0:76
+[    1824ms] [WARNING] No longer compatible in the future. Please change the usage method to obtain data in this way @ https://live.bilibili.com/22908869?spm_id_from=333.1007.0.0:132
+[    1982ms] Object
+[    1984ms] [LOG] [Mirror] 已存在更高版本 2.1.0，当前版本 2.0.18 将被忽略 @ https://s1.hdslb.com/bfs/activity-plat/static/14918b018cf80b1948690ff240758661/GameMatchPredict_U3LhEJHnku.js:5
+[    2069ms] [LOG] [LoginUtil] 发起新的登录状态请求 @ https://s1.hdslb.com/bfs/activity-plat/static/14918b018cf80b1948690ff240758661/GameMatchPredict_U3LhEJHnku.js:84
+[    2180ms] [LOG] 直播播放器：initLiteRoom @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    2181ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    2186ms] [WARNING] 直播播放器：instance 还未初始化 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    2255ms] [LOG] [LoginUtil] 登录状态已缓存 @ https://s1.hdslb.com/bfs/activity-plat/static/14918b018cf80b1948690ff240758661/GameMatchPredict_U3LhEJHnku.js:84
+[    2404ms] [LOG] [Mirror] 已存在更高版本 2.1.0，当前版本 2.0.18 将被忽略 @ https://s1.hdslb.com/bfs/activity-plat/static/14918b018cf80b1948690ff240758661/GameMatchPredict_U3LhEJHnku.js:5
+[    2404ms] [WARNING] [Mirror] 检测到更高版本正在运行，当前版本将继续工作但建议统一版本 @ https://s1.hdslb.com/bfs/activity-plat/static/14918b018cf80b1948690ff240758661/GameMatchPredict_U3LhEJHnku.js:14
+[    2493ms] [LOG] mid undefined @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraPointExchangePc_ihTkNU5tpD.js:26959
+[    2514ms] [WARNING] 直播播放器：instance 还未初始化 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    2521ms] [LOG] Sun Sep 27 2026 18:25:00 GMT+0800 (香港标准时间) @ https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js:0
+[    2575ms] [WARNING] [Mirror]: Promise拒绝错误解析失败: 账号未登录 @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[    2605ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://live.bilibili.com/blanc/22908869?liteVersion=true:78
+[    2654ms] [LOG] {val_tt_2766: Object} @ https://oss.5eplay.com/nesting_file/514.html:3251
+[    2655ms] [LOG] undefined @ https://oss.5eplay.com/nesting_file/514.html:3253
+[    2675ms] [INFO] %c bili-fe-mirror %c v2.1.0  padding: 2px 6px; border-radius: 3px 0 0 3px; color: #fff; background: #FF6699; font-weight: bold; padding: 2px 6px; border-radius: 0 3px 3px 0; color: #fff; background: #FF9999; font-weight: bold; @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[    2795ms] [LOG] val_tt_2766 team_data @ https://static.5eplay.com/build/home/data_iframe.min.js?v=20260917130055:0
+[    2797ms] [LOG] val_tt_2766 player_data @ https://static.5eplay.com/build/home/data_iframe.min.js?v=20260917130055:0
+[    3015ms] [WARNING] 直播播放器：instance 还未初始化 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    3421ms] [LOG] true useNewDanmu @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3734ms] [LOG] 更新成功 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3734ms] [LOG] IDBVersionChangeEvent @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3738ms] [WARNING] 直播播放器：instance 还未初始化 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    3739ms] [WARNING] [AI Gift] Cache disabled by remote config @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3739ms] [LOG] AI Gift cache manually disabled @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3749ms] [LOG] 创建仓库成功 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3754ms] [LOG] AI Gift cache version changed (null -> 1), clearing old cache... @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3756ms] [LOG] AI Gift cache cleared successfully @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3756ms] [LOG] [AI Gift] Remote config applied: {cacheEnabled: false, maxErrorCount: 5, expireDays: 1, maxStorage: 5000} @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3771ms] [LOG] AI Gift cache cleared successfully @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    3782ms] [LOG] 白屏检测是否正常 {status: ok, loop: 0, data: Object} @ https://live.bilibili.com/blanc/22908869?liteVersion=true:10
+[    3928ms] [LOG] ----init room player---- @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:45
+[    3969ms] [LOG] sw register success! @ https://live.bilibili.com/blanc/22908869?liteVersion=true:414
+[    4093ms] [LOG] Hls7Player v1.114.4 @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4094ms] [LOG] Chrome verion: 153 @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4101ms] [LOG] Misaka Network Check: Supported @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:23
+[    4101ms] [LOG] Misaka Network Check: Supported @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:23
+[    4107ms] [LOG] 直播播放器：instance 初始化完毕 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/EraLiveNonRevenuePlayer_nosphWzx3A.js:24
+[    4167ms] [LOG] [SistersPlayer] Last Order (re)connecting. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4168ms] [LOG] [SistersPlayer] Environment: production @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4168ms] [LOG] [SistersPlayer] Build Time: 2025-12-17 19:33:12 @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4168ms] [LOG] [SistersPlayer] Version: 1.8.3-db172934-master @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4168ms] [LOG] [SistersPlayer] Misaka has been created. >w< @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4238ms] [LOG] [SistersPlayer] Last Order (re)connect done. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4239ms] [INFO] [SistersPlayer] Last Order is Connected. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4300ms] [LOG] track 1 start dts: 427335.8836666667 @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4300ms] [LOG] track 2 start dts: 427335.888 @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    4458ms] [LOG] Update master playlist interval to 150000ms @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:23
+[    4468ms] [LOG] Bilibili Live V4.0.0 "Life Experience" Lovingly By © 2014 - 2026 Bilibili Live Department  ...(●'◡'●)ﾉ♥   # Renascence # @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/8792.c316a158f1cda6c88227.js:1
+[    4468ms] [LOG] Version: V4.0.0 "Life Experience", CodeName: Neptune. @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/8792.c316a158f1cda6c88227.js:1
+[    4713ms] [LOG] interactivePlay updateAll data error: TypeError: Cannot read properties of undefined (reading 'layout_version') @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    4932ms] [WARNING] [AI Gift] Cache disabled by remote config @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/7142.e5ae53c0da8be18295d4.js:1
+[    4932ms] [LOG] AI Gift cache manually disabled @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/7142.e5ae53c0da8be18295d4.js:1
+[    4932ms] [LOG] AI Gift cache cleared successfully @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/7142.e5ae53c0da8be18295d4.js:1
+[    4932ms] [LOG] [AI Gift] Remote config applied: {cacheEnabled: false, maxErrorCount: 5, expireDays: 1, maxStorage: 5000} @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/7142.e5ae53c0da8be18295d4.js:1
+[    5213ms] [WARNING] gift_preload_config parse error TypeError: Cannot read properties of null (reading 'roomNum')
+    at Re (https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:2:1112445)
+    at https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:2:1102824 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    5415ms] [WARNING] Unsatisfied version 3.0.22 from liveroom_activity_pendant of shared singleton module @blink-live/awesome-api (required ^1.2.5-0) @ https://s1.hdslb.com/bfs/live-activity/nuwa/liveroom_activity_pendant/remoteEntry.js:29
+[    5415ms] [WARNING] Unsatisfied version 3.0.22 from liveroom_activity_pendant of shared singleton module @blink-live/awesome-api (required ^1.2.5-0) @ https://s1.hdslb.com/bfs/live-activity/nuwa/liveroom_activity_pendant/remoteEntry.js:29
+[    5444ms] [WARNING] GiftPanelStyleService: 回调函数未初始化 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/7142.e5ae53c0da8be18295d4.js:1
+[    5483ms] [WARNING] [addCustomItemToRightPart] new_tab_info.button 数据不存在 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/7142.e5ae53c0da8be18295d4.js:1
+[    5772ms] [LOG] checkPCRoomAsync timeout @ https://s1.hdslb.com/bfs/live-activity/nuwa/liveroom_activity_pendant/remoteEntry.js:12
+[    5887ms] [LOG] 更新成功 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    5887ms] [LOG] IDBVersionChangeEvent @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    5897ms] [LOG] 创建仓库成功 @ https://s1.hdslb.com/bfs/static/blive/blfe-live-room/static/js/app.3b48f866e1563d25d39c.js:1
+[    6085ms] [LOG] getTargetWindow timeout @ https://s1.hdslb.com/bfs/live-activity/nuwa/liveroom_activity_pendant/remoteEntry.js:12
+[    6085ms] [LOG] timeout @ https://s1.hdslb.com/bfs/live-activity/nuwa/liveroom_activity_pendant/remoteEntry.js:12
+[    7296ms] [INFO] [SistersPlayer] IPv6 NAT Kakushin Mode: true. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    7296ms] [INFO] [SistersPlayer] IPv6 NAT TYPE: PortRestrictedCone. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    7307ms] [INFO] [SistersPlayer] IPv4 NAT Kakushin Mode: true. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36
+[    7307ms] [INFO] [SistersPlayer] IPv4 NAT TYPE: PortRestrictedCone. @ https://s1.hdslb.com/bfs/blive-engineer/live-web-player/room-player.prod.min.js:36

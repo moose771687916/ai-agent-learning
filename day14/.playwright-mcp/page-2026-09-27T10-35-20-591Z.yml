@@ -1,0 +1,365 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - link "首页" [ref=e9] [cursor=pointer]:
+          - /url: //www.bilibili.com
+        - link "番剧" [ref=e14] [cursor=pointer]:
+          - /url: //www.bilibili.com/anime/
+        - link "直播" [ref=e17] [cursor=pointer]:
+          - /url: //live.bilibili.com
+        - link "游戏中心" [ref=e21] [cursor=pointer]:
+          - /url: //game.bilibili.com/platform
+        - link "会员购" [ref=e24] [cursor=pointer]:
+          - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+        - link "漫画" [ref=e27] [cursor=pointer]:
+          - /url: //manga.bilibili.com?from=bill_top_mnav
+        - link "赛事" [ref=e30] [cursor=pointer]:
+          - /url: //www.bilibili.com/match/home/
+        - link "下载客户端" [ref=e33] [cursor=pointer]:
+          - /url: //app.bilibili.com/
+      - generic [ref=e40]:
+        - textbox "美股" [ref=e42]
+        - generic [ref=e43] [cursor=pointer]
+      - generic [ref=e47]:
+        - generic [ref=e49]:
+          - generic [ref=e50]: 登录
+          - generic [ref=e54]:
+            - paragraph [ref=e55]: "登录后你可以:"
+            - generic [ref=e56]:
+              - generic [ref=e57]: 免费看高清视频
+              - generic [ref=e63]: 多端同步播放记录
+              - generic [ref=e68]: 发表弹幕/评论
+              - generic [ref=e76]: 热门番剧影视看不停
+            - generic [ref=e81] [cursor=pointer]: 立即登录
+            - generic [ref=e82]: 首次使用？点我注册
+        - link [ref=e85] [cursor=pointer]:
+          - /url: //account.bilibili.com/big
+        - generic [ref=e92] [cursor=pointer]
+        - generic [ref=e97] [cursor=pointer]
+        - generic [ref=e105] [cursor=pointer]
+        - generic [ref=e110] [cursor=pointer]
+        - generic [ref=e114] [cursor=pointer]
+        - generic [ref=e121] [cursor=pointer]
+    - generic [ref=e125]:
+      - generic [ref=e130]:
+        - link [ref=e131] [cursor=pointer]:
+          - /url: //www.bilibili.com
+          - img "B站 b站" [ref=e133]
+        - link "战斗开启，来为你喜欢的作品投票吧~(｡ゝ∀・)b" [ref=e134] [cursor=pointer]:
+          - /url: //www.bilibili.com/blackboard/era/yellowVSgreen11th.html
+      - link [ref=e135] [cursor=pointer]:
+        - /url: //www.bilibili.com/blackboard/era/yellowVSgreen11th.html
+    - generic [ref=e136]:
+      - generic [ref=e137]:
+        - link "动态" [ref=e138] [cursor=pointer]:
+          - /url: //t.bilibili.com
+        - link "热门" [ref=e146] [cursor=pointer]:
+          - /url: //www.bilibili.com/v/popular/all
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - link "番剧" [ref=e153] [cursor=pointer]:
+            - /url: //www.bilibili.com/anime/
+          - link "电影" [ref=e155] [cursor=pointer]:
+            - /url: //www.bilibili.com/movie/
+          - link "国创" [ref=e157] [cursor=pointer]:
+            - /url: //www.bilibili.com/guochuang/
+          - link "电视剧" [ref=e159] [cursor=pointer]:
+            - /url: //www.bilibili.com/tv/
+          - link "综艺" [ref=e161] [cursor=pointer]:
+            - /url: //www.bilibili.com/variety/
+          - link "纪录片" [ref=e163] [cursor=pointer]:
+            - /url: //www.bilibili.com/documentary/
+          - link "动画" [ref=e165] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/douga/
+          - link "游戏" [ref=e167] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/game/
+          - link "鬼畜" [ref=e169] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/kichiku/
+          - link "音乐" [ref=e171] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/music/
+          - link "舞蹈" [ref=e173] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/dance/
+          - link "影视" [ref=e175] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/cinephile/
+          - link "娱乐" [ref=e177] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/ent/
+          - link "知识" [ref=e179] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/knowledge/
+          - link "科技数码" [ref=e181] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/tech/
+          - link "资讯" [ref=e183] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/information/
+          - link "美食" [ref=e185] [cursor=pointer]:
+            - /url: //www.bilibili.com/c/food/
+          - generic [ref=e187]: 更多
+        - generic [ref=e192]:
+          - link "专栏" [ref=e193] [cursor=pointer]:
+            - /url: //www.bilibili.com/read/home/
+          - link "直播" [ref=e202] [cursor=pointer]:
+            - /url: //live.bilibili.com
+          - link "活动" [ref=e209] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/era/reward-activity-list-page.html#/list
+          - link "课堂" [ref=e216] [cursor=pointer]:
+            - /url: //www.bilibili.com/cheese/?csource=common_hp_channelclass_icon
+          - link "社区中心" [ref=e220] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-5zJxM3spoS.html
+          - link "新歌热榜" [ref=e225] [cursor=pointer]:
+            - /url: //music.bilibili.com/pc/music-center/
+  - main [ref=e229]:
+    - generic [ref=e231]:
+      - generic [ref=e232]:
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - link [ref=e244] [cursor=pointer]:
+              - /url: https://www.bilibili.com/blackboard/era/47i1w7EnbYEWyVgA.html
+              - img "游戏金秋狂欢周" [ref=e246]
+            - link [ref=e250] [cursor=pointer]:
+              - /url: https://www.bilibili.com/bangumi/play/ep3537948
+              - img "秦牧大尊功法绝学大对决" [ref=e252]
+            - link [ref=e256] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C4696%2Cb%7Cbilibili%2Cc%7C0%2Cd%7C1%2Ce%7CCAAQABiAwKeLhYb13BAgACgAMCQ42CRCHzE3OTA1MDUzMTgwMDhxMTBhODhhMTE3YTk1cTI2MDZI%2BOy7k440Ugnpqazpno3lsbFaBuWuieW%2BvWIG5Lit5Zu9aGRwAHiAgICAwCGAAQCIAcWtBZIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOaAQCgAQCyASAvcSi0NT7I%2BKd0OTUsn1Q8tnfx7M5OGqkqhEV0Rk%2F9aroBqAdodHRwczovL2dhbWUtZGF0YS1hcGkuYmlsaWdhbWUuY29tL3YyL2FwaS9jbGljay9wY19iaWxpP2FjY291bnRfaWQ9MzYmY2FtcGFpZ25faWQ9X19DQU1QQUlHTklEX18mdW5pdF9pZD1fX1VOSVRJRF9fJmNyZWF0aXZlX2lkPTEyMDUyMjc2NzkyODc3MzAxNzYmc3VwcGx5X2NhbGxiYWNrPXBiYWVzLlBLVFVfRy1xX3RScFlNRUY5bHNGaDV2QzA4TWFKODhsYVhDdmZIcUpWVnhqZEoxcG9qanYybjZTOXQtdWd4UDFrMUN6VWtvMlZIVm4xSl9pRmV4Tm5LM3M2U2VQR2xDcVhYLW1PUGthTm1OUzYwNkdGejZxY1NOZGxIbGxxb3luaHZISnhFUkxBS2QySjczYW9ZVWoyZyUzRCUzRCZjYWxsYmFja191cmw9aHR0cHMlM2ElMmYlMmZjbS5iaWxpYmlsaS5jb20lMmZjb252JTJmYXBpJTJmY29udmVyc2lvbiUyZmFkJTJmY2IlMmZ2MSUzZnRyYWNrX2lkJTNkcGJhZXMuUEtUVV9HLXFfdFJwWU1FRjlsc0ZoNXZDMDhNYUo4OGxhWEN2ZkhxSlZWeGpkSjFwb2pqdjJuNlM5dC11Z3hQMWsxQ3pVa28yVkhWbjFKX2lGZXhObkszczZTZVBHbENxWFgtbU9Qa2FObU5TNjA2R0Z6NnFjU05kbEhsbHFveW5odkhKeEVSTEFLZDJKNzNhb1lVajJnJTNEJTNEJm1pZD0wJmlwPTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDMmcmVxdWVzdF9pZD0xNzkwNTA1MzE4MDA4cTEwYTg4YTExN2E5NXEyNjA2JnRzPV9fVFNfXyZ1YT1Nb3ppbGxhJTJGNS4wKyUyOFdpbmRvd3MrTlQrMTAuMCUzQitXaW42NCUzQit4NjQlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStDaHJvbWUlMkYxNTMuMC4wLjArU2FmYXJpJTJGNTM3LjM2JnNob3J0X3RyYWNraWQ9YWM2MjQxMGFkNTYyYzk2YTIxM2VmMjE1NjNkZDI5OWUmYWRfY2hhbm5lbF9pZD0zJmFkX2Y9OGYzZjk2ZWM2Mjk0NGY3NjhhMGJiOTkwMWIyMjc2NDImZ2FtZV9pZD0xODLCAQDSAQDYAYwC4AEA6AEA8AEAgAICiAIAuAIAwAIA0AIA2AIA6gIA8AKE1Sz4AgCIAwCSAwCoAwCwAwC4AwDCAwDIA5%2BNBtIDmwF7IjEiOiIxMjA1MjI3Njc5Mjg3NzMwMTc2IiwiMiI6IjM2IiwiMyI6IjM2IiwiNiI6IjM2XzAiLCIxMiI6IjQ2OTYiLCIxMyI6IjciLCIxNCI6IjAiLCIxNSI6IjAiLCIxNiI6IjdfMCIsIjE3IjoiNDY5NCIsIjE5IjoiODc3NDkiLCIyNSI6IjEyOTAiLCIyNiI6IjEyOTEifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsmAQAoAQAqgQECAAQBLAEAOIEogI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJDY0NHcXRHNkhfdTExSFVER0ZLUi13cXNnUWUxdmozVlRXQ29sTVFPcUhwY3dxMFBoY2UtMjZCc0JRdV9IQmlFbTZFd1AxZXd6VVFjUUJEWV9GZHk2M0N0QnhWVjhDSERuTGdiNGFpb0V6ODZQZlhFUWRKSVBDd1hkSHU0OVBuLXJMVW1Hb25vbzBFZXFHT0tLQzlYLWdROURBemg4cF9QQnktWF9ZMmp2Qk1aRVdXcFk5VXJDc2g5Rm85S0kzVkNKWUxWVW9WYlVQYncifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBenViIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEiffoEAnt9kAWABJAFgAaQBYEGkAWBCJAFggaQBQSQBYUCkAWOApAFjwaQBZgCkAUZkAWaApAFnQKQBZ8CkAUmkAWmBpAFqwSQBa8EkAWwBJAFsQSQBbIEkAUzkAWzApAFtASQBbcCkAW3CJAFuASQBboGkAU7kAVDkAXDApAFxhKQBUiQBcgIkAXMApAFzgKQBVOQBdMCkAXWApAF1wKQBdgCkAXaApAF3AKQBd8CkAVikAXlBJAF7QSQBfACkAX7ApAF%2FwKQBYQBkAWGAZAFhgOQBYgBkAWJAZAFjQOQBZIDkAWTB5AFlAOQBZgDkAWYEZAFmwOQBZwDkAWhB5AFogOQBaQDkAWnA5AFrAGQBbADkAWxAZAFsQOQBbMBkAW0AZAFwAOQBcEDkAXEA5AFxgWQBcgBkAXNA5AF0AGQBdADkAXTA5AF1wOQBdgBkAXfBZAF5QOQBegBkAXoA5AF6gOQBesDkAXvBZAF8QGQBfIDkAX1A5AF9wOQBfgDkAX6A5AF%2BwOQBf8DoAUAyAUJ0gUA4AUDwAYA%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C2%2Ci%7C%2Cj%7C%2Ck%7C1790505320132%2Cl%7C4694%2Cm%7C1790505320012%2Cn%7C1%2Co%7C0%2Cp%7Cad_card&ts=1790505320132
+              - img "「怨仇」现已入住「宿舍计划」！" [ref=e258]
+            - link [ref=e262] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C4697%2Cb%7Cbilibili%2Cc%7C0%2Cd%7C1%2Ce%7CCAAQABiAwK6%2F6aCO3hAgACgAMKm4TDjZJEIfMTc5MDUwNTMxODAwOHExMGE4OGExMTdhOTVxMjYwNkj47LuTjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgIDAIYABAIgB56wFkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM5oBAKABALIBIFgTDf4oa%2BvHoLBkxqyeAFg3BcDfLeUid93%2FFTF0CMkvugFlaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL2JsYWNrYm9hcmQvZXJhL0lVM1FkTEVmaXh1eGF4U3ouaHRtbC8%2Fc291cmNlRnJvbT0yMDAwMzMwMDIzJnNvdXJjZVR5cGU9YWRQdXTCAQDSAQDYAYwC4AEA6AEA8AEAgAICiAIAuAIAwAIA0AIA2AIA6gIA8ALwni34AudciAMAkgMAqAMAsAMAuAMAwgMAyAOfjQbSA8sBeyIxIjoiMTIwNTkwMTUwMDcwOTgzODg0OCIsIjIiOiIxMjUyMzkzIiwiMyI6IjEyNTIzOTMiLCI2IjoiMTI1MjM5M18xMTg3OSIsIjEyIjoiNDY5NyIsIjEzIjoiMTIxNTQ2MCIsIjE0IjoiMCIsIjE1IjoiMCIsIjE2IjoiMTIxNTQ2MF8xMTg3OSIsIjE3IjoiNDY5NCIsIjE5IjoiODc2NTUiLCIyNSI6IjExNDIiLCIyNiI6IjEyNTEiLCIyNyI6IjExODc5In3gAwDoAwDwAwD6AwVvdGhlcoIECW51bGw6bnVsbJgEAKAEAKoEBAgAEASwBADiBKICNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQ2NDR3F0RzZIX3UxMUhVREdGS1Itd3FzZ1FlMXZqM1ZUV0NvbE1RT3FIcGN3cTBQaGNlLTI2QnNCUXVfSEJpRW02RXdQMWV3elVRY1FCRFlfRmR5NjNDdEJ4VlY4Q0hEbkxnYjRhaW9Fejg2UGZYRVFkSklQQ3dYZEh1NDlQbi1yTFVtR29ub28wRWVxR09LS0M5WC1nUTlEQXpoOHBfUEJ5LVhfWTJqdkJNWkVXV3BZOVVyQ3NoOUZvOUtJM1ZDSllMVlVvVmJVUGJ3In07NjMueyJwc0lkIjoxNTQ0MDMsInYyIjoiQXp1YiJ9OzcwLnsicHNJZCI6MTE0NzgwLCJ2MiI6IkFBIn36BAJ7fZAFgASQBYAGkAWBBpAFgQiQBYIGkAUEkAWPBpAFkRKQBZgCkAWZEpAFmgKQBZ0CkAWeApAFnwKQBSWQBaYGkAWnEpAFqwSQBa0SkAWvBJAFsASQBbEEkAWyBJAFM5AFswKQBbQEkAW3ApAFtwiQBbgEkAW6BpAFO5AFQ5AFwwKQBcQSkAVIkAXICJAFzAKQBc4CkAVTkAXTApAF1gKQBdgCkAXaApAF3AKQBV6QBd8CkAVikAXlBJAF7QSQBfACkAX%2FApAFhAGQBYYBkAWGA5AFiAGQBYkBkAWNA5AFkgOQBZMHkAWUA5AFmAOQBZgRkAWZA5AFmgOQBZsDkAWcA5AFoQOQBaEHkAWiA5AFpAOQBacDkAWsAZAFsAOQBbEBkAWxA5AFswGQBbQBkAXAA5AFwQOQBcQDkAXGBZAFyAGQBc0DkAXQAZAF0AOQBdMDkAXUAZAF1wOQBdgBkAXfBZAF4AOQBeUDkAXoAZAF6AOQBeoDkAXrA5AF7wWQBfEBkAXyA5AF9QOQBfcDkAX4A5AF%2BgOQBfsDkAX%2FA6AFAMgFCdIFAOAFA8AGAA%3D%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C3%2Ci%7C%2Cj%7C%2Ck%7C1790505320132%2Cl%7C4694%2Cm%7C1790505320012%2Cn%7C1%2Co%7C0%2Cp%7Cad_card&ts=1790505320132
+              - img "初音未来：缤纷舞台1.5周年庆" [ref=e264]
+            - link [ref=e268] [cursor=pointer]:
+              - /url: https://www.bilibili.com/blackboard/era/43SzdVvruwUax3B8.html
+              - img "干杯动画剧场创作激励 · 德寿宫夜游only展" [ref=e270]
+            - link [ref=e274] [cursor=pointer]:
+              - /url: https://www.bilibili.com/bangumi/play/ep6331489
+              - img "萌宠出征！冒险途中的多彩奇遇" [ref=e276]
+            - link [ref=e280] [cursor=pointer]:
+              - /url: https://www.bilibili.com/bangumi/play/ep6256295
+              - img "第一序列第二季定档12月17日！" [ref=e282]
+            - link [ref=e286] [cursor=pointer]:
+              - /url: https://live.bilibili.com/21245471?live_from=81001
+              - img "小程至臻限定版直播两周年庆会>>" [ref=e288]
+            - link [ref=e292] [cursor=pointer]:
+              - /url: https://www.bilibili.com/blackboard/era/aiarena.html?bsource=activity_aiarena_ad_01
+              - img "100+AI模型同台竞技，百模之王花落谁家？" [ref=e294]
+            - link [ref=e298] [cursor=pointer]:
+              - /url: https://www.bilibili.com/blackboard/era/47i1w7EnbYEWyVgA.html
+              - img "游戏金秋狂欢周" [ref=e300]
+            - link [ref=e304] [cursor=pointer]:
+              - /url: https://www.bilibili.com/bangumi/play/ep3537948
+              - img "秦牧大尊功法绝学大对决" [ref=e306]
+          - generic:
+            - link "秦牧大尊功法绝学大对决" [ref=e309] [cursor=pointer]:
+              - /url: https://www.bilibili.com/bangumi/play/ep3537948
+            - list [ref=e312]:
+              - listitem [ref=e313] [cursor=pointer]
+              - listitem [ref=e316] [cursor=pointer]
+              - listitem [ref=e319] [cursor=pointer]
+              - listitem [ref=e322] [cursor=pointer]
+              - listitem [ref=e325] [cursor=pointer]
+              - listitem [ref=e328] [cursor=pointer]
+              - listitem [ref=e331] [cursor=pointer]
+              - listitem [ref=e334] [cursor=pointer]
+              - listitem [ref=e337] [cursor=pointer]
+          - generic [ref=e340]:
+            - button [ref=e341]
+            - button [ref=e344]
+        - generic [ref=e350]:
+          - link [ref=e351] [cursor=pointer]:
+            - /url: https://www.bilibili.com/video/BV1cGh86vEaK?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e352]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 20.8万
+                    - generic: "744"
+                  - generic: 08:31
+          - generic [ref=e356]:
+            - heading [level=3] [ref=e357]:
+              - link "打游戏 依然是最顶级的放松方式" [ref=e358] [cursor=pointer]:
+                - /url: https://www.bilibili.com/video/BV1cGh86vEaK?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e359]:
+              - generic [ref=e360]: 1万点赞
+              - link "于可音 · 9月23日" [ref=e361] [cursor=pointer]:
+                - /url: //space.bilibili.com/1604499246
+                - generic "于可音" [ref=e362]
+                - generic [ref=e363]: · 9月23日
+        - generic [ref=e367]:
+          - link [ref=e368] [cursor=pointer]:
+            - /url: https://www.bilibili.com/video/BV1CDaw6ZEKg?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e369]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 19.9万
+                    - generic: "801"
+                  - generic: 02:16
+          - generic [ref=e373]:
+            - heading [level=3] [ref=e374]:
+              - link "如何把三蹦子拍成买不起的样子" [ref=e375] [cursor=pointer]:
+                - /url: https://www.bilibili.com/video/BV1CDaw6ZEKg?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - link "王左导演 · 3天前" [ref=e377] [cursor=pointer]:
+              - /url: //space.bilibili.com/492303353
+              - generic "王左导演" [ref=e382]
+              - generic [ref=e383]: · 3天前
+        - generic [ref=e387]:
+          - link [ref=e388] [cursor=pointer]:
+            - /url: https://www.bilibili.com/video/BV1K8h963Ehn?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e389]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 38.3万
+                    - generic: "370"
+                  - generic: 01:47
+          - generic [ref=e393]:
+            - heading [level=3] [ref=e394]:
+              - link "刘欢：我的遗憾就是写的歌太少了" [ref=e395] [cursor=pointer]:
+                - /url: https://www.bilibili.com/video/BV1K8h963Ehn?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - link "央视新闻 · 昨天 12:38" [ref=e397] [cursor=pointer]:
+              - /url: //space.bilibili.com/456664753
+              - generic "央视新闻" [ref=e402]
+              - generic [ref=e403]: · 昨天 12:38
+        - generic [ref=e407]:
+          - link "广告" [ref=e408] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5614%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C0%2Ce%7CCOuvsB8QmPvs1QIY%2FN7Xww0gESgBMI2glQI47itCIDE3OTA1MDUzMTgwMTJxMTBhODhhMjA0YTE3M3EyMTczSPzsu5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKA5gAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABHagBAbIBIF%2Bn3JHKnN8v%2BtwQogPCv%2F6AofmXaQc8pNtgTD1yQHGHugHqA2h0dHBzOi8vd3d3LmRvdWJhby5jb20vZG93bmxvYWQvZGVza3RvcD91Z19hcGtfdG9rZW49WUxOVDUmYWRfcGxhdGZvcm1faWQ9YmlsaWJpbGlfbGVhZCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxTWN3eDJkaC0yZGIxOHU0UVdYSWQ1TGo1ek5zNk0teHp2UFVkbDE1eVM2X3gySXFpenFjWG5fSlBjU2U0WmhFYjluVXREMlJGckJnUmVZOXRrenFpclNKVVd6dzBYMlQ1QVYydzFCTUpXeHRYOGFUSUxKS05ZUjBhRVdRWWZzQWwmdWdfc2VtdmVyPXYxLjAuMCZjYWlkPV9fQ0FJRF9fJnJlc291cmNlX2lkPV9fUkVTT1VSQ0VJRF9fJnNvdXJjZV9pZD01NjE0JmZyb21fc3BtaWQ9X19GUk9NU1BNSURfXyZyZXF1ZXN0X2lkPTE3OTA1MDUzMTgwMTJxMTBhODhhMjA0YTE3M3EyMTczJmNyZWF0aXZlX2lkPTM0ODgzNjQwNDUmbGlua2VkX2NyZWF0aXZlX2lkPTM2MzE2MDc2NzbCAQEw0gEA2AHKA%2BABgJTr3APoAaCcAfABAPgBCYACBIgCAJICAJgC6tMEoAJUqAKX0gSwAlS4AgDAAoC1GMgCVOoCAPgCup4DiAMAkgMAqAMAsAMAuAMAyAMA0gPLAXsiMSI6IjM2MzE2MDc2NzYiLCIxMiI6IjU2MTQiLCIxMyI6IjE5ODM0NTIiLCIxNiI6IjE5ODM0NTJfNTMwNTAiLCIyIjoiNDU0MjQ3NyIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjI4IjoiNDRkMWFhMzJjZWQ5YTEzYzFlODNmZjU4ZDQ1NWEwZDUiLCIzIjoiNDU0MjQ3NyIsIjQiOiIxMDM4IiwiNSI6IjIzMTEiLCI2IjoiNDU0MjQ3NyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBB2QBACYBAGgBAGqBAcIkuzZWBAEqgQHCNKJrVkQAbgECsAEAsoEANAEANgEAOIEpAI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJBTUtuZzBjUGhTNmRTMHZMRVVaME9aVWw3UE1PSk84eERxcHF1U3lyWDNYbXVPb19iT25qb0RheHZNNDBBbGlIM1lYVWhTbFg3S3VBelI0OUlnODRpVFhIbGdaeDhhZ2UyU0Jha2FySk9SbUpUdGlOeFhzWTVkNy1QV1hJM0M0WllUS3BiQWdhNF9WeklEQ0M0QmFCUkZMeDBvcGZjSEV3aTV2WUVzN21mNjh6Y29kRVdRZ3RlOHZwQXIwV0hfUEZweF9zRmxLRlcxRDI5QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkF3UHIifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgTlBXsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuNiwiYWNjZWxlcmF0ZV9pZCI6MTY0NzM2NzEzLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMTcuOTcxXCIsXCJhZGp1c3RfcmF0aW9cIjpcIjEuMDAwXCIsXCJiYWxhbmNlcl9pZFwiOjAsXCJiYWxhbmNlcl9yYXRpb1wiOlwiMC4wMDBcIixcImNoYXJnZV9leHBfa2V5X2RlcHRoXCI6XCJcIixcImNoYXJnZV9leHBfa2V5X2xpZ2h0XCI6XCJfZmx5X2NwYV9vbmxpbmVfY2hhcmdlOVwiLFwiY29zdF9kaWZmXCI6XCIwLjAwMFwifSIsImJpZF90eXBlIjoxLCJiaXpfdHlwZSI6MTIsImJpel90eXBlX2ZpeCI6MywiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjoyLCJmcm9tVHJhY2tpZCI6IndlYl9wZWdhc3VzXzAucm91dGVyLXdlYi1wZWdhc3VzLTI0Nzk1MTYtZjZmY3QuMTc5MDUwNTMxODAwMC44OTMiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMS41MzkzMjdcIixcImN2cl9sMFwiOlwiODQuMTkwNDIyXCIsXCJmaW5hbF9wY3RyXCI6XCIxLjUzOTMyN1wiLFwiZmluYWxfcGN2clwiOlwiODQuMTkwNDIyXCJ9IiwidmlkZW9fdXBfbWlkIjowfYAFAJAFKJAFQ5AFSZAF1wGQBYkCkAWOApAFmgKQBakCkAWqApAFwAKQBcICkAXDApAFxQKQBcsCkAXOApAF0wKQBdYCkAXXApAF2AKQBdkCkAXaApAF3wKQBeECkAXjApAF5AKQBeUCkAXmApAF8AKQBfUCkAX7ApAF%2FwKQBY0DkAWUA5AFmAOQBZkDkAWaA5AFmwOQBaADkAWlA5AFpwOQBbADkAW2A5AFtwOQBcADkAXBA5AFxAOQBc0DkAXgA5AF9QOQBfgDkAX%2FA5AFxgWQBe8FkAXEB5AF1AeQBfAHkAWBCJAFoRGQBcgRkAXWEZAF%2BxGgBQC4BQLABdyHecgFB%2BAFBOgFAPIFfENBd1FBVEFDVlp6RWowRmxmMkdvUW0wQVFCeEdkUUFBZ0QrVkFYOWhxRUtnQWVYazljUUNxQUdON0xEL0RMQUJBY0FCbENQSUFRTHRBYzNNekQvMUFRQUFnRCtkQWdBQWdEK2xBdEVpMnordEFnQUFnRCsxQXRFaTJ6OD34BeXk9cQCgAb%2Fk%2BvcA4gGjeyw%2FwyQBgSYBgaoBuXk9cQC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C1%2Ci%7C%2Cj%7C%2Ck%7C1790505320138%2Cl%7C5636%2Cm%7C1790505320012%2Cn%7C1%2Co%7C0%2Cp%7Cad_card&ts=1790505320138
+          - generic [ref=e413]:
+            - heading [level=3] [ref=e414]:
+              - link "豆包AI助手，解决各种难题" [ref=e415] [cursor=pointer]:
+                - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5614%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C0%2Ce%7CCOuvsB8QmPvs1QIY%2FN7Xww0gESgBMI2glQI47itCIDE3OTA1MDUzMTgwMTJxMTBhODhhMjA0YTE3M3EyMTczSPzsu5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKA5gAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABHagBAbIBIF%2Bn3JHKnN8v%2BtwQogPCv%2F6AofmXaQc8pNtgTD1yQHGHugHqA2h0dHBzOi8vd3d3LmRvdWJhby5jb20vZG93bmxvYWQvZGVza3RvcD91Z19hcGtfdG9rZW49WUxOVDUmYWRfcGxhdGZvcm1faWQ9YmlsaWJpbGlfbGVhZCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxTWN3eDJkaC0yZGIxOHU0UVdYSWQ1TGo1ek5zNk0teHp2UFVkbDE1eVM2X3gySXFpenFjWG5fSlBjU2U0WmhFYjluVXREMlJGckJnUmVZOXRrenFpclNKVVd6dzBYMlQ1QVYydzFCTUpXeHRYOGFUSUxKS05ZUjBhRVdRWWZzQWwmdWdfc2VtdmVyPXYxLjAuMCZjYWlkPV9fQ0FJRF9fJnJlc291cmNlX2lkPV9fUkVTT1VSQ0VJRF9fJnNvdXJjZV9pZD01NjE0JmZyb21fc3BtaWQ9X19GUk9NU1BNSURfXyZyZXF1ZXN0X2lkPTE3OTA1MDUzMTgwMTJxMTBhODhhMjA0YTE3M3EyMTczJmNyZWF0aXZlX2lkPTM0ODgzNjQwNDUmbGlua2VkX2NyZWF0aXZlX2lkPTM2MzE2MDc2NzbCAQEw0gEA2AHKA%2BABgJTr3APoAaCcAfABAPgBCYACBIgCAJICAJgC6tMEoAJUqAKX0gSwAlS4AgDAAoC1GMgCVOoCAPgCup4DiAMAkgMAqAMAsAMAuAMAyAMA0gPLAXsiMSI6IjM2MzE2MDc2NzYiLCIxMiI6IjU2MTQiLCIxMyI6IjE5ODM0NTIiLCIxNiI6IjE5ODM0NTJfNTMwNTAiLCIyIjoiNDU0MjQ3NyIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjI4IjoiNDRkMWFhMzJjZWQ5YTEzYzFlODNmZjU4ZDQ1NWEwZDUiLCIzIjoiNDU0MjQ3NyIsIjQiOiIxMDM4IiwiNSI6IjIzMTEiLCI2IjoiNDU0MjQ3NyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBB2QBACYBAGgBAGqBAcIkuzZWBAEqgQHCNKJrVkQAbgECsAEAsoEANAEANgEAOIEpAI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJBTUtuZzBjUGhTNmRTMHZMRVVaME9aVWw3UE1PSk84eERxcHF1U3lyWDNYbXVPb19iT25qb0RheHZNNDBBbGlIM1lYVWhTbFg3S3VBelI0OUlnODRpVFhIbGdaeDhhZ2UyU0Jha2FySk9SbUpUdGlOeFhzWTVkNy1QV1hJM0M0WllUS3BiQWdhNF9WeklEQ0M0QmFCUkZMeDBvcGZjSEV3aTV2WUVzN21mNjh6Y29kRVdRZ3RlOHZwQXIwV0hfUEZweF9zRmxLRlcxRDI5QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkF3UHIifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgTlBXsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuNiwiYWNjZWxlcmF0ZV9pZCI6MTY0NzM2NzEzLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMTcuOTcxXCIsXCJhZGp1c3RfcmF0aW9cIjpcIjEuMDAwXCIsXCJiYWxhbmNlcl9pZFwiOjAsXCJiYWxhbmNlcl9yYXRpb1wiOlwiMC4wMDBcIixcImNoYXJnZV9leHBfa2V5X2RlcHRoXCI6XCJcIixcImNoYXJnZV9leHBfa2V5X2xpZ2h0XCI6XCJfZmx5X2NwYV9vbmxpbmVfY2hhcmdlOVwiLFwiY29zdF9kaWZmXCI6XCIwLjAwMFwifSIsImJpZF90eXBlIjoxLCJiaXpfdHlwZSI6MTIsImJpel90eXBlX2ZpeCI6MywiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjoyLCJmcm9tVHJhY2tpZCI6IndlYl9wZWdhc3VzXzAucm91dGVyLXdlYi1wZWdhc3VzLTI0Nzk1MTYtZjZmY3QuMTc5MDUwNTMxODAwMC44OTMiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMS41MzkzMjdcIixcImN2cl9sMFwiOlwiODQuMTkwNDIyXCIsXCJmaW5hbF9wY3RyXCI6XCIxLjUzOTMyN1wiLFwiZmluYWxfcGN2clwiOlwiODQuMTkwNDIyXCJ9IiwidmlkZW9fdXBfbWlkIjowfYAFAJAFKJAFQ5AFSZAF1wGQBYkCkAWOApAFmgKQBakCkAWqApAFwAKQBcICkAXDApAFxQKQBcsCkAXOApAF0wKQBdYCkAXXApAF2AKQBdkCkAXaApAF3wKQBeECkAXjApAF5AKQBeUCkAXmApAF8AKQBfUCkAX7ApAF%2FwKQBY0DkAWUA5AFmAOQBZkDkAWaA5AFmwOQBaADkAWlA5AFpwOQBbADkAW2A5AFtwOQBcADkAXBA5AFxAOQBc0DkAXgA5AF9QOQBfgDkAX%2FA5AFxgWQBe8FkAXEB5AF1AeQBfAHkAWBCJAFoRGQBcgRkAXWEZAF%2BxGgBQC4BQLABdyHecgFB%2BAFBOgFAPIFfENBd1FBVEFDVlp6RWowRmxmMkdvUW0wQVFCeEdkUUFBZ0QrVkFYOWhxRUtnQWVYazljUUNxQUdON0xEL0RMQUJBY0FCbENQSUFRTHRBYzNNekQvMUFRQUFnRCtkQWdBQWdEK2xBdEVpMnordEFnQUFnRCsxQXRFaTJ6OD34BeXk9cQCgAb%2Fk%2BvcA4gGjeyw%2FwyQBgSYBgaoBuXk9cQC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C1%2Ci%7C%2Cj%7C%2Ck%7C1790505320138%2Cl%7C5636%2Cm%7C1790505320012%2Cn%7C1%2Co%7C0%2Cp%7Cad_card&ts=1790505320138
+            - link "豆包" [ref=e417] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5614%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C0%2Ce%7CCOuvsB8QmPvs1QIY%2FN7Xww0gESgBMI2glQI47itCIDE3OTA1MDUzMTgwMTJxMTBhODhhMjA0YTE3M3EyMTczSPzsu5OONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKA5gAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABHagBAbIBIF%2Bn3JHKnN8v%2BtwQogPCv%2F6AofmXaQc8pNtgTD1yQHGHugHqA2h0dHBzOi8vd3d3LmRvdWJhby5jb20vZG93bmxvYWQvZGVza3RvcD91Z19hcGtfdG9rZW49WUxOVDUmYWRfcGxhdGZvcm1faWQ9YmlsaWJpbGlfbGVhZCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxTWN3eDJkaC0yZGIxOHU0UVdYSWQ1TGo1ek5zNk0teHp2UFVkbDE1eVM2X3gySXFpenFjWG5fSlBjU2U0WmhFYjluVXREMlJGckJnUmVZOXRrenFpclNKVVd6dzBYMlQ1QVYydzFCTUpXeHRYOGFUSUxKS05ZUjBhRVdRWWZzQWwmdWdfc2VtdmVyPXYxLjAuMCZjYWlkPV9fQ0FJRF9fJnJlc291cmNlX2lkPV9fUkVTT1VSQ0VJRF9fJnNvdXJjZV9pZD01NjE0JmZyb21fc3BtaWQ9X19GUk9NU1BNSURfXyZyZXF1ZXN0X2lkPTE3OTA1MDUzMTgwMTJxMTBhODhhMjA0YTE3M3EyMTczJmNyZWF0aXZlX2lkPTM0ODgzNjQwNDUmbGlua2VkX2NyZWF0aXZlX2lkPTM2MzE2MDc2NzbCAQEw0gEA2AHKA%2BABgJTr3APoAaCcAfABAPgBCYACBIgCAJICAJgC6tMEoAJUqAKX0gSwAlS4AgDAAoC1GMgCVOoCAPgCup4DiAMAkgMAqAMAsAMAuAMAyAMA0gPLAXsiMSI6IjM2MzE2MDc2NzYiLCIxMiI6IjU2MTQiLCIxMyI6IjE5ODM0NTIiLCIxNiI6IjE5ODM0NTJfNTMwNTAiLCIyIjoiNDU0MjQ3NyIsIjI0IjoiMSIsIjI1IjoiMTAzOCIsIjI2IjoiMjMxMSIsIjI4IjoiNDRkMWFhMzJjZWQ5YTEzYzFlODNmZjU4ZDQ1NWEwZDUiLCIzIjoiNDU0MjQ3NyIsIjQiOiIxMDM4IiwiNSI6IjIzMTEiLCI2IjoiNDU0MjQ3NyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBB2QBACYBAGgBAGqBAcIkuzZWBAEqgQHCNKJrVkQAbgECsAEAsoEANAEANgEAOIEpAI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJBTUtuZzBjUGhTNmRTMHZMRVVaME9aVWw3UE1PSk84eERxcHF1U3lyWDNYbXVPb19iT25qb0RheHZNNDBBbGlIM1lYVWhTbFg3S3VBelI0OUlnODRpVFhIbGdaeDhhZ2UyU0Jha2FySk9SbUpUdGlOeFhzWTVkNy1QV1hJM0M0WllUS3BiQWdhNF9WeklEQ0M0QmFCUkZMeDBvcGZjSEV3aTV2WUVzN21mNjh6Y29kRVdRZ3RlOHZwQXIwV0hfUEZweF9zRmxLRlcxRDI5QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkF3UHIifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgTlBXsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuNiwiYWNjZWxlcmF0ZV9pZCI6MTY0NzM2NzEzLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMTcuOTcxXCIsXCJhZGp1c3RfcmF0aW9cIjpcIjEuMDAwXCIsXCJiYWxhbmNlcl9pZFwiOjAsXCJiYWxhbmNlcl9yYXRpb1wiOlwiMC4wMDBcIixcImNoYXJnZV9leHBfa2V5X2RlcHRoXCI6XCJcIixcImNoYXJnZV9leHBfa2V5X2xpZ2h0XCI6XCJfZmx5X2NwYV9vbmxpbmVfY2hhcmdlOVwiLFwiY29zdF9kaWZmXCI6XCIwLjAwMFwifSIsImJpZF90eXBlIjoxLCJiaXpfdHlwZSI6MTIsImJpel90eXBlX2ZpeCI6MywiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjoyLCJmcm9tVHJhY2tpZCI6IndlYl9wZWdhc3VzXzAucm91dGVyLXdlYi1wZWdhc3VzLTI0Nzk1MTYtZjZmY3QuMTc5MDUwNTMxODAwMC44OTMiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiMS41MzkzMjdcIixcImN2cl9sMFwiOlwiODQuMTkwNDIyXCIsXCJmaW5hbF9wY3RyXCI6XCIxLjUzOTMyN1wiLFwiZmluYWxfcGN2clwiOlwiODQuMTkwNDIyXCJ9IiwidmlkZW9fdXBfbWlkIjowfYAFAJAFKJAFQ5AFSZAF1wGQBYkCkAWOApAFmgKQBakCkAWqApAFwAKQBcICkAXDApAFxQKQBcsCkAXOApAF0wKQBdYCkAXXApAF2AKQBdkCkAXaApAF3wKQBeECkAXjApAF5AKQBeUCkAXmApAF8AKQBfUCkAX7ApAF%2FwKQBY0DkAWUA5AFmAOQBZkDkAWaA5AFmwOQBaADkAWlA5AFpwOQBbADkAW2A5AFtwOQBcADkAXBA5AFxAOQBc0DkAXgA5AF9QOQBfgDkAX%2FA5AFxgWQBe8FkAXEB5AF1AeQBfAHkAWBCJAFoRGQBcgRkAXWEZAF%2BxGgBQC4BQLABdyHecgFB%2BAFBOgFAPIFfENBd1FBVEFDVlp6RWowRmxmMkdvUW0wQVFCeEdkUUFBZ0QrVkFYOWhxRUtnQWVYazljUUNxQUdON0xEL0RMQUJBY0FCbENQSUFRTHRBYzNNekQvMUFRQUFnRCtkQWdBQWdEK2xBdEVpMnordEFnQUFnRCsxQXRFaTJ6OD34BeXk9cQCgAb%2Fk%2BvcA4gGjeyw%2FwyQBgSYBgaoBuXk9cQC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C1%2Ci%7C%2Cj%7C%2Ck%7C1790505320138%2Cl%7C5636%2Cm%7C1790505320012%2Cn%7C1%2Co%7C0%2Cp%7Cad_logo&ts=1790505320138
+        - generic [ref=e422]:
+          - link [ref=e423] [cursor=pointer]:
+            - /url: https://www.bilibili.com/video/BV1rreg69EZ8?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e424]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 57.1万
+                    - generic: "366"
+                  - generic: 03:32
+          - generic [ref=e428]:
+            - heading [level=3] [ref=e429]:
+              - 'link "【AI COVER】JYP -《我要辞职了》（原唱: 田小娟）「最符合概念的一集」" [ref=e430] [cursor=pointer]':
+                - /url: https://www.bilibili.com/video/BV1rreg69EZ8?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - link "转旋的利奥利 · 9月17日" [ref=e432] [cursor=pointer]:
+              - /url: //space.bilibili.com/386968705
+              - generic "转旋的利奥利" [ref=e437]
+              - generic [ref=e438]: · 9月17日
+        - generic [ref=e442]:
+          - link [ref=e443] [cursor=pointer]:
+            - /url: https://www.bilibili.com/video/BV1iUaN6oEZp?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e444]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 9.8万
+                    - generic: "4032"
+                  - generic: 32:15
+          - generic [ref=e448]:
+            - heading [level=3] [ref=e449]:
+              - link "都说自己很快？30万内谁才是真大哥？" [ref=e450] [cursor=pointer]:
+                - /url: https://www.bilibili.com/video/BV1iUaN6oEZp?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - link "日积月磊-小磊哥 · 2天前" [ref=e452] [cursor=pointer]:
+              - /url: //space.bilibili.com/474374095
+              - generic "日积月磊-小磊哥" [ref=e457]
+              - generic [ref=e458]: · 2天前
+        - generic [ref=e462]:
+          - link [ref=e463] [cursor=pointer]:
+            - /url: https://www.bilibili.com/video/BV1yCeG6wEgh?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e464]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 108.9万
+                    - generic: "2036"
+                  - generic: 10:45
+          - generic [ref=e468]:
+            - heading [level=3] [ref=e469]:
+              - link "竖琴我知道，横琴是啥？" [ref=e470] [cursor=pointer]:
+                - /url: https://www.bilibili.com/video/BV1yCeG6wEgh?trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1790505318000.893
+            - generic [ref=e471]:
+              - generic [ref=e472]: 5万点赞
+              - link "星球研究所 · 9月19日" [ref=e473] [cursor=pointer]:
+                - /url: //space.bilibili.com/326427334
+                - generic "星球研究所" [ref=e474]
+                - generic [ref=e475]: · 9月19日
+        - generic [ref=e478]:
+          - link "赛事 1872.9万 游戏赛事" [ref=e480] [cursor=pointer]:
+            - /url: https://live.bilibili.com/22908869?live_from=81003
+            - generic [ref=e483]: 赛事
+            - generic:
+              - generic:
+                - generic: 1872.9万
+                - generic: 游戏赛事
+          - generic [ref=e488]:
+            - paragraph [ref=e489]:
+              - link "直播中 【直播】100T vs T1 上海全球冠军赛" [ref=e490] [cursor=pointer]:
+                - /url: https://live.bilibili.com/22908869?live_from=81003
+                - generic [ref=e491]: 直播中
+                - text: 【直播】100T vs T1 上海全球冠军赛
+            - paragraph:
+              - link:
+                - /url: //space.bilibili.com/2071691173
+        - generic [ref=e496]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e497]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e498]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e509]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e510]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e511]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e521]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e522]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+        - generic [ref=e523]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph
+                - paragraph
+                - paragraph
+      - button "换一换" [ref=e534]
+  - generic [ref=e541] [cursor=pointer]

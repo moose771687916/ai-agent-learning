@@ -1,0 +1,10 @@
+[     385ms] [INFO] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260920/d41d8cd98f00b204e9800998ecf8427e/aMXPR94Uwg.js:20259
+[     386ms] [INFO] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260920/d41d8cd98f00b204e9800998ecf8427e/aMXPR94Uwg.js:20259
+[     423ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.bilibili.com/blackboard/era/47i1w7EnbYEWyVgA.html:0
+[     464ms] [WARNING] No longer compatible in the future. Please change the usage method to obtain data in this way @ https://www.bilibili.com/blackboard/era/47i1w7EnbYEWyVgA.html:137
+[     466ms] [LOG] [bili-Mirror]:888.154620-没有对应配置,返回默认配置 @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:0
+[     466ms] [INFO] %c bili-fe-mirror %c v2.1.0  padding: 2px 6px; border-radius: 3px 0 0 3px; color: #fff; background: #FF6699; font-weight: bold; padding: 2px 6px; border-radius: 0 3px 3px 0; color: #fff; background: #FF9999; font-weight: bold; @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[     467ms] [LOG] 白屏检测是否正常 {status: ok, loop: 0, data: Object} @ https://www.bilibili.com/blackboard/era/47i1w7EnbYEWyVgA.html:98

@@ -1,0 +1,20 @@
+[     310ms] [LOG] [bili-Mirror]:888.154565-没有对应配置,返回默认配置 @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:0
+[     311ms] [INFO] %c bili-fe-mirror %c v2.1.0  padding: 2px 6px; border-radius: 3px 0 0 3px; color: #fff; background: #FF6699; font-weight: bold; padding: 2px 6px; border-radius: 0 3px 3px 0; color: #fff; background: #FF9999; font-weight: bold; @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[     652ms] [WARNING] [Vue warn]: Extraneous non-props attributes (disableLoginTip) were passed to component but could not be automatically inherited because component renders fragment or text root nodes. 
+  at <BiliHeader disableSticky=true disableLoginTip=true themeSwitch=false  ... > @ https://s1.hdslb.com/bfs/seed/laputa-header/bili-header.umd.js:81
+[     867ms] [INFO] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260727/cdc19f701f98475d2e815e921da304be/EvaRuntime_k6FWmzBxGC.js:20275
+[     867ms] [INFO] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260727/cdc19f701f98475d2e815e921da304be/EvaRuntime_k6FWmzBxGC.js:20275
+[    1099ms] [LOG] 白屏检测是否正常 {status: ok, loop: 0, data: Object} @ https://www.bilibili.com/blackboard/era/X1Wcn7ARKZFdpnoV.html?spm_id_from=333.1007.0.0:156
+[    1126ms] [WARNING] supportUpdateSelfProps 即将废除，请使用 requirements.props = ["$EvaUpdateSelfProps"] 替代。 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260727/cdc19f701f98475d2e815e921da304be/EvaRuntime_k6FWmzBxGC.js:13578
+[    1158ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/cdc19f701f98475d2e815e921da304be/PcSlidePlayer_nTFedThfVt.js:12994
+[    1184ms] [WARNING] No longer compatible in the future. Please change the usage method to obtain data in this way @ https://www.bilibili.com/blackboard/era/X1Wcn7ARKZFdpnoV.html?spm_id_from=333.1007.0.0:204
+[    1223ms] [WARNING] supportUpdateSelfProps 即将废除，请使用 requirements.props = ["$EvaUpdateSelfProps"] 替代。 @ https://s1.hdslb.com/bfs/activity-plat/static/10613/11875/11876/20260727/cdc19f701f98475d2e815e921da304be/EvaRuntime_k6FWmzBxGC.js:13578
+[    1258ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://www.bilibili.com/blackboard/newplayer.html?aid=117279954043987&autoplay=0&crossDomain=1&onlyPoster=1&as_wide=1&poster=1:109
+[    1259ms] [WARNING] {code: -101, message: 账号未登录, ttl: 1} @ :0
+[    1437ms] [LOG] request start @ https://s1.hdslb.com/bfs/static/player/view/player-view-sdk.js:25
+[    1478ms] [INFO] %c%s line-height: 30px; color: #FF6699 bili-fe-fp: 1.1.4 @ https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js:0
+[    1482ms] [ERROR] @bilibili/bili-user-fingerprint(report): report is not found @ https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js:0
+[    1608ms] [LOG] request done @ https://s1.hdslb.com/bfs/static/player/view/player-view-sdk.js:25

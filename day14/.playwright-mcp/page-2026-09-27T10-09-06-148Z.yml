@@ -1,0 +1,893 @@
+- generic [active] [ref=e1]:
+  - link "欢迎进入 百度一下，你就知道，盲人用户进入读屏幕模式请按快捷键Ctrl加Alt加R；阅读详细操作说明请按快捷键Ctrl加Alt加问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic:
+        - generic [ref=e150]:
+          - link "百度首页" [ref=e151] [cursor=pointer]:
+            - /url: /
+          - link "设置" [ref=e152] [cursor=pointer]:
+            - /url: javascript:;
+          - link "登录" [ref=e153] [cursor=pointer]:
+            - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+        - text: 
+      - generic [ref=e25]:
+        - generic:
+          - link [ref=e155] [cursor=pointer]:
+            - /url: /
+            - img "到百度首页" [ref=e156]
+          - generic [ref=e220]:
+            - textbox [ref=e222]: 乒乓球
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - generic [ref=e226] [cursor=pointer]
+                - generic [ref=e231] [cursor=pointer]
+                - generic [ref=e242] [cursor=pointer]
+              - button "百度一下" [ref=e247] [cursor=pointer]
+    - generic [ref=e251]:
+      - link [ref=e252] [cursor=pointer]:
+        - /url: https://chat.baidu.com/search?word=%E4%B9%92%E4%B9%93%E7%90%83&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22search_a_tab%22%2C%22sa%22%3A%22vs_tab%22%2C%22apagelid%22%3A%2213915407873963729307%22%2C%22ori_lid%22%3A%2213915407873963729307%22%7D
+      - generic [ref=e254]: 网页
+      - link "图片" [ref=e255] [cursor=pointer]:
+        - /url: http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&lid=c11d75bc0048219b&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=%E4%B9%92%E4%B9%93%E7%90%83
+      - link "资讯" [ref=e256] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&ie=utf-8&word=%E4%B9%92%E4%B9%93%E7%90%83
+      - link "视频" [ref=e257] [cursor=pointer]:
+        - /url: /sf/vsearch?pd=video&tn=vsearch&lid=c11d75bc0048219b&ie=utf-8&wd=%E4%B9%92%E4%B9%93%E7%90%83&rsv_spt=7&rsv_bp=1&f=8&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY
+      - link "笔记" [ref=e258] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?pd=note&rpf=pc&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=%E4%B9%92%E4%B9%93%E7%90%83
+      - link "地图" [ref=e259] [cursor=pointer]:
+        - /url: https://map.baidu.com/?newmap=1&ie=utf-8&from=pstab&s=s%26wd%3D%E4%B9%92%E4%B9%93%E7%90%83
+      - link "贴吧" [ref=e260] [cursor=pointer]:
+        - /url: http://tieba.baidu.com/f?fr=wwwt&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&kw=%E4%B9%92%E4%B9%93%E7%90%83
+      - link "文库" [ref=e261] [cursor=pointer]:
+        - /url: http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=%E4%B9%92%E4%B9%93%E7%90%83
+      - link "更多" [ref=e262] [cursor=pointer]:
+        - /url: http://www.baidu.com/more/
+      - generic [ref=e263] [cursor=pointer]: 搜索工具
+    - generic [ref=e264]:
+      - generic [ref=e265]:
+        - table [ref=e267]:
+          - rowgroup [ref=e268]:
+            - row [ref=e269]:
+              - cell " 登录百度帐号 交易更有保障  相关搜索  乒乓球在线直播观看  正在直播的乒乓球比赛  樊振东确认参加2026世界杯吗  中国男乒排名前十名  乒乓球拍哪个牌子好  中央CCTV5直播乒乓球    换一换 热搜榜 财经榜 民生榜  习近平主席讲述中美人民友好故事 1 媒体评3分钟内申请退票扣费75% 新 2 跳水梦之队给对手跳服了 3 期待中美青年继续友好交流 4 孙颖莎王曼昱会师决赛 热 5 李克勤迟到 草根歌手救场连唱20首 新 6 8旬老人卖房邻居多次劝退看房者 7 劣质椅子翻车 罗永浩：东方甄选卖更多 新 8 47岁“剧抛脸”演员张彤街拍走红 9 张雪机车团队多人在意大利被盗 10 尼泊尔发生雪崩 多人失联 新 11 无糖月饼能敞开吃？误区 12 歌手洪楗华病逝 年仅49岁 13 婚后9年发现喜褥里有对棉花小人 14 陪看：男双中日决战 新 15 中国篮球该清醒了 ▶想在此推广您的产品吗? 咨询热线：400-800-8888 e.baidu.com" [ref=e270]:
+                - list [ref=e273]:
+                  - listitem [ref=e274]:
+                    - generic [ref=e277]:
+                      - generic [ref=e278]: 
+                      - text: 登录百度帐号 交易更有保障
+                      - generic [ref=e279]: 
+                - generic [ref=e280]:
+                  - generic [ref=e286]:
+                    - generic [ref=e287]: 相关搜索
+                    - generic [ref=e289]:
+                      - link " 乒乓球在线直播观看" [ref=e292] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E4%B9%92%E4%B9%93%E7%90%83%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD%E8%A7%82%E7%9C%8B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=19bclWm3Uo5x9epVI3utji7A1VlnZnbyMHC6QmlusTuTv%2BMfIevwmjRpgso&rfqid=c11d75bc0048219b&rsv_dl=0_prs_28616_1&rq=%E4%B9%92%E4%B9%93%E7%90%83&rsf=101631151
+                        - generic [ref=e293]:
+                          - generic [ref=e294]: 
+                          - generic [ref=e295]: 乒乓球在线直播观看
+                      - link " 正在直播的乒乓球比赛" [ref=e298] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD%E7%9A%84%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rfqid=c11d75bc0048219b&rsv_dl=0_prs_28616_2&rq=%E4%B9%92%E4%B9%93%E7%90%83&rsf=101631101
+                        - generic [ref=e299]:
+                          - generic [ref=e300]: 
+                          - generic [ref=e301]: 正在直播的乒乓球比赛
+                      - link " 樊振东确认参加2026世界杯吗" [ref=e304] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A1%AE%E8%AE%A4%E5%8F%82%E5%8A%A02026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%97&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rfqid=c11d75bc0048219b&rsv_dl=0_prs_28616_3&rq=%E4%B9%92%E4%B9%93%E7%90%83&rsf=101633601
+                        - generic [ref=e305]:
+                          - generic [ref=e306]: 
+                          - generic [ref=e307]: 樊振东确认参加2026世界杯吗
+                      - link " 中国男乒排名前十名" [ref=e310] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%B9%92%E6%8E%92%E5%90%8D%E5%89%8D%E5%8D%81%E5%90%8D&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rfqid=c11d75bc0048219b&rsv_dl=0_prs_28616_4&rq=%E4%B9%92%E4%B9%93%E7%90%83&rsf=101634504
+                        - generic [ref=e311]:
+                          - generic [ref=e312]: 
+                          - generic [ref=e313]: 中国男乒排名前十名
+                      - link " 乒乓球拍哪个牌子好" [ref=e316] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E4%B9%92%E4%B9%93%E7%90%83%E6%8B%8D%E5%93%AA%E4%B8%AA%E7%89%8C%E5%AD%90%E5%A5%BD&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rfqid=c11d75bc0048219b&rsv_dl=0_prs_28616_5&rq=%E4%B9%92%E4%B9%93%E7%90%83&rsf=101637101
+                        - generic [ref=e317]:
+                          - generic [ref=e318]: 
+                          - generic [ref=e319]: 乒乓球拍哪个牌子好
+                      - link " 中央CCTV5直播乒乓球" [ref=e322] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E4%B8%AD%E5%A4%AECCTV5%E7%9B%B4%E6%92%AD%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rfqid=c11d75bc0048219b&rsv_dl=0_prs_28616_6&rq=%E4%B9%92%E4%B9%93%E7%90%83&rsf=101631101
+                        - generic [ref=e323]:
+                          - generic [ref=e324]: 
+                          - generic [ref=e325]: 中央CCTV5直播乒乓球
+                  - generic [ref=e329]:
+                    - generic "百度热搜" [ref=e330]:
+                      - link " " [ref=e331] [cursor=pointer]:
+                        - /url: https://top.baidu.com/board?platform=pc&sa=pcindex_a_right
+                        - generic [ref=e332]: 
+                        - generic [ref=e333]: 
+                      - link " 换一换" [ref=e335] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                        - generic [ref=e336]: 
+                        - text: 换一换
+                    - generic [ref=e337]:
+                      - generic [ref=e338] [cursor=pointer]: 热搜榜
+                      - generic [ref=e339] [cursor=pointer]: 财经榜
+                      - generic [ref=e340] [cursor=pointer]: 民生榜
+                    - generic [ref=e342]:
+                      - generic [ref=e344]:
+                        - generic [ref=e345]: 
+                        - link "习近平主席讲述中美人民友好故事" [ref=e347] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%AE%B2%E8%BF%B0%E4%B8%AD%E7%BE%8E%E4%BA%BA%E6%B0%91%E5%8F%8B%E5%A5%BD%E6%95%85%E4%BA%8B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_1&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e349]:
+                        - generic [ref=e350]: "1"
+                        - link "媒体评3分钟内申请退票扣费75%" [ref=e351] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%AA%92%E4%BD%93%E8%AF%843%E5%88%86%E9%92%9F%E5%86%85%E7%94%B3%E8%AF%B7%E9%80%80%E7%A5%A8%E6%89%A3%E8%B4%B975%25&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_2&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e352]: 新
+                      - generic [ref=e354]:
+                        - generic [ref=e355]: "2"
+                        - link "跳水梦之队给对手跳服了" [ref=e356] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E8%B7%B3%E6%B0%B4%E6%A2%A6%E4%B9%8B%E9%98%9F%E7%BB%99%E5%AF%B9%E6%89%8B%E8%B7%B3%E6%9C%8D%E4%BA%86&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_3&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e358]:
+                        - generic [ref=e359]: "3"
+                        - link "期待中美青年继续友好交流" [ref=e360] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%9C%9F%E5%BE%85%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E7%BB%A7%E7%BB%AD%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_4&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e362]:
+                        - generic [ref=e363]: "4"
+                        - link "孙颖莎王曼昱会师决赛" [ref=e364] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_5&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e365]: 热
+                      - generic [ref=e367]:
+                        - generic [ref=e368]: "5"
+                        - link "李克勤迟到 草根歌手救场连唱20首" [ref=e369] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0%20%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_6&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e370]: 新
+                      - generic [ref=e372]:
+                        - generic [ref=e373]: "6"
+                        - link "8旬老人卖房邻居多次劝退看房者" [ref=e374] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=8%E6%97%AC%E8%80%81%E4%BA%BA%E5%8D%96%E6%88%BF%E9%82%BB%E5%B1%85%E5%A4%9A%E6%AC%A1%E5%8A%9D%E9%80%80%E7%9C%8B%E6%88%BF%E8%80%85&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_7&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e376]:
+                        - generic [ref=e377]: "7"
+                        - link "劣质椅子翻车 罗永浩：东方甄选卖更多" [ref=e378] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%8A%A3%E8%B4%A8%E6%A4%85%E5%AD%90%E7%BF%BB%E8%BD%A6%20%E7%BD%97%E6%B0%B8%E6%B5%A9%EF%BC%9A%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%8D%96%E6%9B%B4%E5%A4%9A&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_8&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e379]: 新
+                      - generic [ref=e381]:
+                        - generic [ref=e382]: "8"
+                        - link "47岁“剧抛脸”演员张彤街拍走红" [ref=e383] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=47%E5%B2%81%E2%80%9C%E5%89%A7%E6%8A%9B%E8%84%B8%E2%80%9D%E6%BC%94%E5%91%98%E5%BC%A0%E5%BD%A4%E8%A1%97%E6%8B%8D%E8%B5%B0%E7%BA%A2&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_9&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e385]:
+                        - generic [ref=e386]: "9"
+                        - link "张雪机车团队多人在意大利被盗" [ref=e387] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A2%AB%E7%9B%97&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=6b410ls8y2EPYS4MY%2FCq2v32Q%2BWSbVZ4aAbobue2NrA35QshETOQvds25JQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_10&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e389]:
+                        - generic [ref=e390]: "10"
+                        - link "尼泊尔发生雪崩 多人失联" [ref=e391] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8F%91%E7%94%9F%E9%9B%AA%E5%B4%A9%20%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63b2eDuH0yioiKDX0NG1%2FdQWTOv8%2FMrw0%2BU0N%2BbysF5Yy8jQaVkkdAWPwvQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_11&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e392]: 新
+                      - generic [ref=e394]:
+                        - generic [ref=e395]: "11"
+                        - link "无糖月饼能敞开吃？误区" [ref=e396] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E8%83%BD%E6%95%9E%E5%BC%80%E5%90%83%EF%BC%9F%E8%AF%AF%E5%8C%BA&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63b2eDuH0yioiKDX0NG1%2FdQWTOv8%2FMrw0%2BU0N%2BbysF5Yy8jQaVkkdAWPwvQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_12&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e398]:
+                        - generic [ref=e399]: "12"
+                        - link "歌手洪楗华病逝 年仅49岁" [ref=e400] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%AD%8C%E6%89%8B%E6%B4%AA%E6%A5%97%E5%8D%8E%E7%97%85%E9%80%9D%20%E5%B9%B4%E4%BB%8549%E5%B2%81&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63b2eDuH0yioiKDX0NG1%2FdQWTOv8%2FMrw0%2BU0N%2BbysF5Yy8jQaVkkdAWPwvQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_13&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e402]:
+                        - generic [ref=e403]: "13"
+                        - link "婚后9年发现喜褥里有对棉花小人" [ref=e404] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%A9%9A%E5%90%8E9%E5%B9%B4%E5%8F%91%E7%8E%B0%E5%96%9C%E8%A4%A5%E9%87%8C%E6%9C%89%E5%AF%B9%E6%A3%89%E8%8A%B1%E5%B0%8F%E4%BA%BA&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63b2eDuH0yioiKDX0NG1%2FdQWTOv8%2FMrw0%2BU0N%2BbysF5Yy8jQaVkkdAWPwvQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_14&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e406]:
+                        - generic [ref=e407]: "14"
+                        - link "陪看：男双中日决战" [ref=e408] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E9%99%AA%E7%9C%8B%EF%BC%9A%E7%94%B7%E5%8F%8C%E4%B8%AD%E6%97%A5%E5%86%B3%E6%88%98&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63b2eDuH0yioiKDX0NG1%2FdQWTOv8%2FMrw0%2BU0N%2BbysF5Yy8jQaVkkdAWPwvQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_1_15_15&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e409]: 新
+                      - generic [ref=e411]:
+                        - generic [ref=e412]: "15"
+                        - link "中国篮球该清醒了" [ref=e413] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E8%AF%A5%E6%B8%85%E9%86%92%E4%BA%86&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63b2eDuH0yioiKDX0NG1%2FdQWTOv8%2FMrw0%2BU0N%2BbysF5Yy8jQaVkkdAWPwvQ&rqid=c11d75bc0048219b&rsf=50be753d10cc1b03f4ffa39d5d871534_16_30_16&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                - generic [ref=e420]:
+                  - heading [level=2] [ref=e421]:
+                    - link "▶想在此推广您的产品吗?" [ref=e422] [cursor=pointer]:
+                      - /url: https://www.baidu.com/other.php?url=af00000mkjhRgLzhL0uHR_y-ZzyDMgxN58fJCPIxmT2LsHNj-qwQGR3bzD23moHsqGVuuRUpKpHjK-NABo4lfEVUyekgd8uc4UfZyT8Sc5_8RRrYplmAz73MdNttyGyg--RSfXgK8zCbov5JBMo6hZAGnknzzMjvm9Vvq72VyqhL7vmFEsDC6kvPwwYrqLAwU0wc5MbVeEvGr3BFeNUrY3ItCu6w.DY_NR2Ar5Od66H4g_3_ac2rra6ePCIh6e1FdGhmo_z2N9h9mePqh1T0.TLFWgv-b5Hc0TLFWpyfqn6Kk5fKYUHLA8TgikOc0IgP-T-qYXgK-5H00mywxIZ-suHYkn6KLULFb5fKzmLmqn0KdThkxpyfqnHRYnWfzPjTvPsKVINqGujYs0Adxpyfqn0KVIZK_gv-b5H00TZuxpyfqn0KGuAnqiD4K0ZKGujY40APGujYkn1f0uhkY5HDkPHfs0AN3T7qYpyd-5HnzPH01PWRknW00Tv7xuhk9u1Ys0APzm1Yzn1nkPs&dt=1790503742&wd=%E4%B9%92%E4%B9%93%E7%90%83&ai=0_427675661_1_1&tpl=tpl_10341_15816_11345&l=1542424767
+                  - link "咨询热线：400-800-8888" [ref=e423] [cursor=pointer]:
+                    - /url: https://www.baidu.com/other.php?url=af00000mkjhRgLzhLjrxHeINKnYU04lWUa50aDsDz8f1sT7ANAgTWQKbRzzFH2-JJ0vKZuHc8M6ZpxsIcATjm-WUbzQjwRNmaIIYGbyJqahOSZ8YYMObXlWmfS5knSQ61nFGK5HVzkQ3rn43MASRhqja_6BpucU4OuIv-7tsENubaAq00Ql5FJD6ernIRj_EczzIPe3bDWr1mgWQ17osuWAXtcrO.DY_NR2Ar5Od66H4g_3_ac2rra6ePCIh6e1FdGhmo_z2N9h9mePqh1T0.TLFWgv-b5Hc0TLFWpyfqn6Kk5fKYUHLA8TgikOc0IgP-T-qYXgK-5H00mywxIZ-suHYkn6KLULFb5fKzmLmqn0KdThkxpyfqnHRYnWfzPjTvr0KVINqGujYs0Adxpyfqn0KVIZK_gv-b5H00TZuxpyfqn0KGuAnqiD4K0ZKGujY40APGujYkn1f0uhkY5HDkPHfs0AN3T7qYpyd-5HnzPH01PWRknW00Tv7xuhk9u1Ys0APzm1Y1PHndrf&dt=1790503742&wd=%E4%B9%92%E4%B9%93%E7%90%83&ai=0_427675661_1_1&tpl=tpl_10341_15816_11345&l=1542424768
+                  - link "e.baidu.com" [ref=e424] [cursor=pointer]:
+                    - /url: https://www.baidu.com/other.php?url=af00000mkjhRgLzhL7SCJ8ri_uuAMfGV00JFm1F0TbT4L07siAgOSZNQ_7-UvXJzvW_c22N2QvArYiOuBrM6LJi3ZP7HmRBWWDtKmpQFlsUM0sLKpv9fjA_BDqIluceE1zroArx7L30UvBrlkq6tIU5Fju6efdHJUEyFpOKagkUOUwbMhfdAqG7lKM7MArlHP2CNua-eWfNyOCtfDN9mv59-qq8o.DY_NR2Ar5Od66H4g_3_ac2rra6ePCIh6e1FdGhmo_z2N9h9mePqh1T0.TLFWgv-b5Hc0TLFWpyfqn6Kk5fKYUHLA8TgikOc0IgP-T-qYXgK-5H00mywxIZ-suHYkn6KLULFb5fKzmLmqn0KdThkxpyfqnHRYnWfzPjTvrfKVINqGujYs0Adxpyfqn0KVIZK_gv-b5H00TZuxpyfqn0KGuAnqiD4K0ZKGujY40APGujYkn1f0uhkY5HDkPHfs0AN3T7qYpyd-5HnzPH01PWRknW00Tv7xuhk9u1Ys0APzm1Yzn1czPs&dt=1790503742&wd=%E4%B9%92%E4%B9%93%E7%90%83&ai=0_427675661_1_1&tpl=tpl_10341_15816_11345&l=1542424769
+        - generic [ref=e425]:
+          - generic [ref=e426]: 搜索结果涉及价格仅作参考，请以商家官网为准
+          - generic [ref=e429]:
+            - generic [ref=e433]:
+              - heading [level=3] [ref=e435]:
+                - link "乒乓球-京东精选-放心选好物! 名企" [ref=e437] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - text: 乒乓球-京东精选-放心选好物!
+                  - generic [ref=e438]: 名企
+              - generic [ref=e441]:
+                - link "商品名称:捷速优乒乓球教学U盘视频教程入门到专业动作训练自学技巧培训全套优盘 打包全部内容【u盘】三级类目:车载影音店铺名称:阿狸u盘工作室小店品牌:捷速优" [ref=e442] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=e443]:
+                    - generic [ref=e444]: 商品名称:捷速优乒乓球教学U盘视频教程入门到专业动作训练自学技巧培训全套优盘 打包全部内容【u盘】
+                    - generic [ref=e445]: 三级类目:车载影音
+                    - generic [ref=e446]: 店铺名称:阿狸u盘工作室小店
+                    - generic [ref=e447]: 品牌:捷速优
+                - link [ref=e448] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - link "选乒乓球上京东,品类齐全,专业品质,放心挑好货,购物更省心超多品牌,满足您随时随地随心的多元化需求" [ref=e451] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=e456]:
+                - link "京东" [ref=e457] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "2026-09" [ref=e458] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "" [ref=e459] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "广告" [ref=e462] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link [ref=e463] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wyt2m14Z17DVxBoDkgeqlpNt-ZPDFi8PRM18afc__CKmgY3-yZyffcr-hstqkC_n0QT3JUwNiC5GkRs9TfHiCSeUljZEKmZMbTJxggPycrfr4v15YcpydD3SjkeCR5EaAf5fyjutNtWGyu8-zA9lNP5UHZQ3HI2xp3u7ZnIOxvyCjkLHykUkuAEKtLAyeYXPAIQrIWwio7QLpB.DD_NR2Ar5Od66sw5I7M9CE9exQQTBaPrMLek8sHfGmEukmntpyuCp88aFeCEETkblTMWYS5ZIblkECFSq17erQKA-hpAo-o3qreWvUor1W_3eS_Qr2E-YLUhr_QrQFzlUV1ZN1rQ-YLUhr8Qy1zlUV1Zy64BJ9fkk3X5Vs45o9zxyu5--8w9zxyPQnYPyZWqXdrW6IPI93OQjbLXxu9zUEgx9zUVSHjbLXxu9zUEgx9zUVOZjbLXxW9zUVqhZF8vTTrHGu84ggmX5z33TMHfhudlLst_U_DY2T5Z4NvyIhZFY1F4UCTXZWt_-hHHuSxQqOEJstx-93OQjblUe8glnyZWtCEL38zQqOOgOvc_ElZZtdTguSUq8QqTgeIqTygeqDgeTPvJEklcELecSVqLQqAFBQqSQ_BOxOdOqBQQS9kOPg7vxhOUBOg7SLxg7-SOw7SLjIJotXBQqSzPi_nYQAH_olpd.U1Yk0ZDqkoM7Y_xz0ZKGm1Ys0ZfqkoM7Y_xz0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5Hb0mv-b5HD1P0KVIjYknjDLg16Lg1csPH7xnH0krNtknH0YnNt1PW0k0AVG5H00TMfqn1cd0AFG5HDdr7tznjf0UynqnH0kPdtsg1csPH7xnH0krNtYn7ts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnWTYPW0Lrjb0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd8p6KGuAnqiD4K0ZKCIZbq0Zw9ThI-IjYvndtsg1Ddn0KYIgnqn1msnjT1PWcdPjc3PHfvPjmYP6Kzug7Y5HDLrH0dnjnLPjc3nH60pynqn0K1pyfqm1DkujTdmhnsnjf3nWD4m6KWTvYqnW-DrHmsnDcsPRnkPWKAffK_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00XMfqn0KBIhfqnfKMTZfqnfKMmgfqnfKVmdqhThqV5HKxn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HKxn7tsg1KxnH0krjn1rNts0ZK9I7qhUA7M5H00uAPGujY1nHfdP1c30ANYpyfqQHD0mgPsmvnqn0KdTA-8mvnqn0KkUymqn0KhmLNY5H00pgPWUjYs0A7buhk9u1Yk0Akhm1Ys0AwWmvfq0Zwzmyw-5HcsnWcsn6KBuA-b5HDvwWIAPjPKfbcsf1bYwHwKwRDsnRcdfWwDn1wjrHua0AFY5H00Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0sc10Wn0KBmy4omyPW5H0Wnansc100TNqv5H08njKxna3sn7tsQW0sg108nj7xna3sn-tsQWbLg1D8nW9xni3zr7tsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqPWm0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWT1&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+            - generic [ref=e468]:
+              - heading [level=3] [ref=e470]:
+                - link "乒乓球用品专卖店,新款乒乓球拍等你来挑选" [ref=e472] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - link "乒乓球用品专卖店实体店-淘宝热卖,大牌集结,好物多多!划算又省心,品质好货,尽在淘宝,淘你满意!" [ref=e475] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=e480]:
+                - link "淘宝热卖" [ref=e481] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "2026-09" [ref=e482] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "" [ref=e483] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "广告" [ref=e486] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link [ref=e487] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=af0000KpxzUee8Wytjm-F6Y7cBQecOIdtvQUEk4d_JwkZh4Xh6QbzUPUyW44s4XCzoeI1qu3nI2DB1Zzf76sOgHrufGf0wBRjKecnJjPjA9Fj6OUE8MklgIBTkKbd4mWsI8nJ1J0d4V2ZIhahpK5JmyHlibRe7qKP11i-oYLw829S6dd8GQnE3Q_Argzm6koRZe8ReFJqko5Fxwn5UNR3rMxvDl4.7b_NR2Ar5Od66hHTSunPjzWxGEutJjQovgc6h8es_mc8E0k6BXl2PrMov_X5ug3eVIxAZke2qLWIol3vPrM-zI5HkzuPv1-3eorzEFb4XrHIkvX5HblL_xSjGlmCEoODOfeTxlZMNPfORSOOmdqmvr8VBJ9fkk3X5Vs45o9zxgKwuB8tJjQovgcs45oAMH9zxy9xA-hpAojkS_zIX5793OQHG4TMHYtThHI_4Xrl1_ozurgWbLTIMWY4nrHGeRlrKYdvZWt_rHI4qhZF8qISZF8L4nrHI4qhZF8qISZF8LtTrHI4SrZF8LvmTheuks4PLM33ThexvmThevenrHI4e_rHIE33Theug9zUE5_s4PLo_s4PvOW9zUE5I9zUVMzs4PvOGs4PLM8s4PLoeTrHIEtTrHI4e_rHIex5jbLUO5jbLXxu9zUEg4mThexks4PLM8s4PLoeTrHIEtTrHGE84xCkmX5zOOSoe8glngOOvGyAp7WIb3eo70.U1Yz0ZDqkoM7Y_xz0ZKGm1Yk0ZfqkoM7Y_xzYt5AVqXCsEidl_Jd1rydl6KGUHYznWR0u1dsTLwz0ZNG5yF9pywd0ZKGujY40APGujYkn1f0UgfqnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HnzPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnW0dnNtknjD4g100TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1Qy4J0A-bm1dcHbD0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HDLn1D3PWbLnW0vP1fzn1bsPjfv0ZF-TgfqnHT4njRsn1TYnW6kr0KGm1Ys0ZPGujdWnH7bP1NBm10sPj6znH-B0AP1UHYzrRf4PW0sfW0df1DvnDuK0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1R0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0znW0z0AFbpyfqnHuAPYmYnY7afWKjrHw7PD77fH0kfWNaPDf1PDn4Pbc0Uvnqn6KBIjYk0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3snansc100mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW0zg108njPxna34P7tkQWcvg1D8nWuxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPHcv0Ad-IjYs0AP-IA7M5Hmv0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqn0KsTjfqn6KWThnqnHf4njm&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+          - generic [ref=e494]:
+            - generic [ref=e496]:
+              - generic [ref=e497]: 总结全网26篇结果
+              - generic [ref=e505]:
+                - text: 
+                - generic [ref=e506]: 
+            - generic [ref=e507]:
+              - generic [ref=e509]:
+                - paragraph [ref=e519]: 乒乓球是起源于19世纪末英国的室内球类运动，也是我国的“国球”，凭借门槛低、趣味性强、全民普及度高的特点成为全球参与人数最多的球类运动之一。
+                - generic [ref=e520]:
+                  - generic [ref=e523]:
+                    - generic [ref=e524]:
+                      - generic [ref=e525]:
+                        - generic [ref=e526]: 基础定义与发展历程
+                        - text: 
+                      - list [ref=e537]:
+                        - listitem [ref=e538]:
+                          - text: 乒乓球最初是网球的室内替代游戏，诞生于19世纪末的英国，后续逐步演变为独立的竞技体育项目，
+                          - link [ref=e539] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=284epnxrZ4nkZQLmpGYVXY%2FU5y3bi0zNvloGKrRV1sUzTek82ci6dLY8dLw&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 国际乒
+                            - generic [ref=e540]: 联
+                          - text: 和WTT世界乒乓球职业大联盟是当前全球范围内的两大核心管理机构。‌‌‌
+                          - generic [ref=e542]: 
+                        - listitem [ref=e548]:
+                          - text: 中国国家乒乓球队1952年正式组建，1959年
+                          - link [ref=e549] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E5%AE%B9%E5%9B%BD%E5%9B%A2&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=4307Ccjx4VkGwb83oBdXRbEp6I7i%2BWyw3%2B0c0OYNklVoB4uxRAIqQkqjI90&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 容国
+                            - generic [ref=e550]: 团
+                          - text: 为中国夺得首个乒乓球世界冠军，1961年
+                          - link [ref=e552] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E7%AC%AC26%E5%B1%8A%E5%8C%97%E4%BA%AC%E4%B8%96%E4%B9%92%E8%B5%9B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=26d4EfEuZJ8%2F34tCvggRsdMr%2B9MDjkgB8LGsNfjaDRLy8hLJOVJM6MUYNEo&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 第26届北京世乒
+                            - generic [ref=e553]: 赛
+                          - text: 国乒首次拿下男团世界冠军，正式跻身世界顶尖行列。‌‌
+                          - button "参考文档，单指双击即可执行" [ref=e555]:
+                            - generic [ref=e556]: 百科
+                        - listitem [ref=e559]:
+                          - text: 截至2026年5月，中国乒乓球队已经累计有119人成为世界冠军，
+                          - link [ref=e560] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=2026%E5%B9%B4%E4%BC%A6%E6%95%A6%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%A2%E4%BD%93%E8%B5%9B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=63dcj1rmJj0XdMqKweSic9NezKODibvuAbdaYCleCsb4bbd5Ly4117zQcI4&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 2026年伦敦世乒赛团体
+                            - generic [ref=e561]: 赛
+                          - text: 上国乒实现男团12连冠、女团七连冠，继续保持在世界乒坛的统治地位。‌‌
+                          - button "参考文档，单指双击即可执行" [ref=e563]:
+                            - generic [ref=e564]: 百科
+                        - listitem [ref=e567]:
+                          - text: 乒乓球1988年正式成为奥运会比赛项目，2008年北京奥运会起奥运赛场取消双打项目改为团体赛，截至2024年巴黎奥运会，国乒已经包揽了奥运会乒乓球全部5个项目的金牌。‌‌
+                          - button "参考文档，单指双击即可执行" [ref=e568]:
+                            - generic [ref=e569]: 百科
+                    - generic [ref=e572]:
+                      - generic [ref=e573]:
+                        - generic [ref=e574]: 比赛规则与场地装备标准
+                        - text: 
+                      - list [ref=e585]:
+                        - listitem [ref=e586]:
+                          - text: 正式比赛采用11分制，每两分轮换发球权，单局比赛先得到11分且领先对手2分的选手获胜，单打、双打赛事一般采用七局四胜制，团体赛为五场三胜制，每场比赛五局三胜。‌‌‌
+                          - generic [ref=e587]: 
+                        - listitem [ref=e593]:
+                          - text: 标准比赛场地的球台尺寸为长2.74米、宽1.525米、高0.76米，台面为暗色无光泽材质，球网高度为15.25厘米，网宽1.83米，悬挂在台面中央位置。‌‌‌
+                          - generic [ref=e594]: 
+                        - listitem [ref=e600]:
+                          - text: 比赛用球直径为40毫米，重量为2.7克，颜色统一为白色或橙色，三星级球是国际正式赛事的指定用球，二星级适合日常训练使用，一星级多用于休闲娱乐场景。‌‌‌
+                          - generic [ref=e601]: 
+                        - listitem [ref=e607]:
+                          - text: 发球环节要求发球者必须将球近乎垂直向上抛起至少16厘米，不得让球旋转，球从最高点下落之后才能击球，球需要先触碰发球方半台，越过球网后再落到接发球方半台，否则直接判定发球失分。‌‌‌
+                          - generic [ref=e608]: 
+                    - generic [ref=e614]:
+                      - generic [ref=e615]:
+                        - generic [ref=e616]: 近期热门赛事、选手与周边推荐
+                        - text: 
+                      - list [ref=e627]:
+                        - listitem [ref=e628]:
+                          - text: 截至2026年9月27日正在举办的名古屋亚运会乒乓球赛事中，
+                          - link [ref=e629] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E5%AD%99%E9%A2%96%E8%8E%8E&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=d5e6qGwZiJnWWMHxOgHdAXpE%2BgeJ%2FEZmsXRs0dK6BKyRXzW2TGSzuXL3BdM&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 孙颖
+                            - generic [ref=e630]: 莎
+                          - text: 、
+                          - link [ref=e632] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E7%8E%8B%E6%9B%BC%E6%98%B1&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=0c694lnpHQnvMxeKwHUH0vgQNSofvGrBSqrQRb4Q7%2FV8qPLkskgeNGaA17o&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 王曼
+                            - generic [ref=e633]: 昱
+                          - text: 已经提前包揽女单冠亚军，男双决赛将由
+                          - link [ref=e635] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E6%9E%97%E8%AF%97%E6%A0%8B&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=0c694lnpHQnvMxeKwHUH0vgQNSofvGrBSqrQRb4Q7%2FV8qPLkskgeNGaA17o&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 林诗
+                            - generic [ref=e636]: 栋
+                          - text: /
+                          - link [ref=e638] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E9%BB%84%E5%8F%8B%E6%94%BF&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=d3b5W6P6nJE7CrNKZSIT5bqc%2FBQWLQyreCQhHuvFORtVUqwA36t76RbanOs&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 黄友
+                            - generic [ref=e639]: 政
+                          - text: 对阵日本组合
+                          - link [ref=e641] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8566Jd5U3IFqJ%2BYa720bNwh1FFkZqYR1tmBP3wsrqkHu1hkrWb3msm5oqWw&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 张本智
+                            - generic [ref=e642]: 和
+                          - text: /
+                          - link [ref=e644] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E7%AD%B1%E5%86%A2%E5%A4%A7%E7%99%BB&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=f945wy5RHjhInouit4B1nxNqRDcX3q41eaBXkAvvUOA%2BIClAv1gcSYUXPhQ&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 筱冢大
+                            - generic [ref=e645]: 登
+                          - text: ，此前国乒已经拿下混双冠军和女团六连冠，男团项目国乒2-3负于日本获得银牌。‌‌‌
+                          - button "参考文档，单指双击即可执行"
+                          - text: ‌
+                          - generic [ref=e647]: 
+                        - listitem [ref=e653]:
+                          - text: 2026年10月1日至11日
+                          - link [ref=e654] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=da68DLQ8FOFlfEaqjjyd4eRappR0uy4X9KLarjQ15V2hQe%2BeMUKTIA368Mk&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: WTT中国大满
+                            - generic [ref=e655]: 贯
+                          - text: 将在北京石景山首钢园举办，这是年度四站WTT大满贯赛事之一，设置男单、女单、男双、女双、混双五个竞技项目，目前官方特许周边已经全线上架。‌‌
+                          - button "参考文档，单指双击即可执行"
+                        - listitem [ref=e657]:
+                          - text: 2026年的热门乒乓球周边品类非常丰富，WTT中国大满贯官方周边包含四大系列80余款产品：
+                          - list [ref=e658]:
+                            - listitem [ref=e659]: 毛绒类：全新动物园系列软萌毛绒挂件，结合乒乓球元素和小动物形象，治愈感十足。
+                            - listitem [ref=e660]: 徽章类：升级款互动机关徽章，首次推出五个项目对应的奖杯系列徽章，加入旋转、摇摇乐等趣味玩法，收藏价值很高。
+                            - listitem [ref=e661]: 配饰类：虎眼石金丝玉手串、福禄珠串手机链、动物园系列手机绳、发饰套组等，兼顾日常穿搭和赛事纪念属性。
+                            - listitem [ref=e662]:
+                              - text: 生活类：包含包袋、笔记本、杯具、按摩棒等实用单品，把乒乓元素融入通勤、居家的各类日常场景。‌‌
+                              - generic [ref=e663]: 
+                        - listitem [ref=e669]:
+                          - text: 大众日常选购的热门实用周边还包括
+                          - link [ref=e670] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E7%BA%A2%E5%8F%8C%E5%96%9C%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=b689itouXYWqIZcUMxDZQbFaFJWM5j8IH1F5qIxiccM8n151s4KhKL8iiO4&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 红双
+                            - generic [ref=e671]: 喜
+                          - text: 、
+                          - link [ref=e673] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E5%8F%8C%E9%B1%BC%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=b689itouXYWqIZcUMxDZQbFaFJWM5j8IH1F5qIxiccM8n151s4KhKL8iiO4&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 双
+                            - generic [ref=e674]: 鱼
+                          - text: 推出的国乒纪念款三星乒乓球，印有
+                          - link [ref=e676] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E7%8E%8B%E6%A5%9A%E9%92%A6&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8a9ez1cwR0JgUInVN830VBUC3W%2FwC2Nl80VGbc6Wx3EwlFTWicgXnmKxMLA&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 王楚
+                            - generic [ref=e677]: 钦
+                          - text: 、孙颖莎等主力选手肖像的定制纪念球，
+                          - link [ref=e679] [cursor=pointer]:
+                            - /url: /s?rsv_idx=1&wd=%E6%9D%8E%E5%AE%81%20%E4%B9%92%E4%B9%93%E7%90%83%E5%A4%A7%E8%B5%9B%E6%9C%8D&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=09779zQWGH0Q9JEhuTIPM8Aw0DYIdJnCSlmdxBBIL6YMEdzLOsQ0WNhehvQ&rsv_dl=re_dqa_generate&sa=re_dqa_generate
+                            - text: 李
+                            - generic [ref=e680]: 宁
+                          - text: 推出的亚运会“五星映荣耀”系列大赛服和训练服，面料采用吸湿排汗的功能纱线，日常打球或者休闲穿着都很合适。‌‌‌
+                          - generic [ref=e682]: 
+                  - paragraph [ref=e694]: 需要我帮你分析名古屋亚运会国乒的赛程和关键看点吗？可以快速了解赛事看点和中国队的战术安排。
+                - generic [ref=e698]:
+                  - textbox "👌好的，继续吧" [ref=e699]
+                  - generic [ref=e700]: 
+              - generic [ref=e710] [cursor=pointer]:
+                - generic [ref=e711]: 展开剩余70%内容
+                - generic [ref=e712]: 
+              - generic [ref=e713]:
+                - generic [ref=e714]: 内容由AI生成
+                - generic [ref=e717] [cursor=pointer]:
+                  - generic [ref=e718]: 
+                  - generic [ref=e722]: 
+                  - generic [ref=e726]:
+                    - generic [ref=e727]: 
+                    - generic [ref=e733]:
+                      - generic [ref=e734]: 乒乓球
+                      - generic [ref=e739]:
+                        - generic [ref=e740]: 长按识别，即刻体验百度AI
+                        - generic [ref=e741]: 以上内容均由AI生成
+                  - generic [ref=e743]: 
+                  - generic [ref=e747]: 
+          - generic [ref=e752]:
+            - heading [level=3] [ref=e753]:
+              - link [ref=e754] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPRMyqxbg9fbGHFgiR00sL1msTBBMvSSBQm36N52hU24MPvT8cTWEWbNxwhkPnCrY3WRPrFikxz7YkJaSEZg08qa
+                - paragraph [ref=e757]:
+                  - generic [ref=e759]:
+                    - emphasis [ref=e760]: 乒乓球
+                    - text: "- 百度百科"
+            - generic [ref=e762]:
+              - generic [ref=e764]:
+                - generic [ref=e765]: 
+                - generic [ref=e772]:
+                  - paragraph [ref=e776]:
+                    - generic [ref=e778]:
+                      - emphasis [ref=e779]: 乒乓球
+                      - text: （table tennis）是一种世界流行的球类体育项目，包括进攻、对抗和防守，被称为中国的“国球”。
+                      - emphasis [ref=e780]: 乒乓球
+                      - text: 起源于英国，由网球运动派生而来。19世纪后期，英国一些大学生在室内以桌为台，书为网，酒瓶软木塞为球，在桌上推来挡去，形成“桌上网球”游戏。1890年左右英格兰著...
+                    - generic [ref=e782]:
+                      - link "详情" [ref=e783] [cursor=pointer]:
+                        - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPRMyqxbg9fbGHFgiR00sL1msTBBMvSSBQm36N52hU24MPvT8cTWEWbNxwhkPnCrY3WRPrFikxz7YkJaSEZg08qa
+                      - link "" [ref=e784] [cursor=pointer]:
+                        - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPRMyqxbg9fbGHFgiR00sL1msTBBMvSSBQm36N52hU24MPvT8cTWEWbNxwhkPnCrY3WRPrFikxz7YkJaSEZg08qa
+                  - generic [ref=e788]:
+                    - link "历史发展" [ref=e790] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4Ri7nVCUNg7RVpKIK4BtS2gS0rM90b4lfOKyTyXv2XDnyOrE1_AZXAOJ13YVPsdBCQ
+                    - link "场地器材" [ref=e793] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4Ri7nVCUNg7RVpKIK4BtS2gS0rM90b4lfOKyTyXv2XDnyAsSp_cBSXSt-ijSpw6xoO
+                    - link "比赛规则" [ref=e796] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4Ri7nVCUNg7RVpKIK4BtS2gS0rM90b4lfOKyTyXv2XDn64IIf5YdXzxpgUmMXUBs9x
+                    - link "术语" [ref=e799] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4Ri7nVCUNg7RVpKIK4BtS2gS0rM90b4lfOKyTyXv2XDnyp1r_bRqxFEoAjFVLxWZFd
+              - generic [ref=e803]:
+                - link "中国乒乓球运动员" [ref=e804] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1HofQ-gaND3sANCoeyRyXhWdhxRKa_H6MUO8xqICjJkDQYCJe_ROzpBoF2SLcIhA1aZcElfHkGvm4fuWR28x8joeaUFpqGes9DFnHOFBz4YZ
+                - generic [ref=e806]:
+                  - generic [ref=e808]:
+                    - link "闫禹橦" [ref=e811] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E9%97%AB%E7%A6%B9%E6%A9%A6%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=847eCsHbZXFxXS4vbt%2FOmGBNXUUMypJKN6Zmux22G7UkA55Z4hVhxB9KegY&baikeid=61709027&sa=re_guanxi
+                      - paragraph [ref=e816]: 闫禹橦
+                    - link "张煜东" [ref=e819] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E5%BC%A0%E7%85%9C%E4%B8%9C%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=847eCsHbZXFxXS4vbt%2FOmGBNXUUMypJKN6Zmux22G7UkA55Z4hVhxB9KegY&baikeid=15286416&sa=re_guanxi
+                      - paragraph [ref=e824]: 张煜东
+                    - link "刘炜珊" [ref=e827] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E5%88%98%E7%82%9C%E7%8F%8A%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=20225858&sa=re_guanxi
+                      - paragraph [ref=e832]: 刘炜珊
+                    - link "徐瑛彬" [ref=e835] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E5%BE%90%E7%91%9B%E5%BD%AC%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=20362870&sa=re_guanxi
+                      - paragraph [ref=e840]: 徐瑛彬
+                    - link "林诗栋" [ref=e843] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E6%9E%97%E8%AF%97%E6%A0%8B%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=20584262&sa=re_guanxi
+                      - paragraph [ref=e848]: 林诗栋
+                    - link "王添艺" [ref=e851] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E7%8E%8B%E6%B7%BB%E8%89%BA%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=20436398&sa=re_guanxi
+                      - paragraph [ref=e856]: 王添艺
+                    - link "孔祥智" [ref=e859] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E5%AD%94%E7%A5%A5%E6%99%BA%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=19955292&sa=re_guanxi
+                      - paragraph [ref=e864]: 孔祥智
+                    - link "杨中慧" [ref=e867] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E6%9D%A8%E4%B8%AD%E6%85%A7%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=58981684&sa=re_guanxi
+                      - paragraph [ref=e872]: 杨中慧
+                    - link "刘斐" [ref=e875] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E5%88%98%E6%96%90%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=8d9cUr%2BXqNbCGDmGvOcF7uVZmOnH94LvSgDWLG9nlHYATHSzYzCXFq4Bwh4&baikeid=17936100&sa=re_guanxi
+                      - paragraph [ref=e880]: 刘斐
+                    - link "刘夜泊" [ref=e883] [cursor=pointer]:
+                      - /url: /s?rsv_idx=1&wd=%E5%88%98%E5%A4%9C%E6%B3%8A%20%E4%B9%92%E4%B9%93%E7%90%83&fenlei=256&usm=4&ie=utf-8&rsv_pq=c11d75bc0048219b&oq=%E4%B9%92%E4%B9%93%E7%90%83&rsv_t=27bbrCS7oktNSLdAfmYzdqrbxOkZFSKl4rgbWPDdyLiocpmNTVo9uAyj2Jc&baikeid=22180587&sa=re_guanxi
+                      - paragraph [ref=e888]: 刘夜泊
+                    - link "查看更多 " [ref=e891] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1HofQ-gaND3sANCoeyRyXhWdhxRKa_H6MUO8xqICjJkDQYCJe_ROzpBoF2SLcIhA1aZcElfHkGvm4fuWR28x8joeaUFpqGes9DFnHOFBz4YZ
+                      - generic [ref=e892]:
+                        - generic [ref=e893]: 查看更多
+                        - generic [ref=e895]: 
+                  - generic: 
+            - generic [ref=e898]:
+              - link "百度百科" [ref=e901] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPRMyqxbg9fbGHFgiR00sL1msTBBMvSSBQm36N52hU24MPvT8cTWEWbNxwhkPnCrY3WRPrFikxz7YkJaSEZg08qa
+              - generic [ref=e904] [cursor=pointer]: 
+          - generic [ref=e909]:
+            - heading [level=3] [ref=e914]:
+              - link [ref=e915] [cursor=pointer]:
+                - /url: https://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=utf8&sa=vs_ala_img&fr=ala&ala=1&alatpl=normal&pos=3&dyTabStr=MCwzLDEsMiwxMyw3LDYsNSwxMiw5&word=%E4%B9%92%E4%B9%93%E7%90%83&lid=c11d75bc0048219b&topic=%E4%B9%92%E4%B9%93%E7%90%83
+                - generic [ref=e917]:
+                  - paragraph [ref=e918]:
+                    - emphasis [ref=e919]: 乒乓球
+                  - paragraph [ref=e920]: "- 百度图片"
+            - generic [ref=e921]:
+              - generic [ref=e924]:
+                - generic [ref=e925]:
+                  - link "卡通图片" [ref=e927] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QZ1bgQOqZEiPRx92A9Pqog5ER5Fi_i1cjvZRwDhBU48_5F2LF2dhfbOl-UjxnQZRKKTmY_8A4OObOMbgCuzWIKqeGAe1AXlUsZtZiwiDz3L1wXjIP1g0cKV4VUWAkpcuUlYvNt1v3-gej4rmPqXtz13focyV4eyg__SNqn8E8k3pgBUpC7g_QfqKlwYVowZx4hS3cRzUDPN31yJZR5nvXRbjMJTftKuYgaM-BM86NwC2du-hPKAbNFMppl3cQjixZ9XIlUZ6kUd4IAnXjFrBhgZpxs6NRMBusSw9yKf6RKH7nguHnLJ3dafuwxW9sHuInGEWy95gD0vAaqt3maDr9ZGKsien-MNI3D7VJ5q-HzS-d7AzKzY5TM2_EhD6MzEWhxxhCqGU8dU2hzHfpYhowRsRo-9h_hmh8Hf_h04dBCM0TeI81TlXf-PtniFswpijxg3A99oldpfp7_hQgNfdh7ANBaC2lbnUk03DuKLk6AEhVrze17_3dRbTR5pEuZHBC2jPJo0S7n3ihreJtibCK0f4KbKHPcEcSJz4E7YUtreUPi9bAKB8uMgR76ODdOYtBz9Z1hDBRtTshlgSGxgpx5VgMa8HaPS9EU7Tvooyp77l9gOu_qeHGTuJN3GnizeR
+                  - link "头像" [ref=e930] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVzSz5MMp2Lt_qa1hfZyd5UXsfLld2wKCiRh8A-dZY5ccW-sCRYq-c6pLGdQCwDtkZe
+                  - link "壁纸" [ref=e933] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV61UV9c_JahrF640EYzEELof3S-csQQuTMzx5oFa0rHkKjRpM1WgvWq2A_Awyi6d0O
+                  - link "唯美" [ref=e936] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV5wICry5lCREmdjhao6lGfjpsjd3ghONOi2S7s5SLytWalrQI3IS5i--twvfYCPIBO
+                  - link "表情包" [ref=e939] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=GPSUNitLhlgYx38x9yxcIcleUFWH2eQUmUcT8G4YJicHb0Om2Qyn4g9tesVVaXiVt5pl8R0_qSxm6GDohB78zdW2hVMWgSHXhxWguorOQyvO0m9MBQAGU-JRmoc8LcBlR8eREl3Fthknt9zWntKosTgNa1e3fRF9ZBf0j0nndp-4F_T8qbqhE74lh1Ysk0IYF0xKjxv6IHvE0_U4zzZA-6VjOx4HOqQ06xJxkMvCeYneMr6v1e5NLaK5SPtCnyRkOEFEUM2H2YCiJuShAV8HBLJNyU1tb92iBAVDgHyJ6lhCEkMywHJVlT0e4oqzyIMYguMTow1YJHfLnGW4O-Lm1EkZxpYqDnQx_uNmxPV_A0KepJ-RMRwoyqzGH-bBnsXc97Sx8ngRxVHcjq8UpIQcmISTG6N1oHAc4fvUiyOs3NnEaVSP_UwUhCYsb4MjNFz1Q2NXJGACUA3BN54ER8f1cvYa2Ia98umkKtrJYETidLwLtvt1y6tM3aysg6lOakXl1f3ZJWkNyFiHLJZXwKfGempIeqA-8aiHFGEa4diudh5VwRLU6kxZEbdpDp2YW3iqtnWSbhfTz1LunLBUXd2DtiwMUzvuzP1zQBng43a9hrm
+                  - link "直拍" [ref=e942] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6QeahykcJ05pMB7nsejVfh7E824dqlxcC7aa8XGk6TFRqGOjQTTwm5L_jcqCb5xrG
+                  - link "培训班招生" [ref=e945] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=8d-llJaVdzuJCwTSbEcfhNQVEThKLF4p9lhkwOq__xwl8PstO3G-pog8f7RUlWl68Qx5-9nwJV-ArbW_Q_vrFyYzSvcpprVbAVE0MdVaXgiNrYuZSRu_LW9KnL7_80FTVsMOUZoLzTM1o9qGy74i6PRPr4cF7ozcBeEBmrrQnfonEOXo9IVpyN1b8RIWBVTYgPnr4VTqDdgUcJ8j1IDC6cWP7HG7L7mp9-tZRsABRCe2CDad6xx4DJY-xMPru4FIR7opmsaZwo79Dnah-Bof4LCMool33jP9r8f2k-52XvB7p7viDqoWZa53sXnxFFijDTbF-tq_Os5IphknqrtG0eD94K8Y8DED2L6bQTn_nl2BsPzUGQi9gsZ8Gjis0hnyPN_eVZ4jjYlYeGNgE5hFlo_wDydyloWq-o_7YgoKFHcvARnzHeqtjOEEyrqBztkeXqdGOjvXv2kuzdnF7yd3uYDMJF1W0z6Ig7LDl-iCO-W1JaFl888z3xmYq9zE8Z6JHd6PrN3gD-UyTC1gsSvtHAuefLezweKQHnMrc1gI3WL7IK4oH7el05KlUXOTvtZb24szui_suuuLvYnpO4DEcGPvWbvpj7WBYBppiXmBwZmyALt5uTF_wN1iaGacWwRt
+                  - link "简笔画" [ref=e948] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=GPSUNitLhlgYx38x9yxcIcleUFWH2eQUmUcT8G4YJicHb0Om2Qyn4g9tesVVaXiVt5pl8R0_qSxm6GDohB78zdW2hVMWgSHXhxWguorOQyvO0m9MBQAGU-JRmoc8LcBlR8eREl3Fthknt9zWntKosTgNa1e3fRF9ZBf0j0nndp-4F_T8qbqhE74lh1Ysk0IYF0xKjxv6IHvE0_U4zzZA-6VjOx4HOqQ06xJxkMvCeYneMr6v1e5NLaK5SPtCnyRkOEFEUM2H2YCiJuShAV8HBLJNyU1tb92iBAVDgHyJ6lhCEkMywHJVlT0e4oqzyIMYguMTow1YJHfLnGW4O-Lm1EkZxpYqDnQx_uNmxPV_A0KepJ-RMRwoyqzGH-bBnsXc97Sx8ngRxVHcjq8UpIQcmISTG6N1oHAc4fvUiyOs3NnEaVSP_UwUhCYsb4MjNFz1Q2NXJGACUA3BN54ER8f1cvYa2Ia98umkKtrJYETidLwLtvt1y6tM3aysg6lOakXl1f3ZJWkNyFiHLJZXwKfGempIeqA-8aiHFGEa4diudhyKnqxvxB7nwsxYasM7dQ0Gaf7CXdC6zq2rOjb48hu_sEBwJuJnjWvziUXhHSpeVIS
+                  - link "儿童" [ref=e951] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV59Va7jDj-wWhys5TstuD73EmxcxM8uFC65lIQRcMIw3vlOlVX28zI1rX38LNqnRyG
+                  - link "背景图片" [ref=e954] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QZ1bgQOqZEiPRx92A9Pqog5ER5Fi_i1cjvZRwDhBU48_5F2LF2dhfbOl-UjxnQZRKKTmY_8A4OObOMbgCuzWIKqeGAe1AXlUsZtZiwiDz3L1wXjIP1g0cKV4VUWAkpcuUlYvNt1v3-gej4rmPqXtz13focyV4eyg__SNqn8E8k3pgBUpC7g_QfqKlwYVowZx4hS3cRzUDPN31yJZR5nvXRbjMJTftKuYgaM-BM86NwC2du-hPKAbNFMppl3cQjixZ9XIlUZ6kUd4IAnXjFrBhgZpxs6NRMBusSw9yKf6RKH7nguHnLJ3dafuwxW9sHuInGEWy95gD0vAaqt3maDr9ZGKsien-MNI3D7VJ5q-HzS-d7AzKzY5TM2_EhD6MzEWhxxhCqGU8dU2hzHfpYhowRsRo-9h_hmh8Hf_h04dBCM0TeI81TlXf-PtniFswpijxg3A99oldpfp7_hQgNfdh7ANBaC2lbnUk03DuKLk6AEhVrze17_3dRbTR5pEuZHBC2jPJo0S7n3ihreJtibCK0f4KbKHPcEcSJz4E7YUtretRExj8X65b6j1E_5ilrnpwfhG6lspN6XXFbkkkUIM_FNuxtKsSitzCC_jz0WfgR8L0HJC6R9CY8tLRG456o7U
+                  - link "搞笑" [ref=e957] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVy4zADLliLDbyfAqC_DfOmpINUviULxu-XGam3bZfTNP6V-GaOEGa_BBxj1NIe0huK
+                  - link "人物" [ref=e960] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV5w5bIr6Ib-G00YZt0SdprKgCtggdQBG1C4AC8oIbpD6EvU44uW0gKAi9k8MShPG-W
+                  - link "手绘" [ref=e963] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVyWWrOqvFPjjtQgTNZeamKW7NIEVyBky-LmnVv_lYWbMyPXeJuF1Hqh1wvuRD10g-O
+                  - link "创意" [ref=e966] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6bwIancz871VETJuTjo8bUKYz3sIjusELYITD1FVX1o87dxhxJl4sagDWYtJ6Ewai
+                  - link "logo" [ref=e969] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QZ1bgQOqZEiPRx92A9Pqog5ER5Fi_i1cjvZRwDhBU48_5F2LF2dhfbOl-UjxnQZRKKTmY_8A4OObOMbgCuzWIKqeGAe1AXlUsZtZiwiDz3L1wXjIP1g0cKV4VUWAkpcuUlYvNt1v3-gej4rmPqXtz13focyV4eyg__SNqn8E8k3pgBUpC7g_QfqKlwYVowZx4hS3cRzUDPN31yJZR5nvXRbjMJTftKuYgaM-BM86NwC2du-hPKAbNFMppl3cQjixZ9XIlUZ6kUd4IAnXjFrBhgZpxs6NRMBusSw9yKf6RKH7nguHnLJ3dafuwxW9sHuInGEWy95gD0vAaqt3maDr9ZGKsien-MNI3D7VJ5q-HzS-d7AzKzY5TM2_EhD6MzEWhxxhCqGU8dU2hzHfpYhowRsRo-9h_hmh8Hf_h04dBCM0TeI81TlXf-PtniFswpijxg3A99oldpfp7_hQgNfdh7ANBaC2lbnUk03DuKLk6AEhVrze17_3dRbTR5pEuZHBC2jPJo0S7n3ihreJtibCK0f4KbKHPcEcSJz4E7YUtrfZKVhvET8MqRPK5Z4AlMJmPBJQ3WGDoYoSrArH6ppnyK
+                  - link "比赛" [ref=e972] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6-0hBRjvWhkYHAB0XwJ22Z3PEu00UH8qB4CO6zrjqyoOLAthoTiY-T_X9pHIdF4hi
+                  - link "素材" [ref=e975] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVzjcXNku3kEORCXH3hCC2Tz7dw_MJvvwXql-Vq_OycrKTH2-XXcg3FdB-qwK22GA4C
+                  - link "海报" [ref=e978] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6hktzifMfzEwHE88UPnbCSsCqg_A8LA5jEJ5QG91yhbnC-KXtaiiseBtCvmb_l7Zy
+                  - link "场地" [ref=e981] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVzreYPdQRRXqWrJLbwhMIWBtD1ugRfXrdR8dxbS3e0CesoAqDAuNqnEXzBFv9sL6eG
+                  - link "双打" [ref=e984] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV5x-KI4t6L2pfO_jNoWJ53NsLVE3AoSvFYy3kxMIjobVYaMiRsrqJVsnl2ySaWiPkK
+                  - link "陈梦" [ref=e987] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV5EjBoJUSB5xaks8WLtqMxC1jhcgABZZIlUkl2z4r-jY9Iy4_xn2fg9vcRxn_OQH-G
+                  - link "宣传" [ref=e990] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6c9igo4oIpNgsbfg1Li0LEG_Qta9EmmX_JtmrCXIeJMLSu-68W6jf56DOxikw4Ghq
+                  - link "火柴人" [ref=e993] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=GPSUNitLhlgYx38x9yxcIcleUFWH2eQUmUcT8G4YJicHb0Om2Qyn4g9tesVVaXiVt5pl8R0_qSxm6GDohB78zdW2hVMWgSHXhxWguorOQyvO0m9MBQAGU-JRmoc8LcBlR8eREl3Fthknt9zWntKosTgNa1e3fRF9ZBf0j0nndp-4F_T8qbqhE74lh1Ysk0IYF0xKjxv6IHvE0_U4zzZA-6VjOx4HOqQ06xJxkMvCeYneMr6v1e5NLaK5SPtCnyRkOEFEUM2H2YCiJuShAV8HBLJNyU1tb92iBAVDgHyJ6lhCEkMywHJVlT0e4oqzyIMYguMTow1YJHfLnGW4O-Lm1EkZxpYqDnQx_uNmxPV_A0KepJ-RMRwoyqzGH-bBnsXc97Sx8ngRxVHcjq8UpIQcmISTG6N1oHAc4fvUiyOs3NnEaVSP_UwUhCYsb4MjNFz1Q2NXJGACUA3BN54ER8f1cvYa2Ia98umkKtrJYETidLwLtvt1y6tM3aysg6lOakXl1f3ZJWkNyFiHLJZXwKfGempIeqA-8aiHFGEa4diudh5k2toFpfGHhF404FbZN998cg644CqtsgSkphuzu3YKxK4qOUcwo2jebEd45-ZRYU_
+                  - link "横拍" [ref=e996] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6W-UzkwqPz3GEGOmqR96SNJ40VnnEKJumKjmUxCgyT014IUFdZsxL0EPJne61ewMa
+                  - link "手抄报" [ref=e999] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=GPSUNitLhlgYx38x9yxcIcleUFWH2eQUmUcT8G4YJicHb0Om2Qyn4g9tesVVaXiVt5pl8R0_qSxm6GDohB78zdW2hVMWgSHXhxWguorOQyvO0m9MBQAGU-JRmoc8LcBlR8eREl3Fthknt9zWntKosTgNa1e3fRF9ZBf0j0nndp-4F_T8qbqhE74lh1Ysk0IYF0xKjxv6IHvE0_U4zzZA-6VjOx4HOqQ06xJxkMvCeYneMr6v1e5NLaK5SPtCnyRkOEFEUM2H2YCiJuShAV8HBLJNyU1tb92iBAVDgHyJ6lhCEkMywHJVlT0e4oqzyIMYguMTow1YJHfLnGW4O-Lm1EkZxpYqDnQx_uNmxPV_A0KepJ-RMRwoyqzGH-bBnsXc97Sx8ngRxVHcjq8UpIQcmISTG6N1oHAc4fvUiyOs3NnEaVSP_UwUhCYsb4MjNFz1Q2NXJGACUA3BN54ER8f1cvYa2Ia98umkKtrJYETidLwLtvt1y6tM3aysg6lOakXl1f3ZJWkNyFiHLJZXwKfGempIeqA-8aiHFGEa4diudh6Qs_C0HGZP5eiIiyOaSk7y7LYiv6NKlGxn3-6uqPtG_3sF9jO6kz2PNcYyJ8lFo17
+                  - link "发球技术" [ref=e1002] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QZ1bgQOqZEiPRx92A9Pqog5ER5Fi_i1cjvZRwDhBU48_5F2LF2dhfbOl-UjxnQZRKKTmY_8A4OObOMbgCuzWIKqeGAe1AXlUsZtZiwiDz3L1wXjIP1g0cKV4VUWAkpcuUlYvNt1v3-gej4rmPqXtz13focyV4eyg__SNqn8E8k3pgBUpC7g_QfqKlwYVowZx4hS3cRzUDPN31yJZR5nvXRbjMJTftKuYgaM-BM86NwC2du-hPKAbNFMppl3cQjixZ9XIlUZ6kUd4IAnXjFrBhgZpxs6NRMBusSw9yKf6RKH7nguHnLJ3dafuwxW9sHuInGEWy95gD0vAaqt3maDr9ZGKsien-MNI3D7VJ5q-HzS-d7AzKzY5TM2_EhD6MzEWhxxhCqGU8dU2hzHfpYhowRsRo-9h_hmh8Hf_h04dBCM0TeI81TlXf-PtniFswpijxg3A99oldpfp7_hQgNfdh7ANBaC2lbnUk03DuKLk6AEhVrze17_3dRbTR5pEuZHBC2jPJo0S7n3ihreJtibCK0f4KbKHPcEcSJz4E7YUtrfNq7DkkcTCbZqFC4J656P-IaNMDCsS_hqwdV6g4M0Z0EQr-JredKercZPPL6og-_LKYA7q40dCQ_3nI8dR_U4u
+                  - link "队员" [ref=e1005] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV6qWM9nmzme1XTHaFcB-bBKzNI2rKa7G2PR2SWAYL-wXXtaqP4kklUbcypFj5OtPAy
+                  - link "漫画" [ref=e1008] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVzCam-hWDi9LTR4gSWTnhiKvb_RBehm_Tep20UyvIxMvrHW7p-a3_ZwykuhWDZ3Ayu
+                  - link "马龙" [ref=e1011] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKV5YXg_3ibsqw4elqoU-0037T8C_cH0dFICCBT6j_t0Dw3NSIWbR12ckKBvTC6InWD3
+                  - link "手工" [ref=e1014] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicowjC4dhazb50H7y4iJ3GuG0MyjjnFGl6ZtcWVz9tjLJCPEHZNjOwK-OtjZx6uEzLc7gEJDLdU71SD_zxzkQZRB5fHDX4sNAdRkDWg08_W0BYCRyPszi1Bv5pKJ2exRz9kjNFvqLl0yL9TzFj4Wdm5deWoeVMMOONmr0rrppXpyEfhxrggNwhSmCCjDQckfvbEG3rifqdv7wEJNQJ0ij6AFSt6N93ywE8Qrm5WbhlHcEqr9J-SxMlvpnZbJ3dhQ_h8Hxlvg3_pwzWuBnpn4S42O1Yb8-y6jzwNz8pxbNPyXdNMPbu36Ge-3345-bNCwXaYI_rcnpW9Pe-bZvqJUZI6ljMqnygOUD46FF8KLN1_wvy-NeG9PGoXjBKirtAft6UP0yvoMova-sSDTjzckERxFTbeW1Ns_JrYo_YfWLpmGESkg-oIBwCuFYuXo7mzjIMGJnFXemeaIpueGn516JxnVP2mD5tDN3KV7wJYeP_Yva5DHt2OzgpjZ5JxzvcFDpaIBdlJYUoX3rgvaipCL9lKVyWWrOqvFPjjtQgTNZeamKWnJFD39MApFpXZKE7HBaVsHsm8R2sKlaqrUPZpezB_r3
+                - generic [ref=e1016] [cursor=pointer]: 
+              - generic [ref=e1018]:
+                - generic [ref=e1019]:
+                  - generic [ref=e1023]:
+                    - generic [ref=e1024]:
+                      - link [ref=e1025] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=0&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=1339661839,175435590&cs=1041549406,2638963216&objurl=http%3A%2F%2Fq6.itc.cn%2Fq_70%2Fimages03%2F20251118%2Fcdf4e08114d945feae1b056e6afbe9e9.jpeg&bdtype=0&simid=3402478712,335470423&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                      - link [ref=e1029] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=1&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=4193292652,4271794479&cs=2010137019,3338195104&objurl=http%3A%2F%2Fb0.bdstatic.com%2Fugc%2F1XBLPyWBAr2VgBSPr_JYMQ3ff21a074c0938fbffb2dae3eac38dcf.jpg&bdtype=0&simid=2010137019,3338195104&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                      - link [ref=e1033] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=2&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=1759932023,1001673141&cs=983427651,1374453398&objurl=http%3A%2F%2Ftmpf.smzdm.com%2F202608%2F30%2F6a93443badd5b8761.jpg_e600.jpg&bdtype=11&simid=983427651,1374453398&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                      - link [ref=e1037] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=3&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=34003196,730970970&cs=2955697684,639509344&objurl=http%3A%2F%2Fq7.itc.cn%2Fq_70%2Fimages03%2F20251206%2Fa75a7c8953d54be4813b49becfa2c0e2.jpeg&bdtype=0&simid=4101221974,663247180&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                    - generic [ref=e1041]:
+                      - link [ref=e1042] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=4&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=2348896841,1859656268&cs=1211768658,161034172&objurl=http%3A%2F%2Fq0.itc.cn%2Fq_70%2Fimages03%2F20251210%2F944c458f53c6443fb1a7eb77f55c6b87.jpeg&bdtype=0&simid=3525878799,235722295&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                      - link [ref=e1046] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=5&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=1392637677,677919185&cs=3130666745,1198468720&objurl=http%3A%2F%2Fq8.itc.cn%2Fq_70%2Fimages03%2F20250810%2F9096291b52124e6782fcff3128dd6274.jpeg&bdtype=0&simid=4077785274,423614460&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                      - link [ref=e1050] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=6&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=2911639679,1785158183&cs=569244247,175052641&objurl=http%3A%2F%2Fq6.itc.cn%2Fq_70%2Fimages03%2F20251108%2F6c8b2d36431e4cfe955437578df3b516.jpeg&bdtype=0&simid=3422145177,462139298&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                      - link [ref=e1054] [cursor=pointer]:
+                        - /url: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&sa=vs_ala_img_datu&lm=-1&ie=utf8&pn=7&rn=1&di=1&ln=0&word=%E4%B9%92%E4%B9%93%E7%90%83&os=1083960623,1057178093&cs=1209237534,1198343660&objurl=http%3A%2F%2Fq3.itc.cn%2Fimages01%2F20251016%2F2778df6471a144fdb196fd29a1f18083.jpeg&bdtype=0&simid=3477527469,215259901&pi=0&adpicid=0&timingneed=&spn=0&is=0,0&lid=c11d75bc0048219b
+                  - link "查看全部763205张图片 " [ref=e1060] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPMxbsZWtrX67BxLiI8LSO6I22ChhYGSPID3t6x2i4pLcbcyM9tL-wt4VTPQI_CduLpetcdiCmiiVsoGKg0kCg1OOcDXeCuKt0vmHq0VQ1Wi4X3KlFDsRTJiVZZeQDGDkvBBKMB-iM_ABLVN6PSZVQRKiU95XJ30fwPa8tDL8ewmRumzDMfy6KtYWqNu_X9s--xKogK_yJW8Qke6-TQrq7n31haxPYM195JNUb3hN2g1FRWbaljQNiwamIQ-yJLNv66lJAUXHqO-MGqCA7AbskmeZDbVnlpMVTmNr7KidmL0gDULErgCsE8iO6c23aWnibBOuhIerFGpquQeWQJBkK-G
+                    - generic [ref=e1061]:
+                      - generic [ref=e1062]: 查看全部763205张图片
+                      - generic [ref=e1063]: 
+                - generic [ref=e1064]:
+                  - textbox "用AI一秒生成“乒乓球”" [ref=e1065]
+                  - link [ref=e1067] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicoxdyaV63y7Woz25GsV_XDGTAiMxA8zYwd1mfo0Bti_GWQ8qjllhRLOo9JNzLbNj8OqGLKX21JRA22A-8qdCL6NuX66q53WdR3cu9uZSbdLWpO3FdMNDsOydei9CyMU5LyWiJ7SPDyqVHhjS5tNBRFPHEIzOSRhVwDxJb1gSDMfgtFkVDxa5QwE-7NOFPa3ChYJB3V3W81FwGxnHYfo1kYkcXX9fpXnws5ZQjscKgTTYudyUPHzji5O1B0LP5m3V5_QFbNJo_-V7IO-YK7ZDTt8wc6YK6CowHqCkotlFJmMas
+                    - button "免费AI生图" [ref=e1068]
+              - generic [ref=e1071]:
+                - generic [ref=e1072]: 百度图片
+                - generic [ref=e1076]: 
+          - generic [ref=e1082]:
+            - generic [ref=e1084]:
+              - heading [level=3] [ref=e1085]:
+                - link [ref=e1086] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=8d-llJaVdzuJCwTSbEcfhZ8HaH9jlI8L9NhTuwQqsBi
+                  - generic [ref=e1088]:
+                    - text: 中国
+                    - emphasis [ref=e1089]: 乒乓球
+                    - text: 协会官方网站
+              - link [ref=e1090] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=8d-llJaVdzuJCwTSbEcfhZ8HaH9jlI8L9NhTuwQqsBi
+            - generic [ref=e1091]:
+              - link [ref=e1093] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=8d-llJaVdzuJCwTSbEcfhZ8HaH9jlI8L9NhTuwQqsBi
+              - generic [ref=e1098]:
+                - generic [ref=e1105] [cursor=pointer]:
+                  - emphasis [ref=e1106]: 乒乓球
+                  - text: 协会,乒协官网,中国乒乓球协会官方网站
+                - link "中国乒乓球协会官方网站" [ref=e1111] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=8d-llJaVdzuJCwTSbEcfhZ8HaH9jlI8L9NhTuwQqsBi
+                  - generic [ref=e1114]: 
+          - generic [ref=e1116]:
+            - heading [level=3] [ref=e1117]:
+              - link [ref=e1118] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1DXoAWjKfoE-w3T7eBZgjFqD7LYkxBjht3_ZkXe-GPw1I8U5N6CalHBJkrxFele5NGCP5eCVmdRSF0xb1MH4oi_BmT2VQ8PM3tCBPb9YziIluWwaXbAfrdzKme7QqFnWQq
+                - emphasis [ref=e1119]: 乒乓球
+                - text: 吧 - 百度贴吧
+            - generic [ref=e1120]:
+              - link [ref=e1122] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1DXoAWjKfoE-w3T7eBZgjFqD7LYkxBjht3_ZkXe-GPw1I8U5N6CalHBJkrxFele5NGCP5eCVmdRSF0xb1MH4oi_BmT2VQ8PM3tCBPb9YziIluWwaXbAfrdzKme7QqFnWQq
+              - generic [ref=e1128]:
+                - paragraph [ref=e1129]: 最大的乒乓球新锐交流平
+                - paragraph [ref=e1130]:
+                  - generic [ref=e1131]: 关注用户：74万人
+                - paragraph [ref=e1132]:
+                  - generic [ref=e1133]: 累计发贴：3515万
+                - paragraph [ref=e1134]:
+                  - link "器材装备" [ref=e1135] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicoubA4njCu5zl2sW321wCu5hWd1YLp6KMIzr9Y79P2bwlyPEAO7dunLgMbGuEfmoHU1H4--n_QuUIJbBCwPTeyL5Fy4nR40O9BuxrdOo1PDSW
+                  - link "技术交流" [ref=e1136] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicoubA4njCu5zl2sW321wCu5hWd1YLp6KMIzr9Y79P2bwlyPEAO7dunLgMbGuEfmoHU1H4--n_QuUIJbBCwPTeyLzJn_z91eJUdGSvhDvULi3D
+                  - link "视频资料" [ref=e1137] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicoubA4njCu5zl2sW321wCu5hWd1YLp6KMIzr9Y79P2bwlyPEAO7dunLgMbGuEfmoHU1H4--n_QuUIJbBCwPTeyL5Yt-ukYuXXoTpKE6BiSTU2
+                  - link "diy球拍" [ref=e1138] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicoubA4njCu5zl2sW321wCu5hWd1YLp6KMIzr9Y79P2bwlyPEAO7dunLgMbGuEfmoHU1H4--n_QuUIJbBCwPTeyL6LpBRg6jf7ApPXO7n5fK-C
+                  - link "闲谈乒事" [ref=e1139] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9SxeicoubA4njCu5zl2sW321wCu5hWd1YLp6KMIzr9Y79P2bwlyPEAO7dunLgMbGuEfmoHU1H4--n_QuUIJbBCwPTeyL6j9Jf9U_fwHcZt8xZ6IE4H
+            - generic [ref=e1140]:
+              - generic [ref=e1142]:
+                - generic [ref=e1143]:
+                  - link [ref=e1144] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QZ1bgQOqZEiPRx92A9PqohHBSWTKwRNl3LcAo5ar-UCDA3wzgiC49UuQm7W-Z2f2WsUQ487PuLm9tFQOvuUIIVA4oT8J37D3nmWXSlD1OLkzackYV4h3r696Kg9Hc2WM
+                    - text: 【黄金单身汉】
+                    - emphasis [ref=e1145]: 乒乓
+                    - text: 圈太吵？聊聊我的
+                    - emphasis [ref=e1146]: 乒乓
+                    - text: 路
+                  - generic [ref=e1147]: 精
+                - generic [ref=e1148]:
+                  - generic [ref=e1149]:
+                    - text: 回复：
+                    - generic [ref=e1150]: "398"
+                  - generic [ref=e1151]:
+                    - text: 点击：
+                    - generic [ref=e1152]: 8万
+              - generic [ref=e1154]:
+                - generic [ref=e1155]:
+                  - link "【桃桃测评】蝴蝶王 VS 狂飚王1，谁与争锋" [ref=e1156] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1DXoAWjKfoE-w3T7eBZgjFt__iiyZeRbAilrSz7QBEEi8EIaBWge8qhIPgjMdUfQfO8S0S_Mq1CIzLPPjTQ-FkW
+                  - generic [ref=e1157]: 精
+                - generic [ref=e1158]:
+                  - generic [ref=e1159]:
+                    - text: 回复：
+                    - generic [ref=e1160]: "206"
+                  - generic [ref=e1161]:
+                    - text: 点击：
+                    - generic [ref=e1162]: 4万
+              - generic [ref=e1164]:
+                - generic [ref=e1165]:
+                  - link [ref=e1166] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1DXoAWjKfoE-w3T7eBZgjFq0x16YvZsIfGnXiMyk0o5wqBgkIaLPk44mDbV6AOrTG1pmrsp1926nk2rRWGQ9YHm
+                    - text: 【
+                    - emphasis [ref=e1167]: 乒乓球
+                    - text: 】【官方】 2018乒吧 线下同城 约球楼
+                  - generic [ref=e1168]: 精
+                - generic [ref=e1169]:
+                  - generic [ref=e1170]:
+                    - text: 回复：
+                    - generic [ref=e1171]: "1916"
+                  - generic [ref=e1172]:
+                    - text: 点击：
+                    - generic [ref=e1173]: 13万
+            - link [ref=e1175] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=7hSOe2NF01QxymMWYRyA1DXoAWjKfoE-w3T7eBZgjFqD7LYkxBjht3_ZkXe-GPw1I8U5N6CalHBJkrxFele5NGCP5eCVmdRSF0xb1MH4oi_BmT2VQ8PM3tCBPb9YziIluWwaXbAfrdzKme7QqFnWQq
+              - text: 查看更多
+              - emphasis [ref=e1176]: 乒乓球
+              - text: 吧的内容 >
+            - generic [ref=e1177]:
+              - generic [ref=e1178]: tieba.baidu.com/
+              - generic [ref=e1180] [cursor=pointer]: 
+          - generic [ref=e1184]:
+            - generic [ref=e1186]:
+              - heading [level=3] [ref=e1187]:
+                - link [ref=e1188] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFYN_-VQaYDX_VjV-COjP-qlL7su4GctRdAH-x0OYvEjq
+                  - generic [ref=e1190]:
+                    - text: 亚运会|
+                    - emphasis [ref=e1191]: 乒乓球
+                    - text: ——王曼昱战胜张本美和 晋级女单决赛(2)
+              - link [ref=e1192] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFYN_-VQaYDX_VjV-COjP-qlL7su4GctRdAH-x0OYvEjq
+            - generic [ref=e1193]:
+              - link [ref=e1195] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFYN_-VQaYDX_VjV-COjP-qlL7su4GctRdAH-x0OYvEjq
+              - generic [ref=e1200]:
+                - generic [ref=e1206] [cursor=pointer]:
+                  - text: 4小时前
+                  - generic [ref=e1207]:
+                    - text: 当地时间9月27日，在爱知·名古屋亚运会
+                    - emphasis [ref=e1208]: 乒乓球
+                    - text: 项目女子单打半决赛中，中国选手王曼昱4比1战胜日本选手张本美和，晋级决赛。9月27日，中国女队主教练马琳为王曼昱加油。新华社发（张金加摄）9月27日，王曼昱在比赛中发球。新华社发（张金加摄）9月27日，王曼昱在比赛中发球。新华社发（张金加摄）9月27日，王曼昱...
+                - link "头像  新华社" [ref=e1213] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFYN_-VQaYDX_VjV-COjP-qlL7su4GctRdAH-x0OYvEjq
+                  - generic [ref=e1214]:
+                    - img "头像" [ref=e1216]
+                    - generic [ref=e1217]: 
+                  - generic [ref=e1219]: 新华社
+                  - generic [ref=e1221]: 
+          - generic [ref=e1224]:
+            - heading [level=3] [ref=e1225]:
+              - link "奥运会乒乓球男子团体，运动会团体，百度百科" [ref=e1226] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4RkQrJJEk5kzXbALAOnxMkRDjL3q837Ro1hEIzbGvZ8X9zQqK1Hxtejm_Zx4nNYg50HK0VLOo3Xeu5frGJeU31ZO8jLNjM9sNTZ0sAr7fZtnxnBtfVKfQFBAfN8wgfGSkKQv90aWMiVlC7SyazyfLKbK
+                - text: 奥运会
+                - emphasis [ref=e1227]: 乒乓球
+                - text: 男子团体 - 百度百科
+            - generic [ref=e1228]:
+              - generic "播放视频" [ref=e1229] [cursor=pointer]: 
+              - generic [ref=e1238]:
+                - generic "乒乓球男子团体，是奥运会乒乓球项目的五个小项之一。1988年，乒乓球第一次作为正式项目在第24届奥运会的赛场上出现。2008年奥运会团体赛首次出现取代双打比赛。2021年东京奥运会起，团体赛采用新赛制，首盘比赛为双打。自2008年该项目设立以来，中国队已连续五届奥运会夺得该项目金牌。在2024年巴黎奥运会上，由马龙、樊振东、王楚钦组成的中国队战胜瑞典队夺冠，实现奥运五连冠。马龙也凭借此次夺冠，成为中国首位获得六枚奥运金牌的选手。" [ref=e1240]:
+                  - generic [ref=e1241]:
+                    - emphasis [ref=e1242]: 乒乓球
+                    - text: 男子团体，是奥运会
+                    - emphasis [ref=e1243]: 乒乓球
+                    - text: 项目的五个小项之一。1988年，
+                    - emphasis [ref=e1244]: 乒乓球
+                    - text: 第一次作为正式项目在第24届奥运会的赛场上出现。2008年奥运会团体赛首次出现取代双打比赛。2021年东京奥运会起，团体赛采用新赛制，首盘比赛为双打。自2008年该项目设立以来，中国队已连续...
+                - generic [ref=e1246]:
+                  - link "发展历史" [ref=e1247] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=-29m9bT_WO9tNlYDaeAEUAzJZ7wefh-foUUnaI8jH6CmQ5wdBovYlz04E2-LryJc_diS55k7eb79HjDZV3j5zlklPCQVsi2FMcfw08YjwEGdUdNl4CooxTrBgvFQM6dZGIM0Wwy9mjM5BtWV1rZVh8ZxX0ISyUGQKbi52KECODPFtsLYX7QPkQaBdjTPumDj7NI_Fh_GFwP-pfiqZE0B3K
+                  - link "场地要求" [ref=e1248] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=-29m9bT_WO9tNlYDaeAEUAzJZ7wefh-foUUnaI8jH6CmQ5wdBovYlz04E2-LryJc_diS55k7eb79HjDZV3j5zlklPCQVsi2FMcfw08YjwEGdUdNl4CooxTrBgvFQM6dZGIM0Wwy9mjM5BtWV1rZVh8ZxX0ISyUGQKbi52KECODPFtsLYX7QPkQaBdjTPumDj6jVLURbTPRQjcOegZbecYa
+                  - link "器材规格" [ref=e1249] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=-29m9bT_WO9tNlYDaeAEUAzJZ7wefh-foUUnaI8jH6CmQ5wdBovYlz04E2-LryJc_diS55k7eb79HjDZV3j5zlklPCQVsi2FMcfw08YjwEGdUdNl4CooxTrBgvFQM6dZGIM0Wwy9mjM5BtWV1rZVh8ZxX0ISyUGQKbi52KECODPFtsLYX7QPkQaBdjTPumDjlVItEfKpBGM7hMkDjEl4IK
+                  - link "竞赛规则" [ref=e1250] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=-29m9bT_WO9tNlYDaeAEUAzJZ7wefh-foUUnaI8jH6CmQ5wdBovYlz04E2-LryJc_diS55k7eb79HjDZV3j5zlklPCQVsi2FMcfw08YjwEGdUdNl4CooxTrBgvFQM6dZGIM0Wwy9mjM5BtWV1rZVh8ZxX0ISyUGQKbi52KECODPFtsLYX7QPkQaBdjTPumDjtJUN2JTA9_QQ22Zh9-PoI_
+                  - link "赛事数据" [ref=e1251] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=-29m9bT_WO9tNlYDaeAEUAzJZ7wefh-foUUnaI8jH6CmQ5wdBovYlz04E2-LryJc_diS55k7eb79HjDZV3j5zlklPCQVsi2FMcfw08YjwEGdUdNl4CooxTrBgvFQM6dZGIM0Wwy9mjM5BtWV1rZVh8ZxX0ISyUGQKbi52KECODPFtsLYX7QPkQaBdjTPumDjT4HBRuy9SNnYa5DtTwA3kK
+                  - link "点击可查看更多内容" [ref=e1252] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4RkQrJJEk5kzXbALAOnxMkRDjL3q837Ro1hEIzbGvZ8X9zQqK1Hxtejm_Zx4nNYg50HK0VLOo3Xeu5frGJeU31ZO8jLNjM9sNTZ0sAr7fZtnxnBtfVKfQFBAfN8wgfGSkKQv90aWMiVlC7SyazyfLKbK
+                    - text: 更多 >
+                - generic [ref=e1253]:
+                  - link "百度百科" [ref=e1254] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=Bx7tna_bZXQTTyhhTf5DyGm_JD2IISauW7ULDH9LR_s6amcYIoNqYBGvXlRU9N4RkQrJJEk5kzXbALAOnxMkRDjL3q837Ro1hEIzbGvZ8X9zQqK1Hxtejm_Zx4nNYg50HK0VLOo3Xeu5frGJeU31ZO8jLNjM9sNTZ0sAr7fZtnxnBtfVKfQFBAfN8wgfGSkKQv90aWMiVlC7SyazyfLKbK
+                  - generic [ref=e1261] [cursor=pointer]: 
+          - generic [ref=e1266]:
+            - heading [level=3] [ref=e1268]:
+              - link "赛场屹线丨中日对决！林诗栋/黄友政决战张本智和/篠塚大登" [ref=e1269] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPNF3Mvds5807WYgY1-FLvBNPVXEHtNFLWu6KWcFZol0JRKjwWwKQ7BlkPEOZaunCdYrKeAWXcgjvhpA2rDlEq1ahEgBZEx20D8ukrpbZPprp5_etB54V_5Z74tvxKX2T2q
+            - generic [ref=e1271]:
+              - generic [ref=e1273]:
+                - link [ref=e1274] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPNF3Mvds5807WYgY1-FLvBNPVXEHtNFLWu6KWcFZol0JRKjwWwKQ7BlkPEOZaunCdYrKeAWXcgjvhpA2rDlEq1ahEgBZEx20D8ukrpbZPprp5_etB54V_5Z74tvxKX2T2q
+                - generic: 直播中
+              - generic [ref=e1278]:
+                - paragraph [ref=e1280]: "开播时间: 28分钟前6330人观看"
+                - paragraph [ref=e1282]:
+                  - text: 9月27日18时，2026爱知·名古屋亚运会
+                  - emphasis [ref=e1283]: 乒乓球
+                  - text: 男双决赛，中国队组合林诗栋/黄友政迎战日本队组合张本智和/篠塚大登，国乒冲冠，硬仗拉满！今晚，关注《赛场屹线》，一起见证冲冠时刻！
+                - link "头像 澎湃上直播" [ref=e1288] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=KH-jVrltsbgUaqZxOtrVPNF3Mvds5807WYgY1-FLvBNPVXEHtNFLWu6KWcFZol0JRKjwWwKQ7BlkPEOZaunCdYrKeAWXcgjvhpA2rDlEq1ahEgBZEx20D8ukrpbZPprp5_etB54V_5Z74tvxKX2T2q
+                  - img "头像" [ref=e1291]
+                  - generic [ref=e1292]: 澎湃上直播
+          - generic [ref=e1296]:
+            - generic [ref=e1298]:
+              - heading [level=3] [ref=e1299]:
+                - link [ref=e1300] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFrrzcbPmsLXMt3PsQn85xbZzHcFZkwaDGaRrHcB7bt8C
+                  - generic [ref=e1302]:
+                    - text: 孙颖莎横扫早田希娜 中国队提前包揽亚运
+                    - emphasis [ref=e1303]: 乒乓球
+                    - text: 女单冠亚军
+              - link [ref=e1304] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFrrzcbPmsLXMt3PsQn85xbZzHcFZkwaDGaRrHcB7bt8C
+            - generic [ref=e1309] [cursor=pointer]:
+              - text: 2小时前
+              - generic [ref=e1310]:
+                - text: 孙颖莎横扫早田希娜 中国队提前包揽亚运
+                - emphasis [ref=e1311]: 乒乓球
+                - text: 女单冠亚军 中国青年报客户端名古屋9月27日电（中青报·中青网记者慈鑫）在今天下午刚刚结束的第二场2026名古屋亚运会乒乓球女单半决赛上，卫冕冠军、中国选手孙颖莎以4:1战胜上届亚军、日本选手早田希娜（11-6、11-7、9-11、11-9、11-5），与队友王曼昱顺利会师本...
+            - link "头像  极目新闻" [ref=e1316] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=66nYM63CTPjBkDgbuejRHL1yGZvhVjG8BjHBUjkNuEytTIEAuVrLp7wnDxSziNuFrrzcbPmsLXMt3PsQn85xbZzHcFZkwaDGaRrHcB7bt8C
+              - generic [ref=e1317]:
+                - img "头像" [ref=e1319]
+                - generic [ref=e1320]: 
+              - generic [ref=e1322]: 极目新闻
+              - generic [ref=e1324]: 
+          - generic [ref=e1328]:
+            - generic [ref=e1330]:
+              - heading [level=3] [ref=e1331]:
+                - link [ref=e1332] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9Sxeicotk-RMnjNvGU3uFazQqq8RlMKcolEW9l7fi7MNwJ6ij-Jn01v7GKOEG66jxqAtnsoK
+                  - generic [ref=e1334]:
+                    - text: 新浪
+                    - emphasis [ref=e1335]: 乒乓球
+                    - text: 的微博_微博
+              - link [ref=e1336] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9Sxeicotk-RMnjNvGU3uFazQqq8RlMKcolEW9l7fi7MNwJ6ij-Jn01v7GKOEG66jxqAtnsoK
+            - generic [ref=e1337]:
+              - link [ref=e1339] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9Sxeicotk-RMnjNvGU3uFazQqq8RlMKcolEW9l7fi7MNwJ6ij-Jn01v7GKOEG66jxqAtnsoK
+              - generic [ref=e1344]:
+                - generic [ref=e1351] [cursor=pointer]:
+                  - text: 46来自中国乒乓球队超话#金牌银牌一起展示五星红旗#亚运会
+                  - emphasis [ref=e1352]: 乒乓球
+                  - text: 混双决赛,@林詩棟y/蒯曼@kuaiman0207收获...
+                - link "微博" [ref=e1357] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=NK7GbEeH-q_XhO9Sxeicotk-RMnjNvGU3uFazQqq8RlMKcolEW9l7fi7MNwJ6ij-Jn01v7GKOEG66jxqAtnsoK
+                  - generic [ref=e1360]: 
+        - generic [ref=e1363]:
+          - generic [ref=e1364]: 相关搜索
+          - table [ref=e1365]:
+            - rowgroup [ref=e1366]:
+              - row [ref=e1367]:
+                - cell [ref=e1368]:
+                  - link "乒乓球在线直播观看" [ref=e1369] [cursor=pointer]:
+                    - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD%E8%A7%82%E7%9C%8B&tn=baidu&rsf=101631151&rsp=0&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_1
+                - cell [ref=e1372]:
+                  - link "樊振东确认参加2026世界杯吗" [ref=e1373] [cursor=pointer]:
+                    - /url: /s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A1%AE%E8%AE%A4%E5%8F%82%E5%8A%A02026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%97&tn=baidu&rsf=101633601&rsp=1&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_2
+              - row [ref=e1376]:
+                - cell [ref=e1377]:
+                  - link "正在直播的乒乓球比赛" [ref=e1378] [cursor=pointer]:
+                    - /url: /s?wd=%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD%E7%9A%84%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B&tn=baidu&rsf=101631101&rsp=2&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_3
+                - cell [ref=e1381]:
+                  - link "中国男乒排名前十名" [ref=e1382] [cursor=pointer]:
+                    - /url: /s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%B9%92%E6%8E%92%E5%90%8D%E5%89%8D%E5%8D%81%E5%90%8D&tn=baidu&rsf=101634504&rsp=3&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_4
+              - row [ref=e1385]:
+                - cell [ref=e1386]:
+                  - link "乒乓球拍哪个牌子好" [ref=e1387] [cursor=pointer]:
+                    - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E6%8B%8D%E5%93%AA%E4%B8%AA%E7%89%8C%E5%AD%90%E5%A5%BD&tn=baidu&rsf=101637101&rsp=4&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_5
+                - cell [ref=e1390]:
+                  - link "亚运会乒乓球" [ref=e1391] [cursor=pointer]:
+                    - /url: /s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83&tn=baidu&rsf=101631151&rsp=5&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_6
+              - row [ref=e1394]:
+                - cell [ref=e1395]:
+                  - link "樊振东" [ref=e1396] [cursor=pointer]:
+                    - /url: /s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C&tn=baidu&rsf=101631151&rsp=6&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_7
+                - cell [ref=e1399]:
+                  - link "王皓为啥哭着说樊振东" [ref=e1400] [cursor=pointer]:
+                    - /url: /s?wd=%E7%8E%8B%E7%9A%93%E4%B8%BA%E5%95%A5%E5%93%AD%E7%9D%80%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C&tn=baidu&rsf=101633601&rsp=7&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_8
+              - row [ref=e1403]:
+                - cell [ref=e1404]:
+                  - link "中央CCTV5直播乒乓球" [ref=e1405] [cursor=pointer]:
+                    - /url: /s?wd=%E4%B8%AD%E5%A4%AECCTV5%E7%9B%B4%E6%92%AD%E4%B9%92%E4%B9%93%E7%90%83&tn=baidu&rsf=101631101&rsp=8&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_9
+                - cell [ref=e1408]:
+                  - link "王楚钦" [ref=e1409] [cursor=pointer]:
+                    - /url: /s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6&tn=baidu&rsf=101631101&rsp=9&f=1&rs_src=0&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&rsv_dl=brs_28338_10
+      - generic [ref=e1414]:
+        - link:
+          - /url: ""
+        - strong [ref=e1415]:
+          - generic [ref=e1416]: "1"
+        - link "2" [ref=e1417] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=10&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "3" [ref=e1419] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=20&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "4" [ref=e1421] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=30&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "5" [ref=e1423] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=40&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "6" [ref=e1425] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=50&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "7" [ref=e1427] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=60&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "8" [ref=e1429] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=70&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "9" [ref=e1431] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=80&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link "10" [ref=e1433] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=90&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=
+        - link [ref=e1435] [cursor=pointer]:
+          - /url: /s?wd=%E4%B9%92%E4%B9%93%E7%90%83&pn=10&oq=%E4%B9%92%E4%B9%93%E7%90%83&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=c11d75bc0048219b&rsv_t=ad1csRjhfxfpEiW6ZYNr3qTRgUnqvm60NK2CotSDM%2FKYHxL6zFn6FtIw4vY&topic_pn=&rsv_page=1
+      - generic [ref=e1438]:
+        - generic [ref=e1439] [cursor=pointer]: 下载
+        - generic [ref=e1444] [cursor=pointer]: 辅助
+      - generic [ref=e1451]:
+        - link "帮助" [ref=e1452] [cursor=pointer]:
+          - /url: https://help.baidu.com/question?prod_id=1
+        - link "举报" [ref=e1453] [cursor=pointer]:
+          - /url: https://help.baidu.com/jubao?source=search
+        - link "用户反馈" [ref=e1454] [cursor=pointer]:
+          - /url: javascript:;
+        - link "企业推广" [ref=e1455] [cursor=pointer]:
+          - /url: https://e.baidu.com/lp/search/?refer=1298

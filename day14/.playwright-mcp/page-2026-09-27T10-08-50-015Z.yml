@@ -1,0 +1,145 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "新闻" [ref=e9] [cursor=pointer]:
+            - /url: http://news.baidu.com
+          - link "hao123" [ref=e10] [cursor=pointer]:
+            - /url: https://www.hao123.com?src=from_pc
+          - link "地图" [ref=e11] [cursor=pointer]:
+            - /url: http://map.baidu.com
+          - link "贴吧" [ref=e12] [cursor=pointer]:
+            - /url: http://tieba.baidu.com/
+          - link "视频" [ref=e13] [cursor=pointer]:
+            - /url: https://haokan.baidu.com/?sfrom=baidu-top
+          - link "图片" [ref=e14] [cursor=pointer]:
+            - /url: http://image.baidu.com/
+          - link "网盘" [ref=e15] [cursor=pointer]:
+            - /url: https://pan.baidu.com?from=1026962h
+          - link "库库AI" [ref=e16] [cursor=pointer]:
+            - /url: https://kuku.baidu.com/app?utm_source=baidu
+          - link "文心" [ref=e17] [cursor=pointer]:
+            - /url: https://chat.baidu.com/search?isShowHello=1&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22home_tab%22%7D
+          - link "百度搭子" [ref=e18] [cursor=pointer]:
+            - /url: https://dumate.baidu.com/app/login-bridge?track=1063479e
+        - generic [ref=e19]:
+          - link "更多" [ref=e20] [cursor=pointer]:
+            - /url: http://www.baidu.com/more/
+          - text: 
+      - generic [ref=e21]:
+        - generic [ref=e22] [cursor=pointer]: 设置
+        - link "登录" [ref=e23] [cursor=pointer]:
+          - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+    - generic [ref=e26]:
+      - generic [ref=e33]:
+        - generic [ref=e36]:
+          - textbox "张继科谈樊振东" [active] [ref=e38]
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e43] [cursor=pointer]
+              - generic [ref=e54] [cursor=pointer]
+            - button "百度一下" [ref=e59] [cursor=pointer]
+        - link "复杂问题就找文心助手，深入思考回答更优 " [ref=e63] [cursor=pointer]:
+          - /url: https://wenxin.baidu.com/?extParams=%7B%22enter_type%22%3A%22home_operate%22%7D
+          - generic [ref=e65]:
+            - generic [ref=e66]: 复杂问题就找文心助手，深入思考回答更优
+            - generic [ref=e67]: 
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - link "百度热搜":
+            - /url: https://top.baidu.com/board?platform=pc&sa=pcindex_entry
+            - generic "百度热搜" [ref=e70] [cursor=pointer]: 
+          - generic [ref=e71] [cursor=pointer]:
+            - generic [ref=e72]: 
+            - text: 换一换
+        - list:
+          - listitem [ref=e73]:
+            - link " 习近平主席讲述中美人民友好故事" [ref=e74] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%AE%B2%E8%BF%B0%E4%B8%AD%E7%BE%8E%E4%BA%BA%E6%B0%91%E5%8F%8B%E5%A5%BD%E6%95%85%E4%BA%8B&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e75]: 
+              - text: 习近平主席讲述中美人民友好故事
+          - listitem [ref=e77]:
+            - link "5 河南一技校101名毕业生入职北大" [ref=e78] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%8A%80%E6%A0%A1101%E5%90%8D%E6%AF%95%E4%B8%9A%E7%94%9F%E5%85%A5%E8%81%8C%E5%8C%97%E5%A4%A7&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e79]: "5"
+              - text: 河南一技校101名毕业生入职北大
+            - generic [ref=e80]: 热
+          - listitem [ref=e81]:
+            - link "1 媒体评3分钟内申请退票扣费75%" [ref=e82] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E8%AF%843%E5%88%86%E9%92%9F%E5%86%85%E7%94%B3%E8%AF%B7%E9%80%80%E7%A5%A8%E6%89%A3%E8%B4%B975%25&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e83]: "1"
+              - text: 媒体评3分钟内申请退票扣费75%
+            - generic [ref=e84]: 新
+          - listitem [ref=e85]:
+            - link "6 李克勤迟到 草根歌手救场连唱20首" [ref=e86] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0+%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e87]: "6"
+              - text: 李克勤迟到 草根歌手救场连唱20首
+            - generic [ref=e88]: 新
+          - listitem [ref=e89]:
+            - link "2 跳水梦之队给对手跳服了" [ref=e90] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E8%B7%B3%E6%B0%B4%E6%A2%A6%E4%B9%8B%E9%98%9F%E7%BB%99%E5%AF%B9%E6%89%8B%E8%B7%B3%E6%9C%8D%E4%BA%86&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e91]: "2"
+              - text: 跳水梦之队给对手跳服了
+          - listitem [ref=e93]:
+            - link "7 劣质椅子翻车 罗永浩：东方甄选卖更多" [ref=e94] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E5%8A%A3%E8%B4%A8%E6%A4%85%E5%AD%90%E7%BF%BB%E8%BD%A6+%E7%BD%97%E6%B0%B8%E6%B5%A9%EF%BC%9A%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%8D%96%E6%9B%B4%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e95]: "7"
+              - text: 劣质椅子翻车 罗永浩：东方甄选卖更多
+            - generic [ref=e96]: 新
+          - listitem [ref=e97]:
+            - link "3 期待中美青年继续友好交流" [ref=e98] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E6%9C%9F%E5%BE%85%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E7%BB%A7%E7%BB%AD%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e99]: "3"
+              - text: 期待中美青年继续友好交流
+          - listitem [ref=e101]:
+            - link "8 47岁“剧抛脸”演员张彤街拍走红" [ref=e102] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=47%E5%B2%81%E2%80%9C%E5%89%A7%E6%8A%9B%E8%84%B8%E2%80%9D%E6%BC%94%E5%91%98%E5%BC%A0%E5%BD%A4%E8%A1%97%E6%8B%8D%E8%B5%B0%E7%BA%A2&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e103]: "8"
+              - text: 47岁“剧抛脸”演员张彤街拍走红
+          - listitem [ref=e105]:
+            - link "4 孙颖莎王曼昱会师决赛" [ref=e106] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e107]: "4"
+              - text: 孙颖莎王曼昱会师决赛
+            - generic [ref=e108]: 热
+          - listitem [ref=e109]:
+            - link "9 张雪机车团队多人在意大利被盗" [ref=e110] [cursor=pointer]:
+              - /url: https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A2%AB%E7%9B%97&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+              - generic [ref=e111]: "9"
+              - text: 张雪机车团队多人在意大利被盗
+    - generic [ref=e114]:
+      - paragraph [ref=e115]:
+        - link "关于百度" [ref=e116] [cursor=pointer]:
+          - /url: //home.baidu.com
+      - paragraph [ref=e117]:
+        - link "About Baidu" [ref=e118] [cursor=pointer]:
+          - /url: http://ir.baidu.com
+      - paragraph [ref=e119]:
+        - link "使用百度前必读" [ref=e120] [cursor=pointer]:
+          - /url: //www.baidu.com/duty
+      - paragraph [ref=e121]:
+        - link "帮助中心" [ref=e122] [cursor=pointer]:
+          - /url: https://help.baidu.com/question?prod_id=1
+      - paragraph [ref=e123]:
+        - link "企业推广" [ref=e124] [cursor=pointer]:
+          - /url: https://e.baidu.com/?refer=1271
+      - paragraph [ref=e125]:
+        - link "京公网安备11010802050023号" [ref=e126] [cursor=pointer]:
+          - /url: https://beian.mps.gov.cn/#/query/webSearch?code=11010802050023
+      - paragraph [ref=e127]:
+        - link "京ICP证030173号" [ref=e128] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn
+      - paragraph [ref=e129]: 互联网新闻信息服务许可证11220180008
+      - paragraph [ref=e130]: 网络文化经营许可证： 京网文〔2026〕0171-042号
+      - paragraph [ref=e131]:
+        - link "信息网络传播视听节目许可证 0110516" [ref=e132] [cursor=pointer]:
+          - /url: //www.baidu.com/licence/
+      - paragraph [ref=e133]: 互联网宗教信息服务许可证编号：京（2026）0000016
+      - paragraph [ref=e134]: 药品医疗器械网络信息服务备案（京）网药械信息备字（2021）第00159号
+      - generic [ref=e135]: 
+      - generic [ref=e136]: 
+  - generic [ref=e137]:
+    - generic [ref=e138]: 下载
+    - generic [ref=e144] [cursor=pointer]: 辅助

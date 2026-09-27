@@ -1,0 +1,72 @@
+- article [ref=f3e2]:
+  - generic [ref=f3e5]:
+    - generic [ref=f3e13]:
+      - generic [ref=f3e14]:
+        - generic [ref=f3e15] [cursor=pointer]
+        - generic [ref=f3e17] [cursor=pointer]
+        - generic [ref=f3e19]:
+          - generic [ref=f3e21] [cursor=pointer]:
+            - paragraph
+          - generic [ref=f3e23] [cursor=pointer]:
+            - paragraph
+          - generic [ref=f3e25] [cursor=pointer]:
+            - paragraph
+      - generic [ref=f3e172]:
+        - img "prev" [ref=f3e174] [cursor=pointer]
+        - img "next" [ref=f3e176] [cursor=pointer]
+    - generic [ref=f3e62]:
+      - generic [ref=f3e63]:
+        - generic [ref=f3e64] [cursor=pointer]
+        - generic [ref=f3e66] [cursor=pointer]
+        - generic [ref=f3e68]:
+          - generic [ref=f3e70] [cursor=pointer]:
+            - paragraph
+          - generic [ref=f3e72] [cursor=pointer]:
+            - paragraph
+          - generic [ref=f3e74] [cursor=pointer]:
+            - paragraph
+          - generic [ref=f3e76] [cursor=pointer]:
+            - paragraph
+      - generic [ref=f3e85]:
+        - generic:
+          - img "slide to left"
+        - generic [ref=f3e87]:
+          - generic [ref=f3e88]:
+            - generic [ref=f3e90]:
+              - link [ref=f3e91] [cursor=pointer]:
+                - /url: https://space.bilibili.com/1451990498
+              - paragraph [ref=f3e93]: 灰酱啊
+              - generic [ref=f3e94]: 关注
+            - generic [ref=f3e97]:
+              - link [ref=f3e98] [cursor=pointer]:
+                - /url: https://live.bilibili.com/3749235?live_from=61001
+              - paragraph [ref=f3e100]: 幸运薯条卷
+              - generic [ref=f3e101]: 关注
+            - generic [ref=f3e104]:
+              - link [ref=f3e105] [cursor=pointer]:
+                - /url: https://space.bilibili.com/1736214473
+              - paragraph [ref=f3e107]: 乔若Anki
+              - generic [ref=f3e108]: 关注
+          - generic [ref=f3e110]:
+            - generic [ref=f3e112]:
+              - link [ref=f3e113] [cursor=pointer]:
+                - /url: https://space.bilibili.com/3546591510137644
+              - paragraph [ref=f3e115]: KFC小豆泥
+              - generic [ref=f3e116]: 关注
+            - generic [ref=f3e119]:
+              - link [ref=f3e120] [cursor=pointer]:
+                - /url: https://live.bilibili.com/1843685221?live_from=61001
+              - paragraph [ref=f3e122]: 小颜到处跑-
+              - generic [ref=f3e123]: 关注
+            - generic [ref=f3e126]:
+              - link [ref=f3e127] [cursor=pointer]:
+                - /url: https://space.bilibili.com/39166871
+              - paragraph [ref=f3e129]: 绵绵可爱嗷
+              - generic [ref=f3e130]: 关注
+          - generic [ref=f3e134]:
+            - link [ref=f3e135] [cursor=pointer]:
+              - /url: https://space.bilibili.com/473850518
+            - paragraph [ref=f3e137]: 呱酱w
+            - generic [ref=f3e138]: 关注
+        - generic:
+          - img "slide to right"

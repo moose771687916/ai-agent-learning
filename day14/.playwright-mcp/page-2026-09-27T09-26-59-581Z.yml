@@ -1,0 +1,1031 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e4]:
+    - generic [ref=f3e6]:
+      - link "首页" [ref=f3e8] [cursor=pointer]:
+        - /url: //www.bilibili.com
+      - link "番剧" [ref=f3e17] [cursor=pointer]:
+        - /url: //www.bilibili.com/anime/
+      - link "直播" [ref=f3e20] [cursor=pointer]:
+        - /url: //live.bilibili.com
+      - link "游戏中心" [ref=f3e24] [cursor=pointer]:
+        - /url: //game.bilibili.com/platform
+      - link "会员购" [ref=f3e27] [cursor=pointer]:
+        - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+      - link "漫画" [ref=f3e30] [cursor=pointer]:
+        - /url: //manga.bilibili.com?from=bill_top_mnav
+      - link "赛事" [ref=f3e33] [cursor=pointer]:
+        - /url: //www.bilibili.com/match/home/
+      - link [ref=f3e37] [cursor=pointer]:
+        - /url: https://live.bilibili.com/22908869
+        - generic [ref=f3e38]:
+          - paragraph [ref=f3e39]: VCT
+          - paragraph [ref=f3e40]:
+            - img "图片" [ref=f3e41]
+          - paragraph [ref=f3e42]: VCT
+      - link "下载客户端" [ref=f3e44] [cursor=pointer]:
+        - /url: //app.bilibili.com/
+    - generic [ref=f3e50]:
+      - generic [ref=f3e51]: 登录
+      - link "大会员" [ref=f3e57] [cursor=pointer]:
+        - /url: //account.bilibili.com/big
+      - generic [ref=f3e64]: 消息
+      - generic [ref=f3e70]: 动态
+      - generic [ref=f3e79]: 收藏
+      - generic [ref=f3e85]: 历史
+      - generic [ref=f3e90]: 创作中心
+      - generic [ref=f3e97]: 投稿
+  - generic [ref=f3e106]:
+    - generic [ref=f3e107]:
+      - generic [ref=f3e111]:
+        - img [ref=f3e115] [cursor=pointer]
+        - textbox "输入关键字搜索" [ref=f3e117]: 金融新闻
+        - button "搜索" [ref=f3e118] [cursor=pointer]
+      - navigation [ref=f3e121]:
+        - list [ref=f3e122]:
+          - listitem [ref=f3e123]:
+            - generic [ref=f3e124] [cursor=pointer]: 综合
+          - listitem [ref=f3e126]:
+            - generic [ref=f3e127] [cursor=pointer]:
+              - generic [ref=f3e128]: 视频
+              - generic [ref=f3e129]: 99+
+          - listitem [ref=f3e130]:
+            - generic [ref=f3e131] [cursor=pointer]:
+              - generic [ref=f3e132]: 番剧
+              - generic [ref=f3e133]: "0"
+          - listitem [ref=f3e134]:
+            - generic [ref=f3e135] [cursor=pointer]:
+              - generic [ref=f3e136]: 影视
+              - generic [ref=f3e137]: "0"
+          - listitem [ref=f3e138]:
+            - generic [ref=f3e139] [cursor=pointer]:
+              - generic [ref=f3e140]: 直播
+              - generic [ref=f3e141]: "0"
+          - listitem [ref=f3e142]:
+            - generic [ref=f3e143] [cursor=pointer]:
+              - generic [ref=f3e144]: 专栏
+              - generic [ref=f3e145]: 99+
+          - listitem [ref=f3e146]:
+            - generic [ref=f3e147] [cursor=pointer]:
+              - generic [ref=f3e148]: 用户
+              - generic [ref=f3e149]: "0"
+      - separator [ref=f3e151]
+      - generic [ref=f3e154]:
+        - generic [ref=f3e155]:
+          - button "综合排序" [ref=f3e156] [cursor=pointer]
+          - button "最多播放" [ref=f3e157] [cursor=pointer]
+          - button "最新发布" [ref=f3e158] [cursor=pointer]
+          - button "最多弹幕" [ref=f3e159] [cursor=pointer]
+          - button "最多收藏" [ref=f3e160] [cursor=pointer]
+        - button "更多筛选" [ref=f3e161] [cursor=pointer]
+    - generic [ref=f3e167]:
+      - generic [ref=f3e169]:
+        - generic [ref=f3e172]:
+          - link [ref=f3e173] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1GNag6aEaB/
+            - generic [ref=f3e174]:
+              - img "中秋佳节聊股灾，从2008年史诗级崩盘开始：6124、1664、3478，估值泡沫破灭+股票供给爆炸+次贷危机共振，目前空前、暂时绝后！20260925" [ref=f3e177]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "7273"
+                    - generic: "3"
+                  - generic: 16:25
+          - generic [ref=f3e179]:
+            - link [ref=f3e180] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1GNag6aEaB/
+              - heading "中秋佳节聊股灾，从2008年史诗级崩盘开始：6124、1664、3478，估值泡沫破灭+股票供给爆炸+次贷危机共振，目前空前、暂时绝后！20260925" [level=3] [ref=f3e181]
+            - link "贝侃-非典型政经 · 2天前" [ref=f3e183] [cursor=pointer]:
+              - /url: //space.bilibili.com/1226974365
+              - generic [ref=f3e188]: 贝侃-非典型政经
+              - generic [ref=f3e189]: · 2天前
+        - generic [ref=f3e192]:
+          - link [ref=f3e193] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV15UaN6oERc/
+            - generic [ref=f3e194]:
+              - img "中秋劫！伊朗联大演讲大反转！美国公布PMI数据，金融市场疯了！" [ref=f3e197]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.2万
+                    - generic: "19"
+                  - generic: 05:00
+          - generic [ref=f3e199]:
+            - link [ref=f3e200] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV15UaN6oERc/
+              - heading [level=3] [ref=f3e201]:
+                - text: 中秋劫！伊朗联大演讲大反转！美国公布PMI数据，
+                - emphasis [ref=f3e202]: 金融
+                - text: 市场疯了！
+            - link "马男聊投资 · 3天前" [ref=f3e204] [cursor=pointer]:
+              - /url: //space.bilibili.com/635383128
+              - generic [ref=f3e209]: 马男聊投资
+              - generic [ref=f3e210]: · 3天前
+        - generic [ref=f3e213]:
+          - link [ref=f3e214] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5647%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCIzviB4Q7uqn1gIYrfuwxQ0gbCgBMJvB6gE4jyxCHjE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzN0jxwsGRjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgICgJoABAYgBAJIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOgAXioAWayASBiwEDSe3TvqJ9FlGHl39ilGjvOSNGVLFx9ByNHce26EboBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxN010WjZjRWRhP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEludGtHRVV4T3lkWDlCUU5XNWJETXZmVzRGUGE3RW54aXhXSm1DLWlyeVRaYXVaUVZrQ2Q2ZTh0TWYxYUI4T2QzOXNtWGxyVG5na3RzNVRkYmJiWlh5MDQmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY0NyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mcmVxdWVzdF9pZD0xNzkwNTAxMjE2NjI1cTEwYTg4YTg0YTc5cTEzMzcmY3JlYXRpdmVfaWQ9MzMxMjM0NjM2MyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzYzNTE2NjYzN8IBATDSAQDYAbIC6AGw6gHwAQD4AWaAAkCIAgCSAgCYApIJoAInqAKSCbACJ7gCAMACwJaxAsgCkE7QAqCNBuoCAPgClhiIAwCSAwCoAwCwAwC4AwDIAwDSA%2B8BeyIxIjoiMzYzNTE2NjYzNyIsIjExIjoiOTUiLCIxMiI6IjU2NDciLCIxMyI6IjU5NCIsIjE2IjoiNTk0XzMwOTQiLCIyIjoiMzg0MjIwMyIsIjI0IjoiMSIsIjI1IjoiMzIyIiwiMjYiOiIzNjIiLCIyOCI6ImE3ZGM5YWFiYThlNzM0YTNlZDhiNWVlOGEwYTIwY2E2IiwiMyI6IjM4NDIyMDMiLCI0IjoiMzIyIiwiNSI6IjM2MiIsIjYiOiIzODQyMjAzIiwiNyI6IjExNzIwNjUyMDE3MjkyNCIsIjgiOiIxODk0NDMxMzg2In3gAwDoAwDwAwD6AwVvdGhlcoIECW51bGw6bnVsbIgEeJAEAJgEAaAEA6oEBwj%2Bn9o0EASqBAcI0uv%2BXBABuAQKwAQJygQA0AQA2AQA4gShAjU2LnsicHNJZCI6MTU0NDkyLCJ2MiI6IkJTNVFiNGFVWWRnV3NoNlBaWlZDQTVpU21WY3lDZmdON01VS1RLM0FhQXotaE4yUVRLU01yVlcxWlRtSUp5UUc3X244eWF1V3V1WjByajd3ZEdmazU4SHctVHlYSVFMcGFzWmpYdmpSWndvSjBEdWlFbkdPdjhuQmxweWMzZnBzOGVmckdPaGNfRzJ4R2h3dWhaQ0tYNGNzWXRSV0ZxT2x1QjVCR2pOYTZyTVdzMGRnVXFqemN5R0s4U0lTdk5wZjdCWlNoVnRROXZBIn07NjMueyJwc0lkIjoxNTQ0MDMsInYyIjoiQXp1YiJ9OzcwLnsicHNJZCI6MTE0NzgwLCJ2MiI6IkFBIn3oBADwBAD6BKcFeyJhY2NlbGVyYXRlX2ZhY3RvciI6MS4wLCJhY2NlbGVyYXRlX2lkIjowLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMTA4LjQ2OVwiLFwiYWRqdXN0X3JhdGlvXCI6XCIxLjAwMFwiLFwiYmFsYW5jZXJfaWRcIjowLFwiYmFsYW5jZXJfcmF0aW9cIjpcIjAuMDAwXCIsXCJjaGFyZ2VfZXhwX2tleV9kZXB0aFwiOlwiXCIsXCJjaGFyZ2VfZXhwX2tleV9saWdodFwiOlwiX2ZseV9jcGFfb25saW5lX2NoYXJnZThcIixcImNvc3RfZGlmZlwiOlwiMC4wMDBcIn0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEyLCJiaXpfdHlwZV9maXgiOjMsImNwYSI6IntcImNwYV9sZXZlbFwiOjk5LFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6OSwiZnJvbVRyYWNraWQiOiI1MDc2ODkyMzA3MjE5NzA4MTA0IiwiaWFhX2NoZWF0X2Zsb3ciOjAsImlubmVyIjowLCJpc19vY3BjX2FudG91X29jcG0iOjAsImlzX3RyYWNraW5nX3VybHMiOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjUxLjQ1NDE2M1wiLFwiZmluYWxfcGN0clwiOlwiMTAyLjM5NzE3MVwiLFwiZmluYWxfcGN2clwiOlwiMTAwMDAuMDAwMDAwXCJ9IiwidmlkZW9fdXBfbWlkIjoxODk0NDMxMzg2fYAFAJAFI5AFJpAFM5AFSJAFVZAFcpAFtAGQBdABkAXRAZAF2AGQBYkCkAWOApAFmgKQBakCkAWqApAFwAKQBcICkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX%2FApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFtgOQBbcDkAXAA5AFwQOQBcQDkAXNA5AF1AOQBeADkAX1A5AF%2BAOQBf8DkAW0BJAFxgWQBe8FkAWPBpAFpgaQBaoGkAWNB5AFkweQBcQHkAWQCJAFtwiQBcgIkAXLEJAFlRGQBZgRkAWhEZAFrBGQBfsRkAWGEpAFnxKQBaYSoAX8ooColNMauAUJwAXSBMgFCeAFAegFAPIFdENBd1FBVEFKVlNIdzJFSmxBRUFjUm0wQVFCeEdkUUFBZ0QrZ0FaalNtcThDcUFIN3libXJETEFCQWNBQkNzZ0JDZTBCQUFDQVAvVUJBQUNBUDUwQ0FBQ0FQNlVDdy9XSVA2MENBQUNBUDdVQ3cvV0lQdz09%2BAWY0pqvAoAG0IYDiAb7ybmrDJAGBJgGBqgGmNKarwI%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218989%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3635166637%2Cp%7Cad_card&ts=1790501218989
+            - generic [ref=f3e215]:
+              - img "赚钱的人都这么做理财!" [ref=f3e218]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "2167"
+                    - generic: "0"
+          - generic [ref=f3e220]:
+            - link [ref=f3e221] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5647%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCIzviB4Q7uqn1gIYrfuwxQ0gbCgBMJvB6gE4jyxCHjE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzN0jxwsGRjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgICgJoABAYgBAJIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOgAXioAWayASBiwEDSe3TvqJ9FlGHl39ilGjvOSNGVLFx9ByNHce26EboBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxN010WjZjRWRhP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEludGtHRVV4T3lkWDlCUU5XNWJETXZmVzRGUGE3RW54aXhXSm1DLWlyeVRaYXVaUVZrQ2Q2ZTh0TWYxYUI4T2QzOXNtWGxyVG5na3RzNVRkYmJiWlh5MDQmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY0NyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mcmVxdWVzdF9pZD0xNzkwNTAxMjE2NjI1cTEwYTg4YTg0YTc5cTEzMzcmY3JlYXRpdmVfaWQ9MzMxMjM0NjM2MyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzYzNTE2NjYzN8IBATDSAQDYAbIC6AGw6gHwAQD4AWaAAkCIAgCSAgCYApIJoAInqAKSCbACJ7gCAMACwJaxAsgCkE7QAqCNBuoCAPgClhiIAwCSAwCoAwCwAwC4AwDIAwDSA%2B8BeyIxIjoiMzYzNTE2NjYzNyIsIjExIjoiOTUiLCIxMiI6IjU2NDciLCIxMyI6IjU5NCIsIjE2IjoiNTk0XzMwOTQiLCIyIjoiMzg0MjIwMyIsIjI0IjoiMSIsIjI1IjoiMzIyIiwiMjYiOiIzNjIiLCIyOCI6ImE3ZGM5YWFiYThlNzM0YTNlZDhiNWVlOGEwYTIwY2E2IiwiMyI6IjM4NDIyMDMiLCI0IjoiMzIyIiwiNSI6IjM2MiIsIjYiOiIzODQyMjAzIiwiNyI6IjExNzIwNjUyMDE3MjkyNCIsIjgiOiIxODk0NDMxMzg2In3gAwDoAwDwAwD6AwVvdGhlcoIECW51bGw6bnVsbIgEeJAEAJgEAaAEA6oEBwj%2Bn9o0EASqBAcI0uv%2BXBABuAQKwAQJygQA0AQA2AQA4gShAjU2LnsicHNJZCI6MTU0NDkyLCJ2MiI6IkJTNVFiNGFVWWRnV3NoNlBaWlZDQTVpU21WY3lDZmdON01VS1RLM0FhQXotaE4yUVRLU01yVlcxWlRtSUp5UUc3X244eWF1V3V1WjByajd3ZEdmazU4SHctVHlYSVFMcGFzWmpYdmpSWndvSjBEdWlFbkdPdjhuQmxweWMzZnBzOGVmckdPaGNfRzJ4R2h3dWhaQ0tYNGNzWXRSV0ZxT2x1QjVCR2pOYTZyTVdzMGRnVXFqemN5R0s4U0lTdk5wZjdCWlNoVnRROXZBIn07NjMueyJwc0lkIjoxNTQ0MDMsInYyIjoiQXp1YiJ9OzcwLnsicHNJZCI6MTE0NzgwLCJ2MiI6IkFBIn3oBADwBAD6BKcFeyJhY2NlbGVyYXRlX2ZhY3RvciI6MS4wLCJhY2NlbGVyYXRlX2lkIjowLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMTA4LjQ2OVwiLFwiYWRqdXN0X3JhdGlvXCI6XCIxLjAwMFwiLFwiYmFsYW5jZXJfaWRcIjowLFwiYmFsYW5jZXJfcmF0aW9cIjpcIjAuMDAwXCIsXCJjaGFyZ2VfZXhwX2tleV9kZXB0aFwiOlwiXCIsXCJjaGFyZ2VfZXhwX2tleV9saWdodFwiOlwiX2ZseV9jcGFfb25saW5lX2NoYXJnZThcIixcImNvc3RfZGlmZlwiOlwiMC4wMDBcIn0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEyLCJiaXpfdHlwZV9maXgiOjMsImNwYSI6IntcImNwYV9sZXZlbFwiOjk5LFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6OSwiZnJvbVRyYWNraWQiOiI1MDc2ODkyMzA3MjE5NzA4MTA0IiwiaWFhX2NoZWF0X2Zsb3ciOjAsImlubmVyIjowLCJpc19vY3BjX2FudG91X29jcG0iOjAsImlzX3RyYWNraW5nX3VybHMiOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjUxLjQ1NDE2M1wiLFwiZmluYWxfcGN0clwiOlwiMTAyLjM5NzE3MVwiLFwiZmluYWxfcGN2clwiOlwiMTAwMDAuMDAwMDAwXCJ9IiwidmlkZW9fdXBfbWlkIjoxODk0NDMxMzg2fYAFAJAFI5AFJpAFM5AFSJAFVZAFcpAFtAGQBdABkAXRAZAF2AGQBYkCkAWOApAFmgKQBakCkAWqApAFwAKQBcICkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX%2FApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFtgOQBbcDkAXAA5AFwQOQBcQDkAXNA5AF1AOQBeADkAX1A5AF%2BAOQBf8DkAW0BJAFxgWQBe8FkAWPBpAFpgaQBaoGkAWNB5AFkweQBcQHkAWQCJAFtwiQBcgIkAXLEJAFlRGQBZgRkAWhEZAFrBGQBfsRkAWGEpAFnxKQBaYSoAX8ooColNMauAUJwAXSBMgFCeAFAegFAPIFdENBd1FBVEFKVlNIdzJFSmxBRUFjUm0wQVFCeEdkUUFBZ0QrZ0FaalNtcThDcUFIN3libXJETEFCQWNBQkNzZ0JDZTBCQUFDQVAvVUJBQUNBUDUwQ0FBQ0FQNlVDdy9XSVA2MENBQUNBUDdVQ3cvV0lQdz09%2BAWY0pqvAoAG0IYDiAb7ybmrDJAGBJgGBqgGmNKarwI%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218989%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3635166637%2Cp%7Cad_card&ts=1790501218989
+              - heading "赚钱的人都这么做理财!" [level=3] [ref=f3e222]
+            - link "感性派大星 · 9月3日" [ref=f3e224] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5647%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCIzviB4Q7uqn1gIYrfuwxQ0gbCgBMJvB6gE4jyxCHjE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzN0jxwsGRjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgICgJoABAYgBAJIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOgAXioAWayASBiwEDSe3TvqJ9FlGHl39ilGjvOSNGVLFx9ByNHce26EboBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxN010WjZjRWRhP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEludGtHRVV4T3lkWDlCUU5XNWJETXZmVzRGUGE3RW54aXhXSm1DLWlyeVRaYXVaUVZrQ2Q2ZTh0TWYxYUI4T2QzOXNtWGxyVG5na3RzNVRkYmJiWlh5MDQmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY0NyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mcmVxdWVzdF9pZD0xNzkwNTAxMjE2NjI1cTEwYTg4YTg0YTc5cTEzMzcmY3JlYXRpdmVfaWQ9MzMxMjM0NjM2MyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzYzNTE2NjYzN8IBATDSAQDYAbIC6AGw6gHwAQD4AWaAAkCIAgCSAgCYApIJoAInqAKSCbACJ7gCAMACwJaxAsgCkE7QAqCNBuoCAPgClhiIAwCSAwCoAwCwAwC4AwDIAwDSA%2B8BeyIxIjoiMzYzNTE2NjYzNyIsIjExIjoiOTUiLCIxMiI6IjU2NDciLCIxMyI6IjU5NCIsIjE2IjoiNTk0XzMwOTQiLCIyIjoiMzg0MjIwMyIsIjI0IjoiMSIsIjI1IjoiMzIyIiwiMjYiOiIzNjIiLCIyOCI6ImE3ZGM5YWFiYThlNzM0YTNlZDhiNWVlOGEwYTIwY2E2IiwiMyI6IjM4NDIyMDMiLCI0IjoiMzIyIiwiNSI6IjM2MiIsIjYiOiIzODQyMjAzIiwiNyI6IjExNzIwNjUyMDE3MjkyNCIsIjgiOiIxODk0NDMxMzg2In3gAwDoAwDwAwD6AwVvdGhlcoIECW51bGw6bnVsbIgEeJAEAJgEAaAEA6oEBwj%2Bn9o0EASqBAcI0uv%2BXBABuAQKwAQJygQA0AQA2AQA4gShAjU2LnsicHNJZCI6MTU0NDkyLCJ2MiI6IkJTNVFiNGFVWWRnV3NoNlBaWlZDQTVpU21WY3lDZmdON01VS1RLM0FhQXotaE4yUVRLU01yVlcxWlRtSUp5UUc3X244eWF1V3V1WjByajd3ZEdmazU4SHctVHlYSVFMcGFzWmpYdmpSWndvSjBEdWlFbkdPdjhuQmxweWMzZnBzOGVmckdPaGNfRzJ4R2h3dWhaQ0tYNGNzWXRSV0ZxT2x1QjVCR2pOYTZyTVdzMGRnVXFqemN5R0s4U0lTdk5wZjdCWlNoVnRROXZBIn07NjMueyJwc0lkIjoxNTQ0MDMsInYyIjoiQXp1YiJ9OzcwLnsicHNJZCI6MTE0NzgwLCJ2MiI6IkFBIn3oBADwBAD6BKcFeyJhY2NlbGVyYXRlX2ZhY3RvciI6MS4wLCJhY2NlbGVyYXRlX2lkIjowLCJhZF90eXBlX2ZpeCI6ImNwbSIsImFkdnZfaW5mbyI6IntcImFkanVzdF9iZWZvcmVfY29zdFwiOlwiMTA4LjQ2OVwiLFwiYWRqdXN0X3JhdGlvXCI6XCIxLjAwMFwiLFwiYmFsYW5jZXJfaWRcIjowLFwiYmFsYW5jZXJfcmF0aW9cIjpcIjAuMDAwXCIsXCJjaGFyZ2VfZXhwX2tleV9kZXB0aFwiOlwiXCIsXCJjaGFyZ2VfZXhwX2tleV9saWdodFwiOlwiX2ZseV9jcGFfb25saW5lX2NoYXJnZThcIixcImNvc3RfZGlmZlwiOlwiMC4wMDBcIn0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEyLCJiaXpfdHlwZV9maXgiOjMsImNwYSI6IntcImNwYV9sZXZlbFwiOjk5LFwiY3BhX3NldFwiOjB9IiwiY3BhVGFyZ2V0VHlwZSI6OSwiZnJvbVRyYWNraWQiOiI1MDc2ODkyMzA3MjE5NzA4MTA0IiwiaWFhX2NoZWF0X2Zsb3ciOjAsImlubmVyIjowLCJpc19vY3BjX2FudG91X29jcG0iOjAsImlzX3RyYWNraW5nX3VybHMiOjAsIm1pbmlfZ2FtZV9pZCI6IiIsIm1pbmlfZ2FtZV9wb3NpdGlvbl9pZCI6IiIsIm1vZGVsU2NvcmUiOiJ7XCJjdHJcIjpcIjUxLjQ1NDE2M1wiLFwiZmluYWxfcGN0clwiOlwiMTAyLjM5NzE3MVwiLFwiZmluYWxfcGN2clwiOlwiMTAwMDAuMDAwMDAwXCJ9IiwidmlkZW9fdXBfbWlkIjoxODk0NDMxMzg2fYAFAJAFI5AFJpAFM5AFSJAFVZAFcpAFtAGQBdABkAXRAZAF2AGQBYkCkAWOApAFmgKQBakCkAWqApAFwAKQBcICkAXFApAFywKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXfApAF4QKQBeMCkAXkApAF5QKQBeYCkAXwApAF9QKQBfsCkAX%2FApAFjQOQBZQDkAWYA5AFmQOQBZoDkAWbA5AFoAOQBaUDkAWnA5AFtgOQBbcDkAXAA5AFwQOQBcQDkAXNA5AF1AOQBeADkAX1A5AF%2BAOQBf8DkAW0BJAFxgWQBe8FkAWPBpAFpgaQBaoGkAWNB5AFkweQBcQHkAWQCJAFtwiQBcgIkAXLEJAFlRGQBZgRkAWhEZAFrBGQBfsRkAWGEpAFnxKQBaYSoAX8ooColNMauAUJwAXSBMgFCeAFAegFAPIFdENBd1FBVEFKVlNIdzJFSmxBRUFjUm0wQVFCeEdkUUFBZ0QrZ0FaalNtcThDcUFIN3libXJETEFCQWNBQkNzZ0JDZTBCQUFDQVAvVUJBQUNBUDUwQ0FBQ0FQNlVDdy9XSVA2MENBQUNBUDdVQ3cvV0lQdz09%2BAWY0pqvAoAG0IYDiAb7ybmrDJAGBJgGBqgGmNKarwI%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218989%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3635166637%2Cp%7Cad_logo&ts=1790501218989
+              - generic [ref=f3e229]: 感性派大星
+              - generic [ref=f3e230]: · 9月3日
+        - generic [ref=f3e233]:
+          - link [ref=f3e234] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1N4hQ6vEkP/
+            - generic [ref=f3e235]:
+              - img "9月26日金融新闻分析" [ref=f3e238]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "9"
+                    - generic: "0"
+                  - generic: 03:48
+          - generic [ref=f3e240]:
+            - link [ref=f3e241] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1N4hQ6vEkP/
+              - heading [level=3] [ref=f3e242]:
+                - text: 9月26日
+                - emphasis [ref=f3e243]: 金融新闻
+                - text: 分析
+            - link "晚安不困人 · 昨天" [ref=f3e245] [cursor=pointer]:
+              - /url: //space.bilibili.com/111076955
+              - generic [ref=f3e250]: 晚安不困人
+              - generic [ref=f3e251]: · 昨天
+        - generic [ref=f3e254]:
+          - link [ref=f3e255] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1c5aw6WEt9/
+            - generic [ref=f3e256]:
+              - img "最后一天，5000家下跌！指数大跳水，958亿绝望闷死！沈鼓跌停，10月加息概率飙升69.7%！金融危机升温，风险加剧！未来该怎么办？" [ref=f3e259]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 3.5万
+                    - generic: "180"
+                  - generic: 05:25
+          - generic [ref=f3e261]:
+            - link [ref=f3e262] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1c5aw6WEt9/
+              - heading [level=3] [ref=f3e263]:
+                - text: 最后一天，5000家下跌！指数大跳水，958亿绝望闷死！沈鼓跌停，10月加息概率飙升69.7%！
+                - emphasis [ref=f3e264]: 金融
+                - text: 危机升温，风险加剧！未来该怎么办？
+            - link "文心游龙 · 3天前" [ref=f3e266] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546942999103780
+              - generic [ref=f3e271]: 文心游龙
+              - generic [ref=f3e272]: · 3天前
+        - generic [ref=f3e275]:
+          - link [ref=f3e276] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1bGb56aEhU/
+            - generic [ref=f3e277]:
+              - img "【硬核】爆肝180天整理！27金融热点总结-上篇（半年版）" [ref=f3e280]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "2512"
+                    - generic: "4"
+                  - generic: 01:06:36
+          - generic [ref=f3e282]:
+            - link [ref=f3e283] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1bGb56aEhU/
+              - heading [level=3] [ref=f3e284]:
+                - text: 【硬核】爆肝180天整理！27
+                - emphasis [ref=f3e285]: 金融
+                - text: 热点总结-上篇（半年版）
+            - link "金融431考研狗 · 9月8日" [ref=f3e287] [cursor=pointer]:
+              - /url: //space.bilibili.com/254487102
+              - generic [ref=f3e292]: 金融431考研狗
+              - generic [ref=f3e293]: · 9月8日
+        - generic [ref=f3e296]:
+          - link [ref=f3e297] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1nraT6gE1S/
+            - generic [ref=f3e298]:
+              - img "【警告】美股为什么还没有爆？必须盯紧的 5 个转折讯号！" [ref=f3e301]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1506"
+                    - generic: "0"
+                  - generic: 17:26
+          - generic [ref=f3e303]:
+            - link [ref=f3e304] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1nraT6gE1S/
+              - heading "【警告】美股为什么还没有爆？必须盯紧的 5 个转折讯号！" [level=3] [ref=f3e305]
+            - link "ChiefPaPa张志云 · 2天前" [ref=f3e307] [cursor=pointer]:
+              - /url: //space.bilibili.com/1987660905
+              - generic [ref=f3e312]: ChiefPaPa张志云
+              - generic [ref=f3e313]: · 2天前
+        - generic [ref=f3e316]:
+          - link [ref=f3e317] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1uXag68EdT/
+            - generic [ref=f3e318]:
+              - img "突发，证监会消息，让人心惊肉跳，中国股市成为全球焦点，新闻都播了8分钟！" [ref=f3e321]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1932"
+                    - generic: "1"
+                  - generic: 02:26
+          - generic [ref=f3e323]:
+            - link [ref=f3e324] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1uXag68EdT/
+              - heading [level=3] [ref=f3e325]:
+                - text: 突发，证监会消息，让人心惊肉跳，中国股市成为全球焦点，
+                - emphasis [ref=f3e326]: 新闻
+                - text: 都播了8分钟！
+            - link "鬼手抓妖 · 2天前" [ref=f3e328] [cursor=pointer]:
+              - /url: //space.bilibili.com/616007370
+              - generic [ref=f3e333]: 鬼手抓妖
+              - generic [ref=f3e334]: · 2天前
+        - generic [ref=f3e337]:
+          - link [ref=f3e338] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV13uhS6uEsN/
+            - generic [ref=f3e339]:
+              - img "全球金融简报2026.09.26早" [ref=f3e342]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "65"
+                    - generic: "0"
+                  - generic: 09:13
+          - generic [ref=f3e344]:
+            - link [ref=f3e345] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV13uhS6uEsN/
+              - heading [level=3] [ref=f3e346]:
+                - text: 全球
+                - emphasis [ref=f3e347]: 金融
+                - text: 简报2026.09.26早
+            - link "yogisun · 昨天" [ref=f3e349] [cursor=pointer]:
+              - /url: //space.bilibili.com/164214743
+              - generic [ref=f3e354]: yogisun
+              - generic [ref=f3e355]: · 昨天
+        - generic [ref=f3e358]:
+          - link [ref=f3e359] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV16sFkzKEQG/
+            - generic [ref=f3e360]:
+              - img "【定制热点捕获工具】金融资讯、股市动态、八卦娱乐、国际新闻，微信秒收定制化热点推送，小白也能轻松上手" [ref=f3e363]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 2.1万
+                    - generic: "1"
+                  - generic: 09:53
+          - generic [ref=f3e365]:
+            - link [ref=f3e366] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV16sFkzKEQG/
+              - heading [level=3] [ref=f3e367]:
+                - text: 【定制热点捕获工具】
+                - emphasis [ref=f3e368]: 金融
+                - text: 资讯、股市动态、八卦娱乐、国际
+                - emphasis [ref=f3e369]: 新闻
+                - text: ，微信秒收定制化热点推送，小白也能轻松上手
+            - link "Flown王砖家 · 2月7日" [ref=f3e371] [cursor=pointer]:
+              - /url: //space.bilibili.com/263150759
+              - generic [ref=f3e376]: Flown王砖家
+              - generic [ref=f3e377]: · 2月7日
+        - generic [ref=f3e380]:
+          - link [ref=f3e381] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV196ag6qEts/
+            - generic [ref=f3e382]:
+              - img "40年警报重现！通胀倒挂打乱美联储节奏，黄金下一步怎么走？" [ref=f3e385]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "4844"
+                    - generic: "6"
+                  - generic: 17:49
+          - generic [ref=f3e387]:
+            - link [ref=f3e388] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV196ag6qEts/
+              - heading "40年警报重现！通胀倒挂打乱美联储节奏，黄金下一步怎么走？" [level=3] [ref=f3e389]
+            - link "钱途迷经 · 2天前" [ref=f3e391] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546929174678025
+              - generic [ref=f3e396]: 钱途迷经
+              - generic [ref=f3e397]: · 2天前
+        - generic [ref=f3e400]:
+          - link [ref=f3e401] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1yhYe6REGK/
+            - generic [ref=f3e402]:
+              - img "《金融时报》：从四大行到四大险企，中国为何再次出手，为金融银行注资？🔥 | 外刊播客 | 中英字幕" [ref=f3e405]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "4630"
+                    - generic: "3"
+                  - generic: 20:27
+          - generic [ref=f3e407]:
+            - link [ref=f3e408] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1yhYe6REGK/
+              - heading [level=3] [ref=f3e409]:
+                - text: 《
+                - emphasis [ref=f3e410]: 金融
+                - text: 时报》：从四大行到四大险企，中国为何再次出手，为
+                - emphasis [ref=f3e411]: 金融
+                - text: 银行注资？🔥 | 外刊播客 | 中英字幕
+            - link "外刊情报局 · 9月14日" [ref=f3e413] [cursor=pointer]:
+              - /url: //space.bilibili.com/3690979320137741
+              - generic [ref=f3e418]: 外刊情报局
+              - generic [ref=f3e419]: · 9月14日
+        - generic [ref=f3e422]:
+          - link [ref=f3e423] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5652%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCJKRtSAQj6eW1wIY2fmfyA0gTygBMPzakgI4lCxCHjE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzN0jxwsGRjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgICgJoABAYgBAJIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOgAU%2BoAXuyASBERcrj2t6SoS%2FrWU0XKqOQnTOX4pYifYXCuhK6twzwX7oBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxUW1laTYxRWZaP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEluc3RFU09EdDJLbWEtd1Y4WWRNaDQyTlVSdTZzM2wyYjZxTmtXRS1tN3oxYUlJdDBraWZUa0lJV3QydnAxMDNKSVhqOEt5Q3RuejMtekp2eEkzRFV1RWwmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MiZyZXF1ZXN0X2lkPTE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzNyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mY3JlYXRpdmVfaWQ9MzY0MTE2NjY1NyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTE3OTM1M8IBATDSAQDYAbIC8AEA%2BAFPgAJAiAIAkgIAmAKcvQGgArsFqAKcvQGwArsFuAIAwAIAyAKQTtACsOoB2AKw6gHqAgD4AgCIAwCSAwCaAw0xNzkwNjk3NTk5OTk5oAMBqAMAsAMAuAMAyAMA0gP1AXsiMSI6IjM2NDExNzkzNTMiLCIxMSI6IjIwNyIsIjEyIjoiNTY1MiIsIjEzIjoiMzUzNTU3MiIsIjE2IjoiMzUzNTU3Ml8wIiwiMiI6IjQ1MDA4NjAiLCIyNCI6IjEiLCIyNSI6IjExMjYiLCIyNiI6IjExMjciLCIyOCI6IjlmZjQxYTEzODA2YmY2NDhiNDY3OTc0MGY0NWM2YzQ0IiwiMyI6IjQ1MDA4NjAiLCI0IjoiMTEyNiIsIjUiOiIxMTI3IiwiNiI6IjQ1MDA4NjAiLCI3IjoiMTE3MzAyOTA1MzQyMDMzIiwiOCI6IjU1NzIzNyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBE%2BQBACYBAGgBAOqBAcIy6%2BRYBAEqgQHCOWXyWAQAbgEAMAECcoEANAEANgEAOIEoQI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJCUzVRYjRhVVlkZ1dzaDZQWlpWQ0E1aVNtVmN5Q2ZnTjdNVUtUSzNBYUF6LWhOMlFUS1NNclZXMVpUbUlKeVFHN19uOHlhdVd1dVowcmo3d2RHZms1OEh3LVR5WElRTHBhc1pqWHZqUlp3b0owRHVpRW5HT3Y4bkJscHljM2ZwczhlZnJHT2hjX0cyeEdod3VoWkNLWDRjc1l0UldGcU9sdUI1QkdqTmE2ck1XczBkZ1VxanpjeUdLOFNJU3ZOcGY3QlpTaFZ0UTl2QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkF6dWIifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgSyBHsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuMCwiYWNjZWxlcmF0ZV9pZCI6MCwiYWRfdHlwZV9maXgiOiJjcG0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEsImJpel90eXBlX2ZpeCI6MywiYm9vc3RfaW5mbyI6IntcImJpZFwiOjc5LFwiYm9vc3RfYmlkXCI6MCxcImNvc3RcIjoyMS43MDkwNDkyMjQ4NTM1MTYsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo3OSxcInNjb3JlXCI6XCIxLjMwXCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjUwNzY4OTIzMDcyMTk3MDgxMDQiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiNjUuMDQ0MzczXCIsXCJmaW5hbF9wY3RyXCI6XCIxMjMuMTgxNzMyXCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjU1NzIzN32ABQCQBSiQBTmQBUOQBUmQBdcBkAWOApAFmgKQBcACkAXCApAFwwKQBcUCkAXLApAFzgKQBdMCkAXWApAF1wKQBdgCkAXZApAF2gKQBd8CkAXwApAF9QKQBfsCkAX%2FApAFlAOQBaADkAWlA5AFpwOQBbADkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAXGBZAF7wWQBYEIkAWwEaAF0ZCEsPvVGrgFCcAF1OXXAcgFCeAFAegFAPIFdENBRVFBVEFKWlFCQUhFWnRBRUFjUm5VQUFJQS9mU0tzclVHZ0FlcUhsdGNDcUFIQmxwL0lEYkFCQWJnQkFjZ0JDZTBCQUFDQVAvVUJBQUNBUDUwQ0FBQ0FQNlVDdy9XSVA2MENBQUNBUDdVQ3cvV0lQdz09%2BAXqh5bXAoAGsOoBiAbBlp%2FIDZAGBJgGBqgG6oeW1wI%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218990%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3641179353%2Cp%7Cad_card&ts=1790501218990
+            - generic [ref=f3e424]:
+              - img "还在花钱买研报？中信 高盛 大摩 （研报 电话会议） 一个网站 全搞定" [ref=f3e427]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 2.5万
+                    - generic: "1"
+          - generic [ref=f3e429]:
+            - link [ref=f3e430] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5652%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCJKRtSAQj6eW1wIY2fmfyA0gTygBMPzakgI4lCxCHjE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzN0jxwsGRjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgICgJoABAYgBAJIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOgAU%2BoAXuyASBERcrj2t6SoS%2FrWU0XKqOQnTOX4pYifYXCuhK6twzwX7oBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxUW1laTYxRWZaP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEluc3RFU09EdDJLbWEtd1Y4WWRNaDQyTlVSdTZzM2wyYjZxTmtXRS1tN3oxYUlJdDBraWZUa0lJV3QydnAxMDNKSVhqOEt5Q3RuejMtekp2eEkzRFV1RWwmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MiZyZXF1ZXN0X2lkPTE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzNyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mY3JlYXRpdmVfaWQ9MzY0MTE2NjY1NyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTE3OTM1M8IBATDSAQDYAbIC8AEA%2BAFPgAJAiAIAkgIAmAKcvQGgArsFqAKcvQGwArsFuAIAwAIAyAKQTtACsOoB2AKw6gHqAgD4AgCIAwCSAwCaAw0xNzkwNjk3NTk5OTk5oAMBqAMAsAMAuAMAyAMA0gP1AXsiMSI6IjM2NDExNzkzNTMiLCIxMSI6IjIwNyIsIjEyIjoiNTY1MiIsIjEzIjoiMzUzNTU3MiIsIjE2IjoiMzUzNTU3Ml8wIiwiMiI6IjQ1MDA4NjAiLCIyNCI6IjEiLCIyNSI6IjExMjYiLCIyNiI6IjExMjciLCIyOCI6IjlmZjQxYTEzODA2YmY2NDhiNDY3OTc0MGY0NWM2YzQ0IiwiMyI6IjQ1MDA4NjAiLCI0IjoiMTEyNiIsIjUiOiIxMTI3IiwiNiI6IjQ1MDA4NjAiLCI3IjoiMTE3MzAyOTA1MzQyMDMzIiwiOCI6IjU1NzIzNyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBE%2BQBACYBAGgBAOqBAcIy6%2BRYBAEqgQHCOWXyWAQAbgEAMAECcoEANAEANgEAOIEoQI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJCUzVRYjRhVVlkZ1dzaDZQWlpWQ0E1aVNtVmN5Q2ZnTjdNVUtUSzNBYUF6LWhOMlFUS1NNclZXMVpUbUlKeVFHN19uOHlhdVd1dVowcmo3d2RHZms1OEh3LVR5WElRTHBhc1pqWHZqUlp3b0owRHVpRW5HT3Y4bkJscHljM2ZwczhlZnJHT2hjX0cyeEdod3VoWkNLWDRjc1l0UldGcU9sdUI1QkdqTmE2ck1XczBkZ1VxanpjeUdLOFNJU3ZOcGY3QlpTaFZ0UTl2QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkF6dWIifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgSyBHsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuMCwiYWNjZWxlcmF0ZV9pZCI6MCwiYWRfdHlwZV9maXgiOiJjcG0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEsImJpel90eXBlX2ZpeCI6MywiYm9vc3RfaW5mbyI6IntcImJpZFwiOjc5LFwiYm9vc3RfYmlkXCI6MCxcImNvc3RcIjoyMS43MDkwNDkyMjQ4NTM1MTYsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo3OSxcInNjb3JlXCI6XCIxLjMwXCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjUwNzY4OTIzMDcyMTk3MDgxMDQiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiNjUuMDQ0MzczXCIsXCJmaW5hbF9wY3RyXCI6XCIxMjMuMTgxNzMyXCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjU1NzIzN32ABQCQBSiQBTmQBUOQBUmQBdcBkAWOApAFmgKQBcACkAXCApAFwwKQBcUCkAXLApAFzgKQBdMCkAXWApAF1wKQBdgCkAXZApAF2gKQBd8CkAXwApAF9QKQBfsCkAX%2FApAFlAOQBaADkAWlA5AFpwOQBbADkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAXGBZAF7wWQBYEIkAWwEaAF0ZCEsPvVGrgFCcAF1OXXAcgFCeAFAegFAPIFdENBRVFBVEFKWlFCQUhFWnRBRUFjUm5VQUFJQS9mU0tzclVHZ0FlcUhsdGNDcUFIQmxwL0lEYkFCQWJnQkFjZ0JDZTBCQUFDQVAvVUJBQUNBUDUwQ0FBQ0FQNlVDdy9XSVA2MENBQUNBUDdVQ3cvV0lQdz09%2BAXqh5bXAoAGsOoBiAbBlp%2FIDZAGBJgGBqgG6oeW1wI%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218990%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3641179353%2Cp%7Cad_card&ts=1790501218990
+              - heading "还在花钱买研报？中信 高盛 大摩 （研报 电话会议） 一个网站 全搞定" [level=3] [ref=f3e431]
+            - link "被迫营业的韭菜Modo · 9月20日" [ref=f3e433] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5652%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCJKRtSAQj6eW1wIY2fmfyA0gTygBMPzakgI4lCxCHjE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzN0jxwsGRjjRSCemprOmejeWxsVoG5a6J5b69YgbkuK3lm71oZHAAeICAgICgJoABAYgBAJIBJTI0MGU6MzYyOjQzMWM6OTIwMDplMTc6NzNmZjpmZTU5OmYwZDOgAU%2BoAXuyASBERcrj2t6SoS%2FrWU0XKqOQnTOX4pYifYXCuhK6twzwX7oBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxUW1laTYxRWZaP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEluc3RFU09EdDJLbWEtd1Y4WWRNaDQyTlVSdTZzM2wyYjZxTmtXRS1tN3oxYUlJdDBraWZUa0lJV3QydnAxMDNKSVhqOEt5Q3RuejMtekp2eEkzRFV1RWwmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MiZyZXF1ZXN0X2lkPTE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzNyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mY3JlYXRpdmVfaWQ9MzY0MTE2NjY1NyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTE3OTM1M8IBATDSAQDYAbIC8AEA%2BAFPgAJAiAIAkgIAmAKcvQGgArsFqAKcvQGwArsFuAIAwAIAyAKQTtACsOoB2AKw6gHqAgD4AgCIAwCSAwCaAw0xNzkwNjk3NTk5OTk5oAMBqAMAsAMAuAMAyAMA0gP1AXsiMSI6IjM2NDExNzkzNTMiLCIxMSI6IjIwNyIsIjEyIjoiNTY1MiIsIjEzIjoiMzUzNTU3MiIsIjE2IjoiMzUzNTU3Ml8wIiwiMiI6IjQ1MDA4NjAiLCIyNCI6IjEiLCIyNSI6IjExMjYiLCIyNiI6IjExMjciLCIyOCI6IjlmZjQxYTEzODA2YmY2NDhiNDY3OTc0MGY0NWM2YzQ0IiwiMyI6IjQ1MDA4NjAiLCI0IjoiMTEyNiIsIjUiOiIxMTI3IiwiNiI6IjQ1MDA4NjAiLCI3IjoiMTE3MzAyOTA1MzQyMDMzIiwiOCI6IjU1NzIzNyJ94AMA6AMA8AMA%2BgMFb3RoZXKCBAludWxsOm51bGyIBE%2BQBACYBAGgBAOqBAcIy6%2BRYBAEqgQHCOWXyWAQAbgEAMAECcoEANAEANgEAOIEoQI1Ni57InBzSWQiOjE1NDQ5MiwidjIiOiJCUzVRYjRhVVlkZ1dzaDZQWlpWQ0E1aVNtVmN5Q2ZnTjdNVUtUSzNBYUF6LWhOMlFUS1NNclZXMVpUbUlKeVFHN19uOHlhdVd1dVowcmo3d2RHZms1OEh3LVR5WElRTHBhc1pqWHZqUlp3b0owRHVpRW5HT3Y4bkJscHljM2ZwczhlZnJHT2hjX0cyeEdod3VoWkNLWDRjc1l0UldGcU9sdUI1QkdqTmE2ck1XczBkZ1VxanpjeUdLOFNJU3ZOcGY3QlpTaFZ0UTl2QSJ9OzYzLnsicHNJZCI6MTU0NDAzLCJ2MiI6IkF6dWIifTs3MC57InBzSWQiOjExNDc4MCwidjIiOiJBQSJ96AQA8AQA%2BgSyBHsiYWNjZWxlcmF0ZV9mYWN0b3IiOjEuMCwiYWNjZWxlcmF0ZV9pZCI6MCwiYWRfdHlwZV9maXgiOiJjcG0iLCJiaWRfdHlwZSI6MSwiYml6X3R5cGUiOjEsImJpel90eXBlX2ZpeCI6MywiYm9vc3RfaW5mbyI6IntcImJpZFwiOjc5LFwiYm9vc3RfYmlkXCI6MCxcImNvc3RcIjoyMS43MDkwNDkyMjQ4NTM1MTYsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo3OSxcInNjb3JlXCI6XCIxLjMwXCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjUwNzY4OTIzMDcyMTk3MDgxMDQiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjAsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiNjUuMDQ0MzczXCIsXCJmaW5hbF9wY3RyXCI6XCIxMjMuMTgxNzMyXCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjU1NzIzN32ABQCQBSiQBTmQBUOQBUmQBdcBkAWOApAFmgKQBcACkAXCApAFwwKQBcUCkAXLApAFzgKQBdMCkAXWApAF1wKQBdgCkAXZApAF2gKQBd8CkAXwApAF9QKQBfsCkAX%2FApAFlAOQBaADkAWlA5AFpwOQBbADkAXEA5AFzQOQBeADkAX1A5AF%2BAOQBf8DkAXGBZAF7wWQBYEIkAWwEaAF0ZCEsPvVGrgFCcAF1OXXAcgFCeAFAegFAPIFdENBRVFBVEFKWlFCQUhFWnRBRUFjUm5VQUFJQS9mU0tzclVHZ0FlcUhsdGNDcUFIQmxwL0lEYkFCQWJnQkFjZ0JDZTBCQUFDQVAvVUJBQUNBUDUwQ0FBQ0FQNlVDdy9XSVA2MENBQUNBUDdVQ3cvV0lQdz09%2BAXqh5bXAoAGsOoBiAbBlp%2FIDZAGBJgGBqgG6oeW1wI%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218990%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3641179353%2Cp%7Cad_logo&ts=1790501218990
+              - generic [ref=f3e438]: 被迫营业的韭菜Modo
+              - generic [ref=f3e439]: · 9月20日
+        - generic [ref=f3e442]:
+          - link [ref=f3e443] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1xMhX6iEMm/
+            - generic [ref=f3e444]:
+              - img "9月27号一觉醒来发生了什么，6分钟听完25条新闻速递！" [ref=f3e447]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1073"
+                    - generic: "0"
+                  - generic: 17:20
+          - generic [ref=f3e449]:
+            - link [ref=f3e450] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1xMhX6iEMm/
+              - heading [level=3] [ref=f3e451]:
+                - text: 9月27号一觉醒来发生了什么，6分钟听完25条
+                - emphasis [ref=f3e452]: 新闻
+                - text: 速递！
+            - link "眼_界 · 17小时前" [ref=f3e454] [cursor=pointer]:
+              - /url: //space.bilibili.com/53808393
+              - generic [ref=f3e459]: 眼_界
+              - generic [ref=f3e460]: · 17小时前
+        - generic [ref=f3e463]:
+          - link [ref=f3e464] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1PWag6JEWL/
+            - generic [ref=f3e465]:
+              - img "0925全球财经早解读" [ref=f3e468]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1018"
+                    - generic: "0"
+                  - generic: 23:12
+          - generic [ref=f3e470]:
+            - link [ref=f3e471] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1PWag6JEWL/
+              - heading "0925全球财经早解读" [level=3] [ref=f3e472]
+            - link "傻狗与AI · 2天前" [ref=f3e474] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546848144918656
+              - generic [ref=f3e479]: 傻狗与AI
+              - generic [ref=f3e480]: · 2天前
+        - generic [ref=f3e483]:
+          - link [ref=f3e484] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV14ah26dEq9/
+            - generic [ref=f3e485]:
+              - img "美债收益率冲破5%的真相：为什么一份“超预期好数据”，反而吓坏了整个市场？" [ref=f3e488]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "5003"
+                    - generic: "3"
+                  - generic: 24:38
+          - generic [ref=f3e490]:
+            - link [ref=f3e491] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV14ah26dEq9/
+              - heading "美债收益率冲破5%的真相：为什么一份“超预期好数据”，反而吓坏了整个市场？" [level=3] [ref=f3e492]
+            - link "向陽說 · 2天前" [ref=f3e494] [cursor=pointer]:
+              - /url: //space.bilibili.com/476608940
+              - generic [ref=f3e499]: 向陽說
+              - generic [ref=f3e500]: · 2天前
+        - generic [ref=f3e503]:
+          - link [ref=f3e504] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Kah26dE24/
+            - generic [ref=f3e505]:
+              - img "全球金融简报2026.09.25晚间" [ref=f3e508]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "143"
+                    - generic: "0"
+                  - generic: 09:51
+          - generic [ref=f3e510]:
+            - link [ref=f3e511] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Kah26dE24/
+              - heading [level=3] [ref=f3e512]:
+                - text: 全球
+                - emphasis [ref=f3e513]: 金融
+                - text: 简报2026.09.25晚间
+            - link "yogisun · 2天前" [ref=f3e515] [cursor=pointer]:
+              - /url: //space.bilibili.com/164214743
+              - generic [ref=f3e520]: yogisun
+              - generic [ref=f3e521]: · 2天前
+        - generic [ref=f3e524]:
+          - link [ref=f3e525] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1VVhy6cEDm/
+            - generic [ref=f3e526]:
+              - img "央行8000亿元MLF操作｜英语时事热点播客 第1期" [ref=f3e529]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "615"
+                    - generic: "0"
+                  - generic: 08:00
+          - generic [ref=f3e531]:
+            - link [ref=f3e532] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1VVhy6cEDm/
+              - heading "央行8000亿元MLF操作｜英语时事热点播客 第1期" [level=3] [ref=f3e533]
+            - link "英语大耳朵 · 2天前" [ref=f3e535] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546729183972145
+              - generic [ref=f3e540]: 英语大耳朵
+              - generic [ref=f3e541]: · 2天前
+        - generic [ref=f3e544]:
+          - link [ref=f3e545] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1AXYg6WEu9/
+            - generic [ref=f3e546]:
+              - img "比股灾更可怕，全球债市崩了" [ref=f3e549]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 2万
+                    - generic: "21"
+                  - generic: 07:52
+          - generic [ref=f3e551]:
+            - link [ref=f3e552] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1AXYg6WEu9/
+              - heading "比股灾更可怕，全球债市崩了" [level=3] [ref=f3e553]
+            - link "财姐水晶 · 9月11日" [ref=f3e555] [cursor=pointer]:
+              - /url: //space.bilibili.com/3493094662080715
+              - generic [ref=f3e560]: 财姐水晶
+              - generic [ref=f3e561]: · 9月11日
+        - generic [ref=f3e564]:
+          - link [ref=f3e565] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Rsh86xEhM/
+            - generic [ref=f3e566]:
+              - img "【配音】十年美债摇摇欲坠！收益率若冲破 6%，华尔街地产银行集体承压，滞胀风险抬头，大资金出逃债券，实物金银或将迎来史诗级行情。" [ref=f3e569]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.3万
+                    - generic: "19"
+                  - generic: 18:45
+          - generic [ref=f3e571]:
+            - link [ref=f3e572] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Rsh86xEhM/
+              - heading "【配音】十年美债摇摇欲坠！收益率若冲破 6%，华尔街地产银行集体承压，滞胀风险抬头，大资金出逃债券，实物金银或将迎来史诗级行情。" [level=3] [ref=f3e573]
+            - link "有猫译 · 9月23日" [ref=f3e575] [cursor=pointer]:
+              - /url: //space.bilibili.com/4717930
+              - generic [ref=f3e580]: 有猫译
+              - generic [ref=f3e581]: · 9月23日
+        - generic [ref=f3e584]:
+          - link [ref=f3e585] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1RjYs65Ekq/
+            - generic [ref=f3e586]:
+              - img "托福119 雅思8.5｜带你精听美国金融新闻" [ref=f3e589]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.8万
+                    - generic: "238"
+                  - generic: 05:31
+          - generic [ref=f3e591]:
+            - link [ref=f3e592] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1RjYs65Ekq/
+              - heading [level=3] [ref=f3e593]:
+                - text: 托福119 雅思8.5｜带你精听美国
+                - emphasis [ref=f3e594]: 金融新闻
+            - link "Alllenglish · 9月9日" [ref=f3e596] [cursor=pointer]:
+              - /url: //space.bilibili.com/1486614990
+              - generic [ref=f3e601]: Alllenglish
+              - generic [ref=f3e602]: · 9月9日
+        - generic [ref=f3e605]:
+          - link [ref=f3e606] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1q8hR6FEsJ/
+            - generic [ref=f3e607]:
+              - img "中英双语 ｜ 2026年9月26日（星期六）" [ref=f3e610]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "16"
+                    - generic: "0"
+                  - generic: 23:30
+          - generic [ref=f3e612]:
+            - link [ref=f3e613] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1q8hR6FEsJ/
+              - heading "中英双语 ｜ 2026年9月26日（星期六）" [level=3] [ref=f3e614]
+            - link "QualiyNewsPress · 23小时前" [ref=f3e616] [cursor=pointer]:
+              - /url: //space.bilibili.com/3706938437142593
+              - generic [ref=f3e621]: QualiyNewsPress
+              - generic [ref=f3e622]: · 23小时前
+        - generic [ref=f3e625]:
+          - link [ref=f3e626] [cursor=pointer]:
+            - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5653%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCIGRtSAQiJGW1wIY87OfyA0gYCgBMIvFYziVLEIeMTc5MDUwMTIxNjYyNXExMGE4OGE4NGE3OXExMzM3SPHCwZGONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABYKgBqQGyASAb9knmphDNasu2pRT%2FvAOn3Jb8Uqhqx1JMpKdqbb2xG7oBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxTkxoMTZVRXZzP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEludkhwamxldTU4OVhMWFZSNWFLUnQtV29vaXdXc0h0V2gtZ09TNmkzMGxocUI5QWNvYU1YMWhTaFNsUVJCY2lYZDhjd0d5d3B1bjd3Z0tKWlRiRVlDTHMmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MyZyZXF1ZXN0X2lkPTE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzNyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mY3JlYXRpdmVfaWQ9MzY0MTE1OTI0MyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTE3MDQxOcIBATDSAQDYAbIC8AEA%2BAFggAJAiAIAkgIAmALe5AKgAuIQqALe5AKwAuIQuAIAwAIAyAKQTtACsOoB2AKw6gHqAgD4AgCIAwCSAwCaAw0xNzkwNjExMTk5OTk5oAMBqAMAsAMAuAMAyAMA0gP5AXsiMSI6IjM2NDExNzA0MTkiLCIxMSI6IjIwNyIsIjEyIjoiNTY1MyIsIjEzIjoiMTU3MTMzNCIsIjE2IjoiMTU3MTMzNF8wIiwiMiI6IjE2MzA4NTkiLCIyNCI6IjEiLCIyNSI6IjExMjYiLCIyNiI6IjExMjciLCIyOCI6IjQxNGZiZTZjMzhiZmRiNGVmNGQ0MDA5ZTIwZDliZWU2IiwiMyI6IjE2MzA4NTkiLCI0IjoiMTEyNiIsIjUiOiIxMTI3IiwiNiI6IjE2MzA4NTkiLCI3IjoiMTE3MzI5OTUwMjE3NjE5IiwiOCI6IjE1NzU2ODg0OTAifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsiARgkAQAoAQDqgQHCKb0oGEQBKoEBwin9KBhEAC4BADABAnKBADQBADYBADiBKECNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQlM1UWI0YVVZZGdXc2g2UFpaVkNBNWlTbVZjeUNmZ043TVVLVEszQWFBei1oTjJRVEtTTXJWVzFaVG1JSnlRRzdfbjh5YXVXdXVaMHJqN3dkR2ZrNThIdy1UeVhJUUxwYXNaalh2alJad29KMER1aUVuR092OG5CbHB5YzNmcHM4ZWZyR09oY19HMnhHaHd1aFpDS1g0Y3NZdFJXRnFPbHVCNUJHak5hNnJNV3MwZGdVcWp6Y3lHSzhTSVN2TnBmN0JaU2hWdFE5dkEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBenViIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEtQR7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxLCJiaXpfdHlwZV9maXgiOjMsImJvb3N0X2luZm8iOiJ7XCJiaWRcIjo5NixcImJvb3N0X2JpZFwiOjAsXCJjb3N0XCI6MC40MTIzNjIyNzc1MDc3ODIsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo5NixcInNjb3JlXCI6XCIxLjA1XCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjUwNzY4OTIzMDcyMTk3MDgxMDQiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjEsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiOTUuMzIwOTYxXCIsXCJmaW5hbF9wY3RyXCI6XCIxNjkuNDg2MDY5XCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjE1NzU2ODg0OTB9gAUAkAUokAUzkAU5kAVDkAVIkAVJkAVekAVikAVykAWEAZAFhgGQBYgBkAWJAZAFrAGQBbEBkAXIAZAF0AGQBdEBkAXUAZAF1wGQBegBkAXxAZAFjgKQBZgCkAWaApAFnQKQBZ4CkAWzApAFtwKQBcACkAXCApAFwwKQBcUCkAXLApAFzAKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXcApAF3wKQBfACkAX1ApAF%2BwKQBf8CkAWGA5AFkgOQBZQDkAWcA5AFoAOQBaEDkAWiA5AFpAOQBaUDkAWnA5AFsAOQBbEDkAXEA5AFzQOQBdMDkAXXA5AF4AOQBeUDkAXoA5AF6gOQBesDkAXyA5AF9QOQBfcDkAX4A5AF%2FwOQBYAEkAWrBJAFrwSQBbAEkAWxBJAFsgSQBbQEkAW4BJAF5QSQBcYFkAXvBZAFpgaQBYEIkAXlEqAFk6uEkODWGrgFCcAFhvRfyAUJ4AUB6AUA8gVwQ0FFd0NXVUFRQnhHYlFCQUhFWjFBQUNBUDMwbUlkTStvQUgvOXBYWEFxZ0J5OXlleUEyd0FRRzRBUUhJQVFudEFRQUFnRC8xQVFBQWdEK2RBZ0FBZ0QrbEFzUDFpRCt0QWdBQWdEKzFBc1AxaUQ4PfgF%2F%2FaV1wKABrDqAYgGy9yeyA2QBgSYBgaoBv%2F2ldcC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218991%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3641170419%2Cp%7Cad_card&ts=1790501218991
+            - generic [ref=f3e627]:
+              - img "【9月宏观经济推演】放大招的可能性在降低？10月会议超预期刺激的可能？" [ref=f3e630]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 8.4万
+                    - generic: "144"
+          - generic [ref=f3e632]:
+            - link [ref=f3e633] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5653%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCIGRtSAQiJGW1wIY87OfyA0gYCgBMIvFYziVLEIeMTc5MDUwMTIxNjYyNXExMGE4OGE4NGE3OXExMzM3SPHCwZGONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABYKgBqQGyASAb9knmphDNasu2pRT%2FvAOn3Jb8Uqhqx1JMpKdqbb2xG7oBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxTkxoMTZVRXZzP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEludkhwamxldTU4OVhMWFZSNWFLUnQtV29vaXdXc0h0V2gtZ09TNmkzMGxocUI5QWNvYU1YMWhTaFNsUVJCY2lYZDhjd0d5d3B1bjd3Z0tKWlRiRVlDTHMmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MyZyZXF1ZXN0X2lkPTE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzNyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mY3JlYXRpdmVfaWQ9MzY0MTE1OTI0MyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTE3MDQxOcIBATDSAQDYAbIC8AEA%2BAFggAJAiAIAkgIAmALe5AKgAuIQqALe5AKwAuIQuAIAwAIAyAKQTtACsOoB2AKw6gHqAgD4AgCIAwCSAwCaAw0xNzkwNjExMTk5OTk5oAMBqAMAsAMAuAMAyAMA0gP5AXsiMSI6IjM2NDExNzA0MTkiLCIxMSI6IjIwNyIsIjEyIjoiNTY1MyIsIjEzIjoiMTU3MTMzNCIsIjE2IjoiMTU3MTMzNF8wIiwiMiI6IjE2MzA4NTkiLCIyNCI6IjEiLCIyNSI6IjExMjYiLCIyNiI6IjExMjciLCIyOCI6IjQxNGZiZTZjMzhiZmRiNGVmNGQ0MDA5ZTIwZDliZWU2IiwiMyI6IjE2MzA4NTkiLCI0IjoiMTEyNiIsIjUiOiIxMTI3IiwiNiI6IjE2MzA4NTkiLCI3IjoiMTE3MzI5OTUwMjE3NjE5IiwiOCI6IjE1NzU2ODg0OTAifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsiARgkAQAoAQDqgQHCKb0oGEQBKoEBwin9KBhEAC4BADABAnKBADQBADYBADiBKECNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQlM1UWI0YVVZZGdXc2g2UFpaVkNBNWlTbVZjeUNmZ043TVVLVEszQWFBei1oTjJRVEtTTXJWVzFaVG1JSnlRRzdfbjh5YXVXdXVaMHJqN3dkR2ZrNThIdy1UeVhJUUxwYXNaalh2alJad29KMER1aUVuR092OG5CbHB5YzNmcHM4ZWZyR09oY19HMnhHaHd1aFpDS1g0Y3NZdFJXRnFPbHVCNUJHak5hNnJNV3MwZGdVcWp6Y3lHSzhTSVN2TnBmN0JaU2hWdFE5dkEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBenViIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEtQR7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxLCJiaXpfdHlwZV9maXgiOjMsImJvb3N0X2luZm8iOiJ7XCJiaWRcIjo5NixcImJvb3N0X2JpZFwiOjAsXCJjb3N0XCI6MC40MTIzNjIyNzc1MDc3ODIsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo5NixcInNjb3JlXCI6XCIxLjA1XCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjUwNzY4OTIzMDcyMTk3MDgxMDQiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjEsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiOTUuMzIwOTYxXCIsXCJmaW5hbF9wY3RyXCI6XCIxNjkuNDg2MDY5XCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjE1NzU2ODg0OTB9gAUAkAUokAUzkAU5kAVDkAVIkAVJkAVekAVikAVykAWEAZAFhgGQBYgBkAWJAZAFrAGQBbEBkAXIAZAF0AGQBdEBkAXUAZAF1wGQBegBkAXxAZAFjgKQBZgCkAWaApAFnQKQBZ4CkAWzApAFtwKQBcACkAXCApAFwwKQBcUCkAXLApAFzAKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXcApAF3wKQBfACkAX1ApAF%2BwKQBf8CkAWGA5AFkgOQBZQDkAWcA5AFoAOQBaEDkAWiA5AFpAOQBaUDkAWnA5AFsAOQBbEDkAXEA5AFzQOQBdMDkAXXA5AF4AOQBeUDkAXoA5AF6gOQBesDkAXyA5AF9QOQBfcDkAX4A5AF%2FwOQBYAEkAWrBJAFrwSQBbAEkAWxBJAFsgSQBbQEkAW4BJAF5QSQBcYFkAXvBZAFpgaQBYEIkAXlEqAFk6uEkODWGrgFCcAFhvRfyAUJ4AUB6AUA8gVwQ0FFd0NXVUFRQnhHYlFCQUhFWjFBQUNBUDMwbUlkTStvQUgvOXBYWEFxZ0J5OXlleUEyd0FRRzRBUUhJQVFudEFRQUFnRC8xQVFBQWdEK2RBZ0FBZ0QrbEFzUDFpRCt0QWdBQWdEKzFBc1AxaUQ4PfgF%2F%2FaV1wKABrDqAYgGy9yeyA2QBgSYBgaoBv%2F2ldcC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218991%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3641170419%2Cp%7Cad_card&ts=1790501218991
+              - heading "【9月宏观经济推演】放大招的可能性在降低？10月会议超预期刺激的可能？" [level=3] [ref=f3e634]
+            - link "4千点赞 CLS同学 · 2天前" [ref=f3e636] [cursor=pointer]:
+              - /url: //cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C5653%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C%2Ce%7CCIGRtSAQiJGW1wIY87OfyA0gYCgBMIvFYziVLEIeMTc5MDUwMTIxNjYyNXExMGE4OGE4NGE3OXExMzM3SPHCwZGONFIJ6ams6Z6N5bGxWgblronlvr1iBuS4reWbvWhkcAB4gICAgKAmgAEBiAEAkgElMjQwZTozNjI6NDMxYzo5MjAwOmUxNzo3M2ZmOmZlNTk6ZjBkM6ABYKgBqQGyASAb9knmphDNasu2pRT%2FvAOn3Jb8Uqhqx1JMpKdqbb2xG7oBxwNodHRwczovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxTkxoMTZVRXZzP3RyYWNraWQ9NTA3Njg5MjMwNzIxOTcwODEwNCZ0cmFja19pZD1wYmFlcy5QS1RVX0ctcV90UnBZTUVGOWxzRmg1dkMwOE1hSjg4bGFYQ3ZmSHFKVlZ4amRKMXBvamp2Mm42Uzl0LXVneFAxcm9PM3M3enpwUTdoRlpsM0NyclhTWTAzN0c1MlhTb2FBX1JLRHhZdEludkhwamxldTU4OVhMWFZSNWFLUnQtV29vaXdXc0h0V2gtZ09TNmkzMGxocUI5QWNvYU1YMWhTaFNsUVJCY2lYZDhjd0d5d3B1bjd3Z0tKWlRiRVlDTHMmY2FpZD1fX0NBSURfXyZyZXNvdXJjZV9pZD1fX1JFU09VUkNFSURfXyZzb3VyY2VfaWQ9NTY1MyZyZXF1ZXN0X2lkPTE3OTA1MDEyMTY2MjVxMTBhODhhODRhNzlxMTMzNyZmcm9tX3NwbWlkPV9fRlJPTVNQTUlEX18mY3JlYXRpdmVfaWQ9MzY0MTE1OTI0MyZsaW5rZWRfY3JlYXRpdmVfaWQ9MzY0MTE3MDQxOcIBATDSAQDYAbIC8AEA%2BAFggAJAiAIAkgIAmALe5AKgAuIQqALe5AKwAuIQuAIAwAIAyAKQTtACsOoB2AKw6gHqAgD4AgCIAwCSAwCaAw0xNzkwNjExMTk5OTk5oAMBqAMAsAMAuAMAyAMA0gP5AXsiMSI6IjM2NDExNzA0MTkiLCIxMSI6IjIwNyIsIjEyIjoiNTY1MyIsIjEzIjoiMTU3MTMzNCIsIjE2IjoiMTU3MTMzNF8wIiwiMiI6IjE2MzA4NTkiLCIyNCI6IjEiLCIyNSI6IjExMjYiLCIyNiI6IjExMjciLCIyOCI6IjQxNGZiZTZjMzhiZmRiNGVmNGQ0MDA5ZTIwZDliZWU2IiwiMyI6IjE2MzA4NTkiLCI0IjoiMTEyNiIsIjUiOiIxMTI3IiwiNiI6IjE2MzA4NTkiLCI3IjoiMTE3MzI5OTUwMjE3NjE5IiwiOCI6IjE1NzU2ODg0OTAifeADAOgDAPADAPoDBW90aGVyggQJbnVsbDpudWxsiARgkAQAoAQDqgQHCKb0oGEQBKoEBwin9KBhEAC4BADABAnKBADQBADYBADiBKECNTYueyJwc0lkIjoxNTQ0OTIsInYyIjoiQlM1UWI0YVVZZGdXc2g2UFpaVkNBNWlTbVZjeUNmZ043TVVLVEszQWFBei1oTjJRVEtTTXJWVzFaVG1JSnlRRzdfbjh5YXVXdXVaMHJqN3dkR2ZrNThIdy1UeVhJUUxwYXNaalh2alJad29KMER1aUVuR092OG5CbHB5YzNmcHM4ZWZyR09oY19HMnhHaHd1aFpDS1g0Y3NZdFJXRnFPbHVCNUJHak5hNnJNV3MwZGdVcWp6Y3lHSzhTSVN2TnBmN0JaU2hWdFE5dkEifTs2My57InBzSWQiOjE1NDQwMywidjIiOiJBenViIn07NzAueyJwc0lkIjoxMTQ3ODAsInYyIjoiQUEifegEAPAEAPoEtQR7ImFjY2VsZXJhdGVfZmFjdG9yIjoxLjAsImFjY2VsZXJhdGVfaWQiOjAsImFkX3R5cGVfZml4IjoiY3BtIiwiYmlkX3R5cGUiOjEsImJpel90eXBlIjoxLCJiaXpfdHlwZV9maXgiOjMsImJvb3N0X2luZm8iOiJ7XCJiaWRcIjo5NixcImJvb3N0X2JpZFwiOjAsXCJjb3N0XCI6MC40MTIzNjIyNzc1MDc3ODIsXCJpZFwiOjEwODc5MixcIm9yaV9iaWRcIjo5NixcInNjb3JlXCI6XCIxLjA1XCJ9IiwiY3BhIjoie1wiY3BhX2xldmVsXCI6OTksXCJjcGFfc2V0XCI6MH0iLCJjcGFUYXJnZXRUeXBlIjo5LCJmcm9tVHJhY2tpZCI6IjUwNzY4OTIzMDcyMTk3MDgxMDQiLCJpYWFfY2hlYXRfZmxvdyI6MCwiaW5uZXIiOjEsImlzX29jcGNfYW50b3Vfb2NwbSI6MCwiaXNfdHJhY2tpbmdfdXJscyI6MCwibWluaV9nYW1lX2lkIjoiIiwibWluaV9nYW1lX3Bvc2l0aW9uX2lkIjoiIiwibW9kZWxTY29yZSI6IntcImN0clwiOlwiOTUuMzIwOTYxXCIsXCJmaW5hbF9wY3RyXCI6XCIxNjkuNDg2MDY5XCIsXCJmaW5hbF9wY3ZyXCI6XCIxMDAwMC4wMDAwMDBcIn0iLCJ2aWRlb191cF9taWQiOjE1NzU2ODg0OTB9gAUAkAUokAUzkAU5kAVDkAVIkAVJkAVekAVikAVykAWEAZAFhgGQBYgBkAWJAZAFrAGQBbEBkAXIAZAF0AGQBdEBkAXUAZAF1wGQBegBkAXxAZAFjgKQBZgCkAWaApAFnQKQBZ4CkAWzApAFtwKQBcACkAXCApAFwwKQBcUCkAXLApAFzAKQBc4CkAXTApAF1gKQBdcCkAXYApAF2QKQBdoCkAXcApAF3wKQBfACkAX1ApAF%2BwKQBf8CkAWGA5AFkgOQBZQDkAWcA5AFoAOQBaEDkAWiA5AFpAOQBaUDkAWnA5AFsAOQBbEDkAXEA5AFzQOQBdMDkAXXA5AF4AOQBeUDkAXoA5AF6gOQBesDkAXyA5AF9QOQBfcDkAX4A5AF%2FwOQBYAEkAWrBJAFrwSQBbAEkAWxBJAFsgSQBbQEkAW4BJAF5QSQBcYFkAXvBZAFpgaQBYEIkAXlEqAFk6uEkODWGrgFCcAFhvRfyAUJ4AUB6AUA8gVwQ0FFd0NXVUFRQnhHYlFCQUhFWjFBQUNBUDMwbUlkTStvQUgvOXBYWEFxZ0J5OXlleUEyd0FRRzRBUUhJQVFudEFRQUFnRC8xQVFBQWdEK2RBZ0FBZ0QrbEFzUDFpRCt0QWdBQWdEKzFBc1AxaUQ4PfgF%2F%2FaV1wKABrDqAYgGy9yeyA2QBgSYBgaoBv%2F2ldcC%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C%2Ci%7C%2Cj%7C%2Ck%7C1790501218991%2Cl%7C5646%2Cm%7C1790501218768%2Cn%7C%2Co%7C3641170419%2Cp%7Cad_logo&ts=1790501218991
+              - generic [ref=f3e637]: 4千点赞
+              - generic [ref=f3e638]: CLS同学
+              - generic [ref=f3e639]: · 2天前
+        - generic [ref=f3e642]:
+          - link [ref=f3e643] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1L5h26MEms/
+            - generic [ref=f3e644]:
+              - img "别只疯抢黄金！金银比68暗藏补涨杀机：神秘买家现货溢价搬空西方，这场纸牌屋还能撑多久？" [ref=f3e647]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "3342"
+                    - generic: "0"
+                  - generic: 12:19
+          - generic [ref=f3e649]:
+            - link [ref=f3e650] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1L5h26MEms/
+              - heading "别只疯抢黄金！金银比68暗藏补涨杀机：神秘买家现货溢价搬空西方，这场纸牌屋还能撑多久？" [level=3] [ref=f3e651]
+            - link "钱途迷经 · 2天前" [ref=f3e653] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546929174678025
+              - generic [ref=f3e658]: 钱途迷经
+              - generic [ref=f3e659]: · 2天前
+        - generic [ref=f3e662]:
+          - link [ref=f3e663] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV172hy6BEkW/
+            - generic [ref=f3e664]:
+              - img "如果美债都压不住AI，学宏观还有什么用？" [ref=f3e667]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.9万
+                    - generic: "1"
+                  - generic: 36:44
+          - generic [ref=f3e669]:
+            - link [ref=f3e670] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV172hy6BEkW/
+              - heading "如果美债都压不住AI，学宏观还有什么用？" [level=3] [ref=f3e671]
+            - link "柳行长 · 2天前" [ref=f3e673] [cursor=pointer]:
+              - /url: //space.bilibili.com/23326926
+              - generic [ref=f3e678]: 柳行长
+              - generic [ref=f3e679]: · 2天前
+        - generic [ref=f3e682]:
+          - link [ref=f3e683] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1MAaP6zEVj/
+            - generic [ref=f3e684]:
+              - img "边风炜9月24日点评：节后科技还有反弹行情" [ref=f3e687]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1744"
+                    - generic: "4"
+                  - generic: 20:51
+          - generic [ref=f3e689]:
+            - link [ref=f3e690] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1MAaP6zEVj/
+              - heading "边风炜9月24日点评：节后科技还有反弹行情" [level=3] [ref=f3e691]
+            - link "牛来牛来 · 3天前" [ref=f3e693] [cursor=pointer]:
+              - /url: //space.bilibili.com/417357267
+              - generic [ref=f3e698]: 牛来牛来
+              - generic [ref=f3e699]: · 3天前
+        - generic [ref=f3e702]:
+          - link [ref=f3e703] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV18Qh463EnC/
+            - generic [ref=f3e704]:
+              - img "大盘下跌莫慌！再跌要加仓加仓！节后还要涨！" [ref=f3e707]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 3.3万
+                    - generic: "56"
+                  - generic: 09:12
+          - generic [ref=f3e709]:
+            - link [ref=f3e710] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV18Qh463EnC/
+              - heading "大盘下跌莫慌！再跌要加仓加仓！节后还要涨！" [level=3] [ref=f3e711]
+            - link "价值成长欧阳君 · 9月23日" [ref=f3e713] [cursor=pointer]:
+              - /url: //space.bilibili.com/627594731
+              - generic [ref=f3e718]: 价值成长欧阳君
+              - generic [ref=f3e719]: · 9月23日
+        - generic [ref=f3e722]:
+          - link [ref=f3e723] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1meau6XEU5/
+            - generic [ref=f3e724]:
+              - img "9.25 前沿性思考分享" [ref=f3e727]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.5万
+                    - generic: "9"
+                  - generic: 06:29
+          - generic [ref=f3e729]:
+            - link [ref=f3e730] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1meau6XEU5/
+              - heading "9.25 前沿性思考分享" [level=3] [ref=f3e731]
+            - link "艾丽的无废话财经 · 2天前" [ref=f3e733] [cursor=pointer]:
+              - /url: //space.bilibili.com/3461575253953366
+              - generic [ref=f3e738]: 艾丽的无废话财经
+              - generic [ref=f3e739]: · 2天前
+        - generic [ref=f3e742]:
+          - link [ref=f3e743] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1CYaA6FEgX/
+            - generic [ref=f3e744]:
+              - img "A股：跌崩了！双创指数遭殃，跟跌不跟涨！国家队：事闹大了！情况有点严重，科技赛道再遭考验？行情彻底完犊子？" [ref=f3e747]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.5万
+                    - generic: "135"
+                  - generic: 07:15
+          - generic [ref=f3e749]:
+            - link [ref=f3e750] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1CYaA6FEgX/
+              - heading "A股：跌崩了！双创指数遭殃，跟跌不跟涨！国家队：事闹大了！情况有点严重，科技赛道再遭考验？行情彻底完犊子？" [level=3] [ref=f3e751]
+            - link "猎人策股 · 3天前" [ref=f3e753] [cursor=pointer]:
+              - /url: //space.bilibili.com/1975011153
+              - generic [ref=f3e758]: 猎人策股
+              - generic [ref=f3e759]: · 3天前
+        - generic [ref=f3e762]:
+          - link [ref=f3e763] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1QVaN6DE1X/
+            - generic [ref=f3e764]:
+              - img "美伊重启谈判失败，原油开始反弹，10月加息概率飙升，三大利空消息同时来！" [ref=f3e767]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "1511"
+                    - generic: "0"
+                  - generic: 04:33
+          - generic [ref=f3e769]:
+            - link [ref=f3e770] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1QVaN6DE1X/
+              - heading "美伊重启谈判失败，原油开始反弹，10月加息概率飙升，三大利空消息同时来！" [level=3] [ref=f3e771]
+            - link "财女大漂亮 · 3天前" [ref=f3e773] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546561879477026
+              - generic [ref=f3e778]: 财女大漂亮
+              - generic [ref=f3e779]: · 3天前
+        - generic [ref=f3e782]:
+          - link [ref=f3e783] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1NEag6XERL/
+            - generic [ref=f3e784]:
+              - img "甲骨文喊不可抗力！美债最大的风险！Meta上涨才刚刚开始？AI三巨头报团！" [ref=f3e787]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "8320"
+                    - generic: "11"
+                  - generic: 18:53
+          - generic [ref=f3e789]:
+            - link [ref=f3e790] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1NEag6XERL/
+              - heading "甲骨文喊不可抗力！美债最大的风险！Meta上涨才刚刚开始？AI三巨头报团！" [level=3] [ref=f3e791]
+            - link "美投侃热点 · 2天前" [ref=f3e793] [cursor=pointer]:
+              - /url: //space.bilibili.com/1962124785
+              - generic [ref=f3e798]: 美投侃热点
+              - generic [ref=f3e799]: · 2天前
+        - generic [ref=f3e802]:
+          - link [ref=f3e803] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1qFhb69EZ9/
+            - generic [ref=f3e804]:
+              - img "别羡慕美股新高！A股也有五大优点！" [ref=f3e807]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 3.6万
+                    - generic: "133"
+                  - generic: 01:27
+          - generic [ref=f3e809]:
+            - link [ref=f3e810] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1qFhb69EZ9/
+              - heading "别羡慕美股新高！A股也有五大优点！" [level=3] [ref=f3e811]
+            - link "海螺复盘 · 9月23日" [ref=f3e813] [cursor=pointer]:
+              - /url: //space.bilibili.com/471949556
+              - generic [ref=f3e818]: 海螺复盘
+              - generic [ref=f3e819]: · 9月23日
+        - generic [ref=f3e822]:
+          - link [ref=f3e823] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV15KaA6UE7E/
+            - generic [ref=f3e824]:
+              - img "第1276日投资记录：美债10年期利率创07年以来最高，AH股泥沙俱下，勉强苟着。" [ref=f3e827]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 2万
+                    - generic: "39"
+                  - generic: 07:47
+          - generic [ref=f3e829]:
+            - link [ref=f3e830] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV15KaA6UE7E/
+              - heading "第1276日投资记录：美债10年期利率创07年以来最高，AH股泥沙俱下，勉强苟着。" [level=3] [ref=f3e831]
+            - link "史诗级韭菜 · 3天前" [ref=f3e833] [cursor=pointer]:
+              - /url: //space.bilibili.com/322005137
+              - generic [ref=f3e838]: 史诗级韭菜
+              - generic [ref=f3e839]: · 3天前
+        - generic [ref=f3e842]:
+          - link [ref=f3e843] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1SLaA6rEMG/
+            - generic [ref=f3e844]:
+              - img "中秋劫，大面横飞！跌停跑路，学会这招！股生，少亏一个亿！" [ref=f3e847]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.8万
+                    - generic: "10"
+                  - generic: 15:52
+          - generic [ref=f3e849]:
+            - link [ref=f3e850] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1SLaA6rEMG/
+              - heading "中秋劫，大面横飞！跌停跑路，学会这招！股生，少亏一个亿！" [level=3] [ref=f3e851]
+            - link "来去由心 · 3天前" [ref=f3e853] [cursor=pointer]:
+              - /url: //space.bilibili.com/11430504
+              - generic [ref=f3e858]: 来去由心
+              - generic [ref=f3e859]: · 3天前
+        - generic [ref=f3e862]:
+          - link [ref=f3e863] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Gmhf6PE8w/
+            - generic [ref=f3e864]:
+              - img "AI新鬼故事，Meta要血洗三大行业！完了，下个月继续加息？麦当劳六年来最大抄底机会！" [ref=f3e867]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.2万
+                    - generic: "8"
+                  - generic: 18:52
+          - generic [ref=f3e869]:
+            - link [ref=f3e870] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Gmhf6PE8w/
+              - heading "AI新鬼故事，Meta要血洗三大行业！完了，下个月继续加息？麦当劳六年来最大抄底机会！" [level=3] [ref=f3e871]
+            - link "美投侃热点 · 3天前" [ref=f3e873] [cursor=pointer]:
+              - /url: //space.bilibili.com/1962124785
+              - generic [ref=f3e878]: 美投侃热点
+              - generic [ref=f3e879]: · 3天前
+        - generic [ref=f3e882]:
+          - link [ref=f3e883] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1jraA69EQV/
+            - generic [ref=f3e884]:
+              - img "单边回落杀流动性，影响盘面的因素有哪些？中线配置的思路，哪些品种值得关注？（9·24收盘点评）" [ref=f3e887]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "6106"
+                    - generic: "38"
+                  - generic: 08:45
+          - generic [ref=f3e889]:
+            - link [ref=f3e890] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1jraA69EQV/
+              - heading "单边回落杀流动性，影响盘面的因素有哪些？中线配置的思路，哪些品种值得关注？（9·24收盘点评）" [level=3] [ref=f3e891]
+            - link "股痴养心 · 3天前" [ref=f3e893] [cursor=pointer]:
+              - /url: //space.bilibili.com/3493082215484049
+              - generic [ref=f3e898]: 股痴养心
+              - generic [ref=f3e899]: · 3天前
+        - generic [ref=f3e902]:
+          - link [ref=f3e903] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1pBaT6GETU/
+            - generic [ref=f3e904]:
+              - img "美债、日债均亮红灯，发生了什么？A股“养套杀”Plus版来了" [ref=f3e907]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.1万
+                    - generic: "14"
+                  - generic: 22:48
+          - generic [ref=f3e909]:
+            - link [ref=f3e910] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1pBaT6GETU/
+              - heading "美债、日债均亮红灯，发生了什么？A股“养套杀”Plus版来了" [level=3] [ref=f3e911]
+            - link "财经-沉默的螺旋 · 2天前" [ref=f3e913] [cursor=pointer]:
+              - /url: //space.bilibili.com/518031546
+              - generic [ref=f3e918]: 财经-沉默的螺旋
+              - generic [ref=f3e919]: · 2天前
+        - generic [ref=f3e922]:
+          - link [ref=f3e923] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1HDev6REx7/
+            - generic [ref=f3e924]:
+              - img "1343万亿日债雪崩！日本想让全球陪葬，唯有一战才能解决问题！抓人停牌，神股必死无疑？大A迎来关键窗口期，科技重大反弹预期！半导体和封装，连阳走强！" [ref=f3e927]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 4.3万
+                    - generic: "228"
+                  - generic: 07:52
+          - generic [ref=f3e929]:
+            - link [ref=f3e930] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1HDev6REx7/
+              - heading "1343万亿日债雪崩！日本想让全球陪葬，唯有一战才能解决问题！抓人停牌，神股必死无疑？大A迎来关键窗口期，科技重大反弹预期！半导体和封装，连阳走强！" [level=3] [ref=f3e931]
+            - link "文心游龙 · 9月20日" [ref=f3e933] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546942999103780
+              - generic [ref=f3e938]: 文心游龙
+              - generic [ref=f3e939]: · 9月20日
+        - generic [ref=f3e942]:
+          - link [ref=f3e943] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1KZh46TE2L/
+            - generic [ref=f3e944]:
+              - img "金砖支付不掀桌：去美元化的渐进式战略！" [ref=f3e947]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 1.1万
+                    - generic: "3"
+                  - generic: 11:04
+          - generic [ref=f3e949]:
+            - link [ref=f3e950] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1KZh46TE2L/
+              - heading "金砖支付不掀桌：去美元化的渐进式战略！" [level=3] [ref=f3e951]
+            - link "宋鸿兵观天下 · 9月23日" [ref=f3e953] [cursor=pointer]:
+              - /url: //space.bilibili.com/390894226
+              - generic [ref=f3e958]: 宋鸿兵观天下
+              - generic [ref=f3e959]: · 9月23日
+        - generic [ref=f3e962]:
+          - link [ref=f3e963] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Vzhe6YE3B/
+            - generic [ref=f3e964]:
+              - img "沈鼓集团，跳楼爆亏63%！高位接盘亏到吐血，到底谁在赚钱？梭哈一切，跳楼爆仓！封装光纤反弹行情如何把握，防守板块集团走强，到底怎么办？" [ref=f3e967]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 6.4万
+                    - generic: "197"
+                  - generic: 06:50
+          - generic [ref=f3e969]:
+            - link [ref=f3e970] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Vzhe6YE3B/
+              - heading "沈鼓集团，跳楼爆亏63%！高位接盘亏到吐血，到底谁在赚钱？梭哈一切，跳楼爆仓！封装光纤反弹行情如何把握，防守板块集团走强，到底怎么办？" [level=3] [ref=f3e971]
+            - link "文心游龙 · 9月21日" [ref=f3e973] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546942999103780
+              - generic [ref=f3e978]: 文心游龙
+              - generic [ref=f3e979]: · 9月21日
+        - generic [ref=f3e982]:
+          - link [ref=f3e983] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1cnaM6CEyz/
+            - generic [ref=f3e984]:
+              - img "全球金融简报2026.09.25早" [ref=f3e987]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "72"
+                    - generic: "0"
+                  - generic: 03:29
+          - generic [ref=f3e989]:
+            - link [ref=f3e990] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1cnaM6CEyz/
+              - heading [level=3] [ref=f3e991]:
+                - text: 全球
+                - emphasis [ref=f3e992]: 金融
+                - text: 简报2026.09.25早
+            - link "yogisun · 2天前" [ref=f3e994] [cursor=pointer]:
+              - /url: //space.bilibili.com/164214743
+              - generic [ref=f3e999]: yogisun
+              - generic [ref=f3e1000]: · 2天前
+        - generic [ref=f3e1003]:
+          - link [ref=f3e1004] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV149ho6HEmB/
+            - generic [ref=f3e1005]:
+              - img "《新闻联播》深度解读 | 2026年9月26日" [ref=f3e1008]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: "868"
+                    - generic: "0"
+                  - generic: 07:39
+          - generic [ref=f3e1010]:
+            - link [ref=f3e1011] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV149ho6HEmB/
+              - heading [level=3] [ref=f3e1012]:
+                - text: 《
+                - emphasis [ref=f3e1013]: 新闻
+                - text: 联播》深度解读 | 2026年9月26日
+            - link "胖橘观察 · 19小时前" [ref=f3e1015] [cursor=pointer]:
+              - /url: //space.bilibili.com/43197394
+              - generic [ref=f3e1020]: 胖橘观察
+              - generic [ref=f3e1021]: · 19小时前
+      - navigation "分页" [ref=f3e1023]:
+        - generic [ref=f3e1024]:
+          - button "上一页" [disabled] [ref=f3e1025]
+          - button "第 1 页，当前页" [ref=f3e1026] [cursor=pointer]: "1"
+          - button "第 2 页" [ref=f3e1027] [cursor=pointer]: "2"
+          - button "第 3 页" [ref=f3e1028] [cursor=pointer]: "3"
+          - button "第 4 页" [ref=f3e1029] [cursor=pointer]: "4"
+          - button "第 5 页" [ref=f3e1030] [cursor=pointer]: "5"
+          - button "第 6 页" [ref=f3e1031] [cursor=pointer]: "6"
+          - button "第 7 页" [ref=f3e1032] [cursor=pointer]: "7"
+          - generic [aria-hidden] [ref=f3e1033]: ...
+          - button "第 24 页" [ref=f3e1034] [cursor=pointer]: "24"
+          - button "下一页" [ref=f3e1035] [cursor=pointer]
+  - generic [ref=f3e1040]:
+    - generic [ref=f3e1041]:
+      - generic [ref=f3e1042]:
+        - generic [ref=f3e1043]: bilibili
+        - generic [ref=f3e1044]:
+          - link "关于我们" [ref=f3e1045] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/aboutUs.html
+          - link "联系我们" [ref=f3e1046] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/contact.html
+          - link "用户协议" [ref=f3e1047] [cursor=pointer]:
+            - /url: //www.bilibili.com/protocal/licence.html
+          - link "加入我们" [ref=f3e1048] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/join.html
+          - link "隐私协议" [ref=f3e1049] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/privacy-pc.html
+          - link "bilibili认证" [ref=f3e1050] [cursor=pointer]:
+            - /url: //account.bilibili.com/account/official/home
+          - link "Investor Relations" [ref=f3e1051] [cursor=pointer]:
+            - /url: //ir.bilibili.com/
+      - generic [ref=f3e1052]:
+        - generic [ref=f3e1053]: 传送门
+        - generic [ref=f3e1054]:
+          - link "协议汇总" [ref=f3e1055] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic/activity-cn8bxPLzz.html
+          - link "活动中心" [ref=f3e1056] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-list.html
+          - link "活动专题页" [ref=f3e1057] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic_list.html
+          - link "侵权申诉" [ref=f3e1058] [cursor=pointer]:
+            - /url: //www.bilibili.com/v/copyright/intro/
+          - link "帮助中心" [ref=f3e1059] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/help.html
+          - link "社区中心" [ref=f3e1060] [cursor=pointer]:
+            - /url: https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html
+          - link "壁纸站" [ref=f3e1061] [cursor=pointer]:
+            - /url: //space.bilibili.com/6823116#/album
+          - link "广告合作" [ref=f3e1062] [cursor=pointer]:
+            - /url: //e.bilibili.com/
+          - link "名人堂" [ref=f3e1063] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-S1jfy69Jz.html
+          - link "MCN管理中心" [ref=f3e1064] [cursor=pointer]:
+            - /url: //mcn.bilibili.com/studio/mcn/entry
+          - link "高级弹幕" [ref=f3e1065] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Xx411c7cH/
+          - link "品牌号官网" [ref=f3e1066] [cursor=pointer]:
+            - /url: //b.bilibili.com/
+      - generic [ref=f3e1067]:
+        - link [ref=f3e1069] [cursor=pointer]:
+          - /url: //app.bilibili.com/
+          - paragraph [ref=f3e1073]: 下载APP
+        - link [ref=f3e1075] [cursor=pointer]:
+          - /url: //love.bilibili.com/
+          - paragraph [ref=f3e1082]: 公益
+        - link [ref=f3e1084] [cursor=pointer]:
+          - /url: //weibo.com/bilibiliweb
+          - paragraph [ref=f3e1088]: 官方微博
+        - paragraph [ref=f3e1094]: 官方微信
+    - generic [ref=f3e1097]:
+      - generic [ref=f3e1098]:
+        - link "营业执照" [ref=f3e1099] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/gd85E6tDco.jpg
+        - text: 信息网络传播视听节目许可证：0910417
+        - link "网络文化经营许可证 沪网文【2025】0258-085号" [ref=f3e1100] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20260209/3b3c5705bda98d50983f6f47df360fef/K4t52YryBV.jpeg
+        - text: 广播电视节目制作经营许可证：（沪）字第01248号增值电信业务经营许可证 沪B2-20100043
+      - generic [ref=f3e1101]:
+        - link "互联网ICP备案：沪ICP备13002172号-3" [ref=f3e1102] [cursor=pointer]:
+          - /url: //beian.miit.gov.cn/
+        - link "出版物经营许可证 沪批字第U6699 号" [ref=f3e1103] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/4ainzbFKao.jpg
+        - text: 互联网药品信息服务资格证 沪-非经营性-2022-0011营业性演出许可证 沪市文演（经）00-2253 |
+      - generic [ref=f3e1104]:
+        - link "不良信息举报邮箱：help@bilibili.com" [ref=f3e1105] [cursor=pointer]:
+          - /url: mailto:help@bilibili.com
+        - link "涉未成年举报邮箱：teenprotect@bilibili.com" [ref=f3e1106] [cursor=pointer]:
+          - /url: mailto:teenprotect@bilibili.com
+        - text: 不良信息举报电话：4006262233转3
+        - link "上海互联网举报中心 |" [ref=f3e1108] [cursor=pointer]:
+          - /url: http://www.shjbzx.cn/
+        - link "12345政务服务便民热线 |" [ref=f3e1109] [cursor=pointer]:
+          - /url: http://www.sh12345.gov.cn/
+      - generic [ref=f3e1110]:
+        - link "沪公网安备31011002002436号 |" [ref=f3e1112] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002002436
+        - link "儿童色情信息举报专区 |" [ref=f3e1113] [cursor=pointer]:
+          - /url: mailto:userreport@bilibili.com
+        - link "扫黄打非举报" [ref=f3e1114] [cursor=pointer]:
+          - /url: https://bzpt.shdf.gov.cn/www/shouye/gzfw/wsjb/index.shtml
+      - generic [ref=f3e1115]:
+        - link "网信算备310110764385705230011号" [ref=f3e1116] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_6185ea2c-c84c-404a-9280-c5465af05948.pdf
+        - link "网信算备310110764385702230013号" [ref=f3e1117] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_e03e6855-76a6-43fb-b799-d090e7fce25d.pdf
+      - generic [ref=f3e1118]:
+        - text: 网上有害信息举报专区：
+        - link "中国互联网违法和不良信息举报中心" [ref=f3e1120] [cursor=pointer]:
+          - /url: https://www.12377.cn/
+        - text: 亲爱的市民朋友，上海警方反诈劝阻电话"96110"系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。
+      - generic [ref=f3e1121]: 公司名称：上海宽娱数码科技有限公司 |公司地址：上海市杨浦区政立路489号 |电话：021-25099888
