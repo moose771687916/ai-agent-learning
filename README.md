@@ -2,12 +2,12 @@
 
 ## 项目介绍
 
-这是一个从零开始学习AI Agent开发的项目，8天时间从零到做出一个完整的AI应用。
+这是一个从零开始学习AI Agent开发的项目，17天时间从零到深入掌握AI Agent开发的核心技术。
 
 ## 技术栈
 
-- **大模型**：智谱GLM-4-Flash（对话）+ 硅基流动BGE-M3（向量）
-- **框架**：LangChain + LangGraph
+- **大模型**：智谱GLM-4-Flash（对话）+ 硅基流动BGE-M3（向量）+ BGE-Reranker（重排序）
+- **框架**：LangChain（Chain、RAG、Agent）+ Function Calling
 - **后端**：FastAPI
 - **向量数据库**：FAISS
 - **部署**：cpolar内网穿透
@@ -24,6 +24,15 @@
 | Day 6 | 上传文档建RAG（TXT/Word/PDF）、cpolar部署公网 |
 | Day 7 | LangChain RAG组件（自动切块+FAISS）、向量库持久化 |
 | Day 8 | 宏观经济分析助手、工具扩展（查汇率+网络搜索） |
+| Day 9 | Git与GitHub |
+| Day 10 | MCP入门（自己写MCP服务器） |
+| Day 11 | Skill入门 |
+| Day 12 | 连接别人的MCP服务器 |
+| Day 13 | 同时连接多个MCP服务器 |
+| Day 14 | 深入研究Playwright MCP（25个工具） |
+| Day 15 | LangChain框架深入（Chain、RAG、Agent、完整版Agent） |
+| Day 16 | RAG高级技巧（分块、重排序、混合搜索、多查询、评测） |
+| Day 17 | Function Calling深入（原理、工具描述、多工具、并行、出错处理） |
 
 ## 功能
 
@@ -34,6 +43,9 @@
 - ✅ 向量库持久化（FAISS本地存储）
 - ✅ 聊天前端页面（账号切换、历史记录）
 - ✅ 公网部署（cpolar）
+- ✅ LangChain框架（Chain流水线、RAG、Agent）
+- ✅ RAG高级技巧（分块、重排序、混合搜索、多查询、评测）
+- ✅ Function Calling深入（原理、工具描述、多工具、并行、出错处理）
 
 ## 怎么运行？
 
@@ -74,5 +86,15 @@ ai-learning/
 ├── day5/          # 持久化记忆与LangChain入门
 ├── day6/          # 上传文档建RAG与部署公网
 ├── day7/          # LangChain RAG组件与持久化
-└── day8/          # 宏观经济分析助手与工具扩展
+├── day8/          # 宏观经济分析助手与工具扩展
+├── day9/          # Git与GitHub
+├── day10/         # MCP入门
+├── day11/         # Skill入门
+├── day12/         # 连接别人的MCP服务器
+├── day13/         # 同时连接多个MCP服务器
+├── day14/         # 深入研究Playwright MCP
+├── day15/         # LangChain框架深入
+├── day16/         # RAG高级技巧
+├── day17/         # Function Calling深入
+└── 学习计划.md    # 完整学习计划（Day 1~25）
 ```
