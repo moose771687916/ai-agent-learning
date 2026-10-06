@@ -2,14 +2,14 @@
 
 ## 项目介绍
 
-这是一个从零开始学习AI Agent开发的项目，18天时间从零到深入掌握AI Agent开发的核心技术。
+这是一个从零开始学习AI Agent开发的项目，19天时间从零到深入掌握AI Agent开发的核心技术。
 
 ## 技术栈
 
 - **大模型**：智谱GLM-4-Flash（对话）+ 硅基流动BGE-M3（向量）+ BGE-Reranker（重排序）
 - **框架**：LangChain（Chain、RAG、Agent）+ LangGraph（多Agent协作）+ Function Calling
 - **后端**：FastAPI
-- **向量数据库**：FAISS
+- **向量数据库**：FAISS + Milvus（Lite/Server）
 - **部署**：cpolar内网穿透
 
 ## 学习内容
@@ -34,6 +34,7 @@
 | Day 16 | RAG高级技巧（分块、重排序、混合搜索、多查询、评测） |
 | Day 17 | Function Calling深入（原理、工具描述、多工具、并行、出错处理） |
 | Day 18 | LangGraph多Agent协作（基础、条件边、主从、人在回路、循环、并行） |
+| Day 19 | 向量数据库深入（FAISS索引对比、Milvus Lite/Server、完整6环节RAG、Docker部署真Milvus） |
 
 ## 功能
 
@@ -48,6 +49,7 @@
 - ✅ RAG高级技巧（分块、重排序、混合搜索、多查询、评测）
 - ✅ Function Calling深入（原理、工具描述、多工具、并行、出错处理）
 - ✅ LangGraph多Agent协作（条件边、主从、人在回路、循环、并行）
+- ✅ 向量数据库深入（FAISS三种索引对比、Milvus Lite/Server、完整6环节RAG、Docker部署真Milvus）
 
 ## 怎么运行？
 
@@ -99,5 +101,6 @@ ai-learning/
 ├── day16/         # RAG高级技巧
 ├── day17/         # Function Calling深入
 ├── day18/         # LangGraph多Agent协作
+├── day19/         # 向量数据库深入
 └── 学习计划.md    # 完整学习计划（Day 1~25）
 ```

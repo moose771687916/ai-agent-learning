@@ -9,3 +9,9 @@ __pycache__/
 faiss_index/
 sessions.json
 vector_store.json
+
+# Milvus Lite本地数据库（数据不上传！）
+*.db
+
+# Milvus Server数据（Docker挂载卷！）
+volumes/
