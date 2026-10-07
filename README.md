@@ -2,11 +2,11 @@
 
 ## 项目介绍
 
-这是一个从零开始学习AI Agent开发的项目，21天时间从零到深入掌握AI Agent开发的核心技术。
+这是一个从零开始学习AI Agent开发的项目，22天时间从零到深入掌握AI Agent开发的核心技术。
 
 ## 技术栈
 
-- **大模型**：智谱GLM-4-Flash（对话）+ 硅基流动BGE-M3（向量）+ BGE-Reranker（重排序）
+- **大模型**：智谱GLM-4-Flash（对话）+ GLM-4V-Flash（多模态看图）+ 硅基流动BGE-M3（向量）+ SenseVoiceSmall（ASR听声）+ CosyVoice2（TTS说话）
 - **框架**：LangChain（Chain、RAG、Agent）+ LangGraph（多Agent协作）+ Function Calling
 - **后端**：FastAPI
 - **向量数据库**：FAISS + Milvus（Lite/Server/标准三件套）
@@ -37,6 +37,7 @@
 | Day 19 | 向量数据库深入（FAISS索引对比、Milvus Lite/Server、完整6环节RAG、Docker部署真Milvus） |
 | Day 20 | 部署到生产环境（Docker打包Agent、镜像/容器/Dockerfile、Compose多容器编排、Milvus标准三件套） |
 | Day 21 | 评测Agent效果（LLM裁判、工具调用准确率、RAG命中率、企业评测流程） |
+| Day 22 | 多模态Agent（看图glm-4v、听声ASR、说话TTS、语音Agent听想说、多模态RAG图生文、整合版三场景） |
 
 ## 功能
 
@@ -54,6 +55,7 @@
 - ✅ 向量数据库深入（FAISS三种索引对比、Milvus Lite/Server、完整6环节RAG、Docker部署真Milvus）
 - ✅ 部署到生产环境（Docker镜像/容器/Dockerfile、Compose三件套、Milvus标准部署排障）
 - ✅ 评测Agent效果（对话质量LLM裁判、工具调用准确率、RAG命中率、BFCL）
+- ✅ 多模态Agent（看图glm-4v、听声ASR、说话TTS、完整语音Agent听想说闭环、多模态RAG图生文检索、整合版三场景）
 
 ## 怎么运行？
 
@@ -108,5 +110,6 @@ ai-learning/
 ├── day19/         # 向量数据库深入
 ├── day20/         # 部署到生产环境（Docker/Compose/三件套）
 ├── day21/         # 评测Agent效果
+├── day22/         # 多模态Agent（看图/听声/说话/多模态RAG）
 └── 学习计划.md    # 完整学习计划（Day 1~25）
 ```
