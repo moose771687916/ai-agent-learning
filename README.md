@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-这是一个从零开始学习AI Agent开发的项目，20天时间从零到深入掌握AI Agent开发的核心技术。
+这是一个从零开始学习AI Agent开发的项目，21天时间从零到深入掌握AI Agent开发的核心技术。
 
 ## 技术栈
 
@@ -36,6 +36,7 @@
 | Day 18 | LangGraph多Agent协作（基础、条件边、主从、人在回路、循环、并行） |
 | Day 19 | 向量数据库深入（FAISS索引对比、Milvus Lite/Server、完整6环节RAG、Docker部署真Milvus） |
 | Day 20 | 部署到生产环境（Docker打包Agent、镜像/容器/Dockerfile、Compose多容器编排、Milvus标准三件套） |
+| Day 21 | 评测Agent效果（LLM裁判、工具调用准确率、RAG命中率、企业评测流程） |
 
 ## 功能
 
@@ -52,6 +53,7 @@
 - ✅ LangGraph多Agent协作（条件边、主从、人在回路、循环、并行）
 - ✅ 向量数据库深入（FAISS三种索引对比、Milvus Lite/Server、完整6环节RAG、Docker部署真Milvus）
 - ✅ 部署到生产环境（Docker镜像/容器/Dockerfile、Compose三件套、Milvus标准部署排障）
+- ✅ 评测Agent效果（对话质量LLM裁判、工具调用准确率、RAG命中率、BFCL）
 
 ## 怎么运行？
 
@@ -105,5 +107,6 @@ ai-learning/
 ├── day18/         # LangGraph多Agent协作
 ├── day19/         # 向量数据库深入
 ├── day20/         # 部署到生产环境（Docker/Compose/三件套）
+├── day21/         # 评测Agent效果
 └── 学习计划.md    # 完整学习计划（Day 1~25）
 ```
