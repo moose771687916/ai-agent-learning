@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-这是一个从零开始学习AI Agent开发的项目，22天时间从零到深入掌握AI Agent开发的核心技术。
+这是一个从零开始学习AI Agent开发的项目，23天时间从零到深入掌握AI Agent开发的核心技术。
 
 ## 技术栈
 
@@ -38,6 +38,7 @@
 | Day 20 | 部署到生产环境（Docker打包Agent、镜像/容器/Dockerfile、Compose多容器编排、Milvus标准三件套） |
 | Day 21 | 评测Agent效果（LLM裁判、工具调用准确率、RAG命中率、企业评测流程） |
 | Day 22 | 多模态Agent（看图glm-4v、听声ASR、说话TTS、语音Agent听想说、多模态RAG图生文、整合版三场景） |
+| Day 23 | 车载Agent（车载手册RAG内存版+FAISS持久化版、车载语音助手听想说+车控天气工具） |
 
 ## 功能
 
@@ -56,6 +57,7 @@
 - ✅ 部署到生产环境（Docker镜像/容器/Dockerfile、Compose三件套、Milvus标准部署排障）
 - ✅ 评测Agent效果（对话质量LLM裁判、工具调用准确率、RAG命中率、BFCL）
 - ✅ 多模态Agent（看图glm-4v、听声ASR、说话TTS、完整语音Agent听想说闭环、多模态RAG图生文检索、整合版三场景）
+- ✅ 车载Agent（车载手册RAG内存版+FAISS持久化版、车载语音助手听→想→调工具→说、车控/天气工具）
 
 ## 怎么运行？
 
@@ -111,5 +113,6 @@ ai-learning/
 ├── day20/         # 部署到生产环境（Docker/Compose/三件套）
 ├── day21/         # 评测Agent效果
 ├── day22/         # 多模态Agent（看图/听声/说话/多模态RAG）
+├── day23/         # 车载Agent（手册RAG持久化/语音助手+车控工具）
 └── 学习计划.md    # 完整学习计划（Day 1~25）
 ```
