@@ -15,3 +15,6 @@ vector_store.json
 
 # Milvus Server数据（Docker挂载卷！）
 volumes/
+
+# FAISS索引文件（生成的数据库！代码能重建！）
+*.faiss
